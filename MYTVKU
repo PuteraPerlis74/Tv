@@ -1104,11 +1104,13 @@ http://51.79.251.57:2082/live/J1528/Aa1234/146.m3u8
 http://youtube.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ALTV_Logo.png/150px-ALTV_Logo.png" group-title="THAILAND",ALTV 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 https://cdn6.goprimetime.info/feed/202205171929/ALTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ALTV_Logo.png/150px-ALTV_Logo.png" group-title="THAILAND",ALTV 4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg/revision/latest/scale-to-width-down/250?cb=20180110051919" group-title="THAILAND",AMARIN 34 HD
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-https://cdn6.goprimetime.info/feed/202205171329/chamarin/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 https://cdn6.goprimetime.info/feed/202205171929/chamarin/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg/revision/latest/scale-to-width-down/250?cb=20180110051919" group-title="THAILAND",AMARIN 34 HD
 https://freelive2.inwstream.com:1936/freelive-edge/amarinhd/chunks.m3u8
@@ -1117,24 +1119,19 @@ https://freelive2.inwstream.com:1936/freelive-edge/amarinhd/chunks.m3u8
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/557/835/png-clipart-thailand-channel-7-royal-thai-army-radio-and-television-channel-5-7-miscellaneous-television-thumbnail.png" group-title="THAILAND",BBTV CHANNEL 7 HD
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-https://cdn6.goprimetime.info/feed/202205171329/ch7hd/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 https://cdn6.goprimetime.info/feed/202205171929/ch7hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/557/835/png-clipart-thailand-channel-7-royal-thai-army-radio-and-television-channel-5-7-miscellaneous-television-thumbnail.png" group-title="THAILAND",BBTV CHANNEL 7 HD
 https://freelive2.inwstream.com:1936/freelive-edge/7hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ch3HDLogo.png/640px-Ch3HDLogo.png" group-title="THAILAND",CHANNEL 3 HD
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-https://cdn6.goprimetime.info/feed/202205171329/ch3hd/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 https://cdn6.goprimetime.info/feed/202205171929/ch3hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ch3HDLogo.png/640px-Ch3HDLogo.png" group-title="THAILAND",CHANNEL 3 HD
 https://freelive2.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://f.ptcdn.info/601/063/000/pqcvhsxk7PuKUZbFKv4-o.png" group-title="THAILAND",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRJGtXOtEpu5tvW_w7sAQZILQg-sgyJP4tm560xjQ=s900-c-k-c0x00ffffff-no-rj" group-title="THAILAND",DO CHANNEL (Movies)
-https://edge6a.v2h-cdn.com/appt3/DoChannel.stream_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/12/ueNbxy.jpg" group-title="THAILAND",FWMOV (Movies)
 https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
@@ -1143,8 +1140,7 @@ https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3
 https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="THAILAND",GMM 25
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-https://cdn6.goprimetime.info/feed/202205171329/chgmm/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 https://cdn6.goprimetime.info/feed/202205171929/chgmm3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="THAILAND",GMM 25
 https://freelive2.inwstream.com:1936/freelive-edge/gmmchannel/chunks.m3u8
@@ -1153,12 +1149,10 @@ https://freelive2.inwstream.com:1936/freelive-edge/gmmchannel/chunks.m3u8
 https://live1.thaitvstream.com/play/gochannel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Jkn18.png" group-title="THAILAND",JKN 18
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-https://cdn6.goprimetime.info/feed/202205171329/newtv/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 https://cdn6.goprimetime.info/feed/202205171929/newtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mcot-hd-logo-D6F286C4DD-seeklogo.com.png" group-title="THAILAND",MCOT HD
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-https://cdn6.goprimetime.info/feed/202205171329/chmcothd/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 https://cdn6.goprimetime.info/feed/202205171929/chmcothd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mcot-hd-logo-D6F286C4DD-seeklogo.com.png" group-title="THAILAND",MCOT HD
 https://freelive2.inwstream.com:1936/freelive-edge/mcothd/chunks.m3u8
@@ -1167,56 +1161,50 @@ https://freelive2.inwstream.com:1936/freelive-edge/mcothd/chunks.m3u8
 https://tc-live1.sanook.com/live/22302_ch9.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="THAILAND",MONO 29
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-https://cdn6.goprimetime.info/feed/202205171329/chmono29/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 https://cdn6.goprimetime.info/feed/202205171929/chmono29/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="THAILAND",MONO 29
 https://freelive2.inwstream.com:1936/freelive-edge/mono29/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="THAILAND",MONO 29
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nation_TV_Logo.svg/1200px-Nation_TV_Logo.svg.png" group-title="THAILAND",NATION TV
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-https://cdn6.goprimetime.info/feed/202205171329/chnation/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 https://cdn6.goprimetime.info/feed/202205171929/chnation/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nation_TV_Logo.svg/1200px-Nation_TV_Logo.svg.png" group-title="THAILAND",NATION TV
 https://freelive2.inwstream.com:1936/freelive-edge/nation/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/NBT_Thailand.svg/revision/latest/scale-to-width-down/250?cb=20190902011516" group-title="THAILAND",NBT 2
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-https://cdn6.goprimetime.info/feed/202205171329/chnbt/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 https://cdn6.goprimetime.info/feed/202205171929/chnbt3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/NBT_Thailand.svg/revision/latest/scale-to-width-down/250?cb=20190902011516" group-title="THAILAND",NBT 2
 https://freelive2.inwstream.com:1936/freelive-edge/nbt/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/One_31_Logo.png/220px-One_31_Logo.png" group-title="THAILAND",ONE 31
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-https://cdn6.goprimetime.info/feed/202205171329/chonehd/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 https://cdn6.goprimetime.info/feed/202205171929/chonehd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/One_31_Logo.png/220px-One_31_Logo.png" group-title="THAILAND",ONE 31
 https://freelive2.inwstream.com:1936/freelive-edge/onehd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg/revision/latest/scale-to-width-down/200?cb=20190815051944" group-title="THAILAND",PPTV  36 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg/revision/latest/scale-to-width-down/200?cb=20190815051944" group-title="THAILAND",PPTV  36 HD
 https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Ch_8_2016_flat.svg/revision/latest/scale-to-width-down/250?cb=20190722060823" group-title="THAILAND",THAI CHANNEL 8
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-https://cdn6.goprimetime.info/feed/202205171329/ch8/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 https://cdn6.goprimetime.info/feed/202205171929/ch8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Ch_8_2016_flat.svg/revision/latest/scale-to-width-down/250?cb=20190722060823" group-title="THAILAND",THAI CHANNEL 8
 https://freelive2.inwstream.com:1936/freelive-edge/ch8/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thai_PBS_2015.svg/1200px-Thai_PBS_2015.svg.png" group-title="THAILAND",THAI PBS 3
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-https://cdn6.goprimetime.info/feed/202205171329/chthaipbs/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 https://cdn6.goprimetime.info/feed/202205171929/chthaipbs3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thai_PBS_2015.svg/1200px-Thai_PBS_2015.svg.png" group-title="THAILAND",THAI PBS 3
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png" group-title="THAILAND",THAI TV 5 HD1
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-https://cdn6.goprimetime.info/feed/202205171329/ch5hd/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 https://cdn6.goprimetime.info/feed/202205171929/ch5hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png" group-title="THAILAND",THAI TV 5 HD1
 https://freelive2.inwstream.com:1936/freelive-edge/5hd/chunks.m3u8
@@ -1225,36 +1213,28 @@ https://freelive2.inwstream.com:1936/freelive-edge/5hd/chunks.m3u8
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Trtvbug2017.png/revision/latest/scale-to-width-down/250?cb=20170804120155" group-title="THAILAND",THAIRATH TV 32
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-https://cdn6.goprimetime.info/feed/202205171329/chthairath/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 https://cdn6.goprimetime.info/feed/202205171929/chthairath/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Trtvbug2017.png/revision/latest/scale-to-width-down/250?cb=20170804120155" group-title="THAILAND",THAIRATH TV 32
 https://freelive2.inwstream.com:1936/freelive-edge/thairahttvhd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Tnn162020.jpg" group-title="THAILAND",TNN 16
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-https://cdn6.goprimetime.info/feed/202205171329/chtnn/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 https://cdn6.goprimetime.info/feed/202205171929/chtnn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Tnn162020.jpg" group-title="THAILAND",TNN 16
 http://freelive.inwstream.com:1935/freelive-edge/tnn24/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRugbW9yD2_1aivZvh6xsYn8G-tyq5-QBDTKcGw=s900-c-k-c0x00ffffff-no-rj" group-title="THAILAND",TOPLINE CHANNEL
-https://cdn-th-vip.livestreaming.in.th/ToplineChannel/ToplineChannel/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1a/ee/fd/1aeefd2da3dae54a178aa016d3d3ad42.jpg" group-title="THAILAND",TOP NEWS
 https://live.topnews.co.th/hls/topnews_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/True4U4.png" group-title="THAILAND",TRUE4U
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-https://cdn6.goprimetime.info/feed/202205171329/202105171329/chtrue4u/index.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 https://cdn6.goprimetime.info/feed/202205171929/chtrue4u3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/white-channel-9194.webp" group-title="THAILAND",WHITE CHANNEL 28
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Workpoint-logo.png/revision/latest/scale-to-width-down/2000?cb=20170508090614" group-title="THAILAND",WORKPOINT 23
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-https://cdn6.goprimetime.info/feed/202205171329/chworkpoint/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://as1.ftcdn.net/jpg/01/72/36/70/500_F_172367047_RvnAElKZqOzuGbExtKwAVpmCOwGAqiq7.jpg"tvg-name=",DOCUMENTARY
 http://youtube.com
