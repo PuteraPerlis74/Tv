@@ -197,10 +197,10 @@ http://51.79.251.57:2082/live/J1528/Aa1234/30.m3u8
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
 #EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="MALAYSIA",ASTRO CITRA
-https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
+http://streamz.us:2082/live/J1528/Aa1234/27.m3u8
 
 #EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="MALAYSIA",ASTRO CITRA
-http://51.79.251.57:2082/live/J1528/Aa1234/27.m3u8
+http://51.79.251.57:2082/live/J1528/Aa1234/28.m3u8
 
 #EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="MALAYSIA",ASTRO CITRA
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
