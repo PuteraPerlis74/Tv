@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=",https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz,https://byrl.me/Sarikata,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz" url="http://youtube.com"#EXTINF:-1 tvg-id="000" tvg-name="INTRO"  group-title="MY EPG",REFRESH YOUR FILE
+#EXTM3U url-tvg="https://bit.ly/3itZsSm, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz, https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz, https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/USA/tv.com.channels.xml, https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz, https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz" refresh="3600"
 
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/f-zQdGn5dAUEybjbCJ94QTfabrzijJBNcADcaWn5dCoA3isCWrnN7-Pj0C73wSCbmHQ=w300" tvg-name=",PUTERA PERLIS MULTIMEDIA
 http://youtube.com
@@ -1769,19 +1769,19 @@ http://streamz.us:2082/live/J1528/Aa1234/1011.m3u8
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png" group-title="SPORTS",BT SPORT 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
-https://webui.vhls.ru.com/ddy5/premium31/tracks-v1a1/mono.m3u8
+https://webudi.openhd.lol/lb/premium31/index.m3u8
 https://webui.vhls.ru.com/lb/premium31/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1540.1647385004.png" group-title="SPORTS",BT SPORT 2
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1647385004/1540.png" group-title="SPORTS",BT SPORT 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
-https://webui.vhls.ru.com/ddy5/premium32/tracks-v1a1/mono.m3u8
+https://webudi.openhd.lol/lb/premium32/index.m3u8
 https://webui.vhls.ru.com/lb/premium32/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1647385037/5712.png" group-title="SPORTS",BT SPORT 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
-https://webui.vhls.ru.com/ddy5/premium33/tracks-v1a1/mono.m3u8
+https://webudi.openhd.lol/lb/premium33/index.m3u8
 https://webui.vhls.ru.com/lb/premium33/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Champions_TV_1_HD_%282021%29.png" group-title="SPORTS",CHAMPIONS TV 1
@@ -1846,29 +1846,26 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 #EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsArena_201708/sky%20sports%20arena.png" group-title="SPORTS",SKY SPORTS ARENA
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
-https://webui.vhls.ru.com/ddy4/premium36/tracks-v1a1/mono.m3u8
+https://webudi.openhd.lol/lb/premium36/index.m3u8
 https://webui.vhls.ru.com/lb/premium36/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://archive.org/services/img/SkySportsFootball_201708" group-title="SPORTS",SKY SPORTS FOOTBALL
+#EXTINF:-1 tvg-logo="https://www.phonesreview.co.uk/wp-content/phoneimages/Sky-Sports-Football-app.jpg" group-title="SPORTS",SKY SPORTS FOOTBALL
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
-https://webui.vhls.ru.com/ddy5/premium35/tracks-v1a1/mono.m3u8
+https://webudi.openhd.lol/lb/premium35/index.m3u8
 https://webui.vhls.ru.com/lb/premium35/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="SPORTS",SKY SPORTS MAIN EVENT
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
-https://webui.vhls.ru.com/ddy5/premium38/tracks-v1a1/mono.m3u8
+https://webudi.openhd.lol/lb/premium38/index.m3u8
 https://webui.vhls.ru.com/lb/premium38/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="SPORTS",SKY SPORTS PREMIERE LEAGUE
+#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
-https://webui.vhls.ru.com/ddy5/premium130/tracks-v1a1/mono.m3u8
+https://webudi.openhd.lol/lb/premium130/index.m3u8
 https://webui.vhls.ru.com/lb/premium130/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="SPORTS",SKY SPORTS PREMIERE LEAGUE
-http://streamz.us:2082/live/J1528/Aa1234/3370.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
