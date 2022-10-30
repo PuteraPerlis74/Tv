@@ -129,6 +129,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 http://streamz.us:2082/live/J1528/Aa1234/16.m3u8
 
 #EXTINF:-1 tvg-id="502" tvg-name="BERNAMA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="MALAYSIA",BERNAMA
+https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
+
+#EXTINF:-1 tvg-id="502" tvg-name="BERNAMA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="MALAYSIA",BERNAMA
 http://streamz.us:2082/live/J1528/Aa1234/48.m3u8
 
 #EXTINF:-1 tvg-id="RTMK04" tvg-name="BERITA RTM" tvg-logo="https://www.rtm.gov.my/images/Pemasaran/tv/ikontv/beritartm.jpg" group-title="MALAYSIA",BERITA RTM
@@ -195,6 +198,9 @@ http://streamz.us:2082/live/J1528/Aa1234/30.m3u8
 
 #EXTINF:-1 tvg-id="501" tvg-name="ASTRO AWANI" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501_300.png" group-title="MALAYSIA",ASTRO AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+
+#EXTINF:-1 tvg-id="501" tvg-name="ASTRO AWANI" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501_300.png" group-title="MALAYSIA",ASTRO AWANI
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1667111527/ei/B8ZdY80uxprzBM_bhqAL/ip/52.188.13.149/id/zLu0wfp6bgw.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr4---sn-p5qddn7k.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/hX/mm/44/mn/sn-p5qddn7k/ms/lva/mv/u/mvi/4/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1667089555/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgfyWKyutvSFOJ-gtRtXGscWjKKUf4d8k4GGKHFMI_PZECIDzvGrDBrDCd7lWMh0sSdID3VDBSgRpgW9cbyWurLLt1/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgIE5ic9LugHXtyzAHqlfntrqsLZjHl0Np0rJD2cOhbL8CIBn5xKr63u7u_PffgFalhdCqhD8i8xFZrYtCIXUb4huM/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="MALAYSIA",ASTRO CITRA
 http://streamz.us:2082/live/J1528/Aa1234/27.m3u8
