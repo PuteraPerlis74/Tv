@@ -39,6 +39,13 @@ https://webudi.openhd.lol/lb/premium298/index.m3u8|ExoPlayerLib/2.13.2=&referer=
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium299/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/417px-2022_FIFA_World_Cup.svg.png" group-title="WORLD CUP⚽",WORLD CUP 1
+https://cdn.raino.xyz/hls/stream1.m3u8|Referer=https://bdnewszh.com/
+
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/417px-2022_FIFA_World_Cup.svg.png" group-title="WORLD CUP⚽",WORLD CUP 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-SjbZogdIKeY/VO50H26hrrI/AAAAAAAAG5E/WVzUBt8PH70/s1600/MALAYSIA%2BTV.jpg"tvg-name=",MALAYSIA🇲🇾
 http://youtube.com
 
