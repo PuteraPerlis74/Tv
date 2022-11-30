@@ -37,6 +37,24 @@ https://webudi.openhd.lol/lb/premium298/index.m3u8|ExoPlayerLib/2.13.2=&referer=
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium299/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://www.clipartmax.com/png/full/233-2332507_fox-sports-fs1-logo-white.png" group-title="WORLD CUP⚽",FS1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://wayforward.xyz:25461/BF1BOX/5kUZnw26qs4F/234954
+
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/640px-TSN1.svg.png" group-title="WORLD CUP⚽",TSN 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://wayforward.xyz:25461/BF1BOX/5kUZnw26qs4F/53805
+
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://img.favpng.com/18/5/2/logo-tyc-sports-brand-trademark-png-favpng-rQvAXe2sEfkjKNSSBBH8FZ77d.jpg" group-title="WORLD CUP⚽",TYC SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+
 #EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/417px-2022_FIFA_World_Cup.svg.png" group-title="WORLD CUP⚽",WORLD CUP 1
 https://cdn.raino.xyz/hls/stream1.m3u8|Referer=https://bdnewszh.com/
 
@@ -269,9 +287,12 @@ https://stream.zeehanzgadget.com/awani
 https://stream.zeehanzgadget.com/citra
 
 #EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Astro_Citra.png/220px-Astro_Citra.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA
+http://51.81.208.129:35461/80203091402/213445/6608
+
+EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Astro_Citra.png/220px-Astro_Citra.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 
-#EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Astro_Citra.png/220px-Astro_Citra.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA
+EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Astro_Citra.png/220px-Astro_Citra.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 
 #EXTINF:-1 tvg-id="333" tvg-name="ASTRO HUA HEE DAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Astro_HHD.png/220px-Astro_HHD.png" group-title="MALAYSIA🇲🇾",ASTRO HUA HEE DAI
@@ -320,6 +341,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png",Astro Ria HD
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
+KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
+#EXTINF:-1 tvg-name="ASTRO RIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
+
 #EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
 https://stream.zeehanzgadget.com/ria
 
@@ -335,11 +361,19 @@ https://4fl0.short.gy/FzTv/sensasi.ts
 #EXTINF:-1 tvg-id="307" tvg-name="ASTRO SHUANG XING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Astro_SHX.png/220px-Astro_SHX.png" group-title="MALAYSIA🇲🇾",ASTRO SHUANG XING
 https://stream.zeehanzgadget.com/shuangxing
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2309
+#EXTINF:-1 tvg-id="201" tvg-name="ASTRO VAANAVIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png" group-title="MALAYSIA🇲🇾",ASTRO VAANAVIL
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
+
 #EXTINF:-1 tvg-id="201" tvg-name="ASTRO VAANAVIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png" group-title="MALAYSIA🇲🇾",ASTRO VAANAVIL
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
 #EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA
 https://stream.zeehanzgadget.com/warna
+
+#EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA
+http://51.81.208.129:35461/80203091402/213445/5075
 
 EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA
 http://51.79.82.208:16010
@@ -350,7 +384,12 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
 EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 
-#EXTINF:-1 tvg-id="304" tvg-name="ASTRO XIAO TAI YANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Astro_XTY.png/220px-Astro_XTY.png" group-title="MALAYSIA🇲🇾",ASTRO XIAO TAI YANG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2711
+#EXTINF:-1 tvg-name="ASTRO XIAO TAI YANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Astro_XTY.png/220px-Astro_XTY.png" group-title="MALAYSIA🇲🇾",ASTRO XIAO TAI YANG
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
+
+#EXTINF:-1 tvg-name="ASTRO XIAO TAI YANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Astro_XTY.png/220px-Astro_XTY.png" group-title="MALAYSIA🇲🇾",ASTRO XIAO TAI YANG
 https://stream.zeehanzgadget.com/xiaotaiyang
 
 #EXTINF:-1 tvg-id="120" tvg-name="Go Shop GAAYA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/120_300.png" group-title="MALAYSIA🇲🇾",Go Shop 150
@@ -1459,12 +1498,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2303
-#EXTINF:-1 tvg-id="701" tvg-name="AXN" tvg-logo="https://logoeps.com/wp-content/uploads/2012/10/axn-vector-logo.png" group-title="MOVIES",AXN HD
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://logoeps.com/wp-content/uploads/2012/10/axn-vector-logo.png" group-title="MOVIES",AXN HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="701" tvg-name="AXN" tvg-logo="https://logoeps.com/wp-content/uploads/2012/10/axn-vector-logo.png" group-title="MOVIES",AXN HD
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://logoeps.com/wp-content/uploads/2012/10/axn-vector-logo.png" group-title="MOVIES",AXN HD
 https://av-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1521,12 +1560,12 @@ https://av-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2611
-#EXTINF:-1 tvg-id="116" tvg-name="COLORS HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="MOVIES",COLORS HINDI
+#EXTINF:-1 tvg-name="COLORS HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="MOVIES",COLORS HINDI
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2101
-#EXTINF:-1 tvg-id="222" tvg-name="COLORS TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="MOVIES",COLORS TAMIL
+#EXTINF:-1 tvg-name="COLORS TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="MOVIES",COLORS TAMIL
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="MOVIES",DOUYU TV MOVIES
