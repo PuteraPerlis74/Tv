@@ -12,13 +12,10 @@ http://youtube.com
 http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
 #EXTINF:-1 tvg-id="101" tvg-name="TV1" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" group-title="MALAYSIA🇲🇾",TV1
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="101" tvg-name="TV1" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" group-title="MALAYSIA🇲🇾",TV1
 https://stream.zeehanzgadget.com/tv1
-
-#EXTINF:-1 tvg-id="101" tvg-name="TV1" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" group-title="MALAYSIA🇲🇾",TV1
-http://51.79.82.208:16001
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5027
@@ -26,13 +23,10 @@ http://51.79.82.208:16001
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
 #EXTINF:-1 tvg-id="102" tvg-name="TV2" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="MALAYSIA🇲🇾",TV2
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="102" tvg-name="TV2" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="MALAYSIA🇲🇾",TV2
 https://stream.zeehanzgadget.com/tv2
-
-#EXTINF:-1 tvg-id="102" tvg-name="TV2" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="MALAYSIA🇲🇾",TV2
-http://51.79.82.208:16002
 
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_300.png" group-title="MALAYSIA🇲🇾",TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -40,15 +34,18 @@ http://51.79.82.208:16002
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_300.png" group-title="MALAYSIA🇲🇾",TV3
-https://stream.zeehanzgadget.com/tv3
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_300.png" group-title="MALAYSIA🇲🇾",TV3
 https://aqfadtv.xyz/live/tv3/index.mpd
 
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_300.png" group-title="MALAYSIA🇲🇾",TV3
+https://stream.zeehanzgadget.com/tv3
+
 #EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-logo="https://www.lowyat.net/wp-content/uploads/2021/03/rtm-tv6-test-transmission-01.jpg" group-title="MALAYSIA🇲🇾",TV6
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-logo="https://www.lowyat.net/wp-content/uploads/2021/03/rtm-tv6-test-transmission-01.jpg" group-title="MALAYSIA🇲🇾",TV6
 https://stream.zeehanzgadget.com/tv6
@@ -58,6 +55,9 @@ https://stream.zeehanzgadget.com/tv6
 #EXTINF:-1 tvg-id="147" tvg-name="NTV7" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147_300.png" group-title="MALAYSIA🇲🇾",DIDIKTV KPM
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 
+#EXTINF:-1 tvg-id="147" tvg-name="NTV7" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147_300.png" group-title="MALAYSIA🇲🇾",DIDIKTV KPM
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
 #EXTINF:-1 tvg-id="147" tvg-name="NTV7" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147_300.png" group-title="MALAYSIA🇲🇾",DIDIKTV KPM
@@ -66,13 +66,13 @@ https://aqfadtv.xyz/live/didiktvkpm/index.mpd
 #EXTINF:-1 tvg-id="147" tvg-name="NTV7" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147_300.png" group-title="MALAYSIA🇲🇾",DIDIKTV KPM
 https://stream.zeehanzgadget.com/didiktv
 
-#EXTINF:-1 tvg-id="147" tvg-name="NTV7" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147_300.png" group-title="MALAYSIA🇲🇾",DIDIKTV KPM
-http://51.79.82.208:16004
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/ccd0b402-bff3-405c-90e9-d5e7751bcb38
 #EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148_300.png" group-title="MALAYSIA🇲🇾",8TV
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
+
+#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148_300.png" group-title="MALAYSIA🇲🇾",8TV
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
@@ -82,13 +82,13 @@ https://aqfadtv.xyz/live/8tv/index.mpd
 #EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148_300.png" group-title="MALAYSIA🇲🇾",8TV
 https://stream.zeehanzgadget.com/8tv
 
-#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148_300.png" group-title="MALAYSIA🇲🇾",8TV
-http://51.79.82.208:16005
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/ffd0e2a2-f9e4-4159-ac8a-c0dd385def5e
 #EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149_300.png" group-title="MALAYSIA🇲🇾",TV9
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+
+#EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149_300.png" group-title="MALAYSIA🇲🇾",TV9
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
@@ -97,9 +97,6 @@ https://aqfadtv.xyz/live/tv9/index.mpd
 
 #EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149_300.png" group-title="MALAYSIA🇲🇾",TV9
 https://stream.zeehanzgadget.com/tv9
-
-#EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149_300.png" group-title="MALAYSIA🇲🇾",TV9
-http://51.79.82.208:16006
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
@@ -126,7 +123,7 @@ https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 https://stream.zeehanzgadget.com/bernama
 
 #EXTINF:-1 tvg-id="RTMK04" tvg-name="BERITA RTM" tvg-logo="https://www.rtm.gov.my/images/Pemasaran/tv/ikontv/beritartm.jpg" group-title="MALAYSIA🇲🇾",BERITA RTM
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="RTMK04" tvg-name="BERITA RTM" tvg-logo="https://www.rtm.gov.my/images/Pemasaran/tv/ikontv/beritartm.jpg" group-title="MALAYSIA🇲🇾",BERITA RTM
 https://stream.zeehanzgadget.com/beritartm
@@ -135,6 +132,9 @@ https://stream.zeehanzgadget.com/beritartm
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Degup.png" group-title="MALAYSIA🇲🇾",DEGUP
 https://aqfadtv.xyz/live/unifitv/degup/index.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Drama_Sangat_%28TV_on-screen%29.png" group-title="MALAYSIA🇲🇾",DRAMA SANGAT
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Drama_Sangat_%28TV_on-screen%29.png" group-title="MALAYSIA🇲🇾",DRAMA SANGAT
 https://stream.zeehanzgadget.com/dramasangat
@@ -188,7 +188,7 @@ https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/146_300.png" group-title="MALAYSIA🇲🇾",TV OKEY
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/146_300.png" group-title="MALAYSIA🇲🇾",TV OKEY
 https://stream.zeehanzgadget.com/okey
@@ -219,14 +219,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 https://stream.zeehanzgadget.com/awani
 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Astro_Citra.png/220px-Astro_Citra.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA
+EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Astro_Citra.png/220px-Astro_Citra.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA
 http://139.99.96.163:2095/live/User48278/tBw10zkne9/14.ts
 
 #EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Astro_Citra.png/220px-Astro_Citra.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA
-https://stream.zeehanzgadget.com/citra
+http://51.81.208.129:35461/80203091402/213445/6608
 
 #EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Astro_Citra.png/220px-Astro_Citra.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA
-http://51.81.208.129:35461/80203091402/213445/6608
+https://stream.zeehanzgadget.com/citra
 
 EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Astro_Citra.png/220px-Astro_Citra.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
@@ -253,9 +253,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTINF:-1 tvg-id="106" tvg-name="ASTRO OASIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png" group-title="MALAYSIA🇲🇾",ASTRO OASIS
 https://stream.zeehanzgadget.com/oasis
 
-#EXTINF:-1 tvg-id="106" tvg-name="ASTRO OASIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png" group-title="MALAYSIA🇲🇾",ASTRO OASIS
-http://51.79.82.208:16009
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/
 #EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png" group-title="MALAYSIA🇲🇾",ASTRO PRIMA
@@ -263,9 +260,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png" group-title="MALAYSIA🇲🇾",ASTRO PRIMA
 https://stream.zeehanzgadget.com/prima
-
-#EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png" group-title="MALAYSIA🇲🇾",ASTRO PRIMA
-http://51.79.82.208:16008
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/FTvi5XK.png" group-title="MALAYSIA🇲🇾",ASTRO QUAN JIA HD
 https://stream.zeehanzgadget.com/quanjia
@@ -276,11 +270,6 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/As
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png",Astro Ria HD
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 #EXTINF:-1 tvg-name="ASTRO RIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
@@ -289,13 +278,11 @@ EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" tvg-logo="https://upload.wikimedia.o
 https://stream.zeehanzgadget.com/ria
 
 EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
-http://51.79.82.208:16007
-
-EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Sensasi_%283D%29.png/revision/latest/scale-to-width-down/596?cb=20220623141711" group-title="MALAYSIA🇲🇾",ASTRO SENSASI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
 
 #EXTINF:-1 tvg-id="307" tvg-name="ASTRO SHUANG XING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Astro_SHX.png/220px-Astro_SHX.png" group-title="MALAYSIA🇲🇾",ASTRO SHUANG XING
@@ -309,21 +296,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 #EXTINF:-1 tvg-id="201" tvg-name="ASTRO VAANAVIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png" group-title="MALAYSIA🇲🇾",ASTRO VAANAVIL
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 #EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA
-http://line.premiumpowers.net:80/Manuel/1234567/941609
+http://51.81.208.129:35461/80203091402/213445/5075
 
 #EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA
 https://stream.zeehanzgadget.com/warna
 
-#EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA
-http://51.81.208.129:35461/80203091402/213445/5075
-
 EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA
-http://51.79.82.208:16010
-
-#EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
