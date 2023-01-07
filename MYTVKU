@@ -1456,7 +1456,7 @@ https://av-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="LIFESTYLE",MTV LIVE
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/02105729/rock-entertainment-logo-300x300.png" group-title="LIFESTYLE",ROCK ENTERTAIMENT
+#EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/02105729/rock-entertainment-logo-300x300.png" group-title="LIFESTYLE",ROCK ENTERTAINMENT
 http://210.210.155.37/dr9445/h/h16/01.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Rock_Extreme_White_Logo.png" group-title="LIFESTYLE",ROCK EXTREME
