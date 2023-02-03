@@ -150,10 +150,10 @@ https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rtm-parlimen-dewan-negara-my.png" group-title="MALAYSIA🇲🇾",PARLIMEN DEWAN NEGARA
-https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rtm-parlimen-dewan-rakyat-my.png" group-title="MALAYSIA🇲🇾",PARLIMEN DEWAN RAKYAT
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b4596000_slENG.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/pesona/
@@ -202,13 +202,20 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 EXTINF:-1 tvg-id="306" tvg-name="ASTRO AEC" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_aec.png" group-title="MALAYSIA🇲🇾",ASTRO AEC
 https://stream.zeehanzgadget.com/aec
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-aura-my.png" group-title="MALAYSIA🇲🇾",ASTRO AURA
-http://tv365.me:80/live/6689284973/3054054283/191858.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2706
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-aod-my.png" group-title="MALAYSIA🇲🇾",ASTRO AOD 352
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/212
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-aod-my.png" group-title="MALAYSIA🇲🇾",ASTRO AOD 354
+http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/609
-EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-aura-my.png" group-title="MALAYSIA🇲🇾",ASTRO AURA
-https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-aura-my.png" group-title="MALAYSIA🇲🇾",ASTRO AURA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
 #EXTINF:-1 tvg-id="501" tvg-name="ASTRO AWANI" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_awani.png" group-title="MALAYSIA🇲🇾",ASTRO AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
@@ -249,7 +256,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 https://stream.zeehanzgadget.com/iQIYI
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2505
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2505
 #EXTINF:-1 tvg-id="106" tvg-name="ASTRO OASIS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-oasis-my.png" group-title="MALAYSIA🇲🇾",ASTRO OASIS
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
@@ -257,7 +264,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 https://stream.zeehanzgadget.com/oasis
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1000
 #EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-prima-my.png" group-title="MALAYSIA🇲🇾",ASTRO PRIMA
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
@@ -267,21 +274,18 @@ https://stream.zeehanzgadget.com/prima
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_quan_jia_hd_my.png" group-title="MALAYSIA🇲🇾",ASTRO QUAN JIA HD
 https://stream.zeehanzgadget.com/quanjia
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/608
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-rania-my.png" group-title="MALAYSIA🇲🇾",ASTRO RANIA
-https://stream.zeehanzgadget.com/rania
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/608
-EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-rania-my.png" group-title="MALAYSIA🇲🇾",ASTRO RANIA
-https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
+#EXTINF:-1 tvg-name="ASTRO RIA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
 https://stream.zeehanzgadget.com/ria
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
-#EXTINF:-1 tvg-name="ASTRO RIA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8
@@ -303,10 +307,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
 #EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA
-http://51.81.208.129:35461/80203091402/213445/5075
-
-#EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA
 https://stream.zeehanzgadget.com/warna
+
+EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA
+http://51.81.208.129:35461/80203091402/213445/5075
 
 EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
@@ -318,6 +322,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
 
 #EXTINF:-1 tvg-name="ASTRO XIAO TAI YANG" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_xiao_tai_yang.png" group-title="MALAYSIA🇲🇾",ASTRO XIAO TAI YANG
 https://stream.zeehanzgadget.com/xiaotaiyang
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_adithya.png" group-title="MALAYSIA🇲🇾",ADITHYA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/403
@@ -345,6 +354,32 @@ https://agsplayback01.astro.com.my/CH2/master_GOSHOP2.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/400
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/phoenix_cn.png" group-title="MALAYSIA🇲🇾",PHOENIX CHINESE CHANNEL HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/phoenix_infonews.png" group-title="MALAYSIA🇲🇾",PHOENIX INFO NEWS
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-vijay-in.png" group-title="MALAYSIA🇲🇾",STAR VIJAY
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_life.png" group-title="MALAYSIA🇲🇾",ASTRO
+SUN LIFE
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-music-in.png" group-title="MALAYSIA🇲🇾",SUN MUSIC
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_news_in.png" group-title="MALAYSIA🇲🇾",SUN NEWS
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2310
