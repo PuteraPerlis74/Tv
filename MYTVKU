@@ -367,8 +367,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5089
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_life.png" group-title="MALAYSIA🇲🇾",ASTRO
-SUN LIFE
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_life.png" group-title="MALAYSIA🇲🇾",SUN LIFE
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
