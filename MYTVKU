@@ -12,11 +12,7 @@ http://youtube.com
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default.mpd
 
 #EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola2_logo.png" group-title="⚽LIGA MALAYSIA🇲🇾",ASTRO ARENA BOLA 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUYzVNMlUwWWpndFl6aGtNaTAwTjJRekxUbG1PRE10TlRNd09Ea3daV0kyWVRCaiIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODY1NDM3MywiaWF0IjoxNjc4MDUwMzczfQ.CNHE9RhxWdgfzbUTaU4CNs03T2nUCa1VhJDHWBtIovg"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
+#KODIPROP:inputstreamaddon=inputstream.adaptive #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUYzVNMlUwWWpndFl6aGtNaTAwTjJRekxUbG1PRE10TlRNd09Ea3daV0kyWVRCaiIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODY1NDM3MywiaWF0IjoxNjc4MDUwMzczfQ.CNHE9RhxWdgfzbUTaU4CNs03T2nUCa1VhJDHWBtIovg"} #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
 https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-SjbZogdIKeY/VO50H26hrrI/AAAAAAAAG5E/WVzUBt8PH70/s1600/MALAYSIA%2BTV.jpg"tvg-name=",MALAYSIA🇲🇾
@@ -1022,7 +1018,7 @@ https://asrazunifi.ddns.net:8443/live.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="392" tvg-name="KBS World HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kix-hk.png" group-title="KOREA🇰🇷",KIX
-https://av-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2702
@@ -1032,7 +1028,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="393" tvg-name="ONE HD" tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-in.png" group-title="KOREA🇰🇷",ONE HD
-https://av-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1001
@@ -1042,7 +1038,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://bpando.org/wp-content/uploads/tvN-Logo-South-Korea-BPO-1024x683.jpg" group-title="KOREA🇰🇷",TVN HD
-https://av-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406
@@ -1052,7 +1048,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="416" tvg-name="TVN MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="KOREA🇰🇷",TVN MOVIES
-https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/24/14/18/flag-of-thailand-thai-language-national-flag-png-favpng-MQNMypkwBGEHs49D6fnFn6LXm.jpg"tvg-name=",THAILAND🇹🇭
 http://youtube.com
