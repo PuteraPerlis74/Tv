@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://2u0q.short.gy/tvepg"  refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://2u0q.short.gy/tvepg,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml"  refresh="3600"
+
 
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/f-zQdGn5dAUEybjbCJ94QTfabrzijJBNcADcaWn5dCoA3isCWrnN7-Pj0C73wSCbmHQ=w300" tvg-name=",PUTERA PERLIS MULTIMEDIA
 http://youtube.com
@@ -47,15 +48,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/a803270e-0c66-4a76-923c-621778390008
-#EXTINF:-1 tvg-id="147" tvg-name="NTV7" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-7-my.png" group-title="MALAYSIA🇲🇾",DIDIK TV
+#EXTINF:-1 tvg-id="147" tvg-name="DidikTv KPM" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-7-my.png" group-title="MALAYSIA🇲🇾",DidikTv KPM
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 
-#EXTINF:-1 tvg-id="147" tvg-name="NTV7" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-7-my.png" group-title="MALAYSIA🇲🇾",DIDIK TV
+#EXTINF:-1 tvg-id="147" tvg-name="DidikTv KPM" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-7-my.png" group-title="MALAYSIA🇲🇾",DidikTv KPM
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
-#EXTINF:-1 tvg-id="147" tvg-name="NTV7" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-7-my.png" group-title="MALAYSIA🇲🇾",DIDIK TV
+#EXTINF:-1 tvg-id="147" tvg-name="DidikTv KPM" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-7-my.png" group-title="MALAYSIA🇲🇾",DidikTv KPM
 https://aqfadtv.xyz/live/didiktvkpm/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -84,6 +85,9 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 #EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-9-my.png" group-title="MALAYSIA🇲🇾",TV9
 https://aqfadtv.xyz/live/tv9/index.mpd
 
+#EXTINF:-1 tvg-id="114" tvg-name="AL-HIJRAH" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_alhijrah.png" group-title="MALAYSIA🇲🇾",ALHIJRAH
+https://live.mana2.my/TVAH/index.m3u8?organizationId=196288014&suiteItemId=196291301
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
 #EXTINF:-1 tvg-id="114" tvg-name="AL-HIJRAH" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_alhijrah.png" group-title="MALAYSIA🇲🇾",ALHIJRAH
@@ -94,12 +98,15 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 #EXTINF:-1 tvg-id="123" tvg-name="AWESOME TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/awesome-tv-my.png" group-title="MALAYSIA🇲🇾",AWESOME
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 
+#EXTINF:-1 tvg-id="502" tvg-name="BERNAMA" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bernama-my.png" group-title="MALAYSIA🇲🇾",BERNAMA
+https://live.mana2.my/Bernama/index.m3u8?organizationId=196288014&suiteItemId=200299504
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1114
 #EXTINF:-1 tvg-id="502" tvg-name="BERNAMA" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bernama-my.png" group-title="MALAYSIA🇲🇾",BERNAMA
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
 
-#EXTINF:-1 tvg-id="502" tvg-name="BERNAMA" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bernama-my.png" group-title="MALAYSIA🇲🇾",BERNAMA
+EXTINF:-1 tvg-id="502" tvg-name="BERNAMA" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bernama-my.png" group-title="MALAYSIA🇲🇾",BERNAMA
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 
 #EXTINF:-1 tvg-id="RTMK04" tvg-name="BERITA RTM" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-rtm-my.png" group-title="MALAYSIA🇲🇾",BERITA RTM
@@ -153,22 +160,22 @@ https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/suke-tv-my.png" group-title="MALAYSIA🇲🇾",SUKE TV
-https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
+https://live.mana2.my/SukeTV/index.m3u8?organizationId=196288014&suiteItemId=196291657
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/suke-tv-my.png" group-title="MALAYSIA🇲🇾",SUKE TV
 https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvikim.my/images/logo-header.png" group-title="MALAYSIA🇲🇾",TV IKIM
-http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-okey-my.png" group-title="MALAYSIA🇲🇾",TV OKEY
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="122" tvg-name="TVS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvs-my.png" group-title="MALAYSIA🇲🇾",TVS
-https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
-
-#EXTINF:-1 tvg-id="122" tvg-name="TVS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvs-my.png" group-title="MALAYSIA🇲🇾",TVS
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5021
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+#https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS.m3u8
 
 EXTINF:-1 tvg-id="306" tvg-name="ASTRO AEC" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_aec.png" group-title="MALAYSIA🇲🇾",ASTRO AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -223,10 +230,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 #EXTINF:-1 tvg-id="106" tvg-name="ASTRO OASIS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-oasis-my.png" group-title="MALAYSIA🇲🇾",ASTRO OASIS
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
+#EXTINF:-1 tvg-id="106" tvg-name="ASTRO OASIS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-oasis-my.png" group-title="MALAYSIA🇲🇾",ASTRO OASIS
+https://epg.pw/stream/12350f783ebaf7c1459f98c2bd218ec3c93667937f86f2632a6adcf4d254635e.ts
+
 #EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-prima-my.png" group-title="MALAYSIA🇲🇾",ASTRO PRIMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/
 https://aqfadtv.xyz/live/prima/index.mpd
+
+#EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-prima-my.png" group-title="MALAYSIA🇲🇾",ASTRO PRIMA
+http://iptvmedia.live:8080/F22238/bf396b24/157467
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_quan_jia_hd_my.png" group-title="MALAYSIA🇲🇾",ASTRO QUAN JIA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -237,14 +250,21 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/608
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-rania-my.png" group-title="MALAYSIA🇲🇾",ASTRO RANIA
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
- #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroRia" #EXTINF:-1 tvg-id="104" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
+#EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
+https://speedtrademarket.com/ria888.m3u8
+
 #EXTINF:-1 tvg-id="104" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
+
 #EXTINF:-1 tvg-id="104" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
-https://aqfadtv.xyz/live/ria/index.mpd
+http://iptvmedia.live:8080/F22238/bf396b24/158347
 
 #EXTINF:-1 group-title="MALAYSIA🇲🇾" tvg-id="AstroSensasi.sg" tvg-name="Astro Sensasi HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Sensasi_%283D%29.png/revision/latest/scale-to-width-down/596?cb=20220623141711",ASTRO SENSASI
 #EXTVLCOPT:http-user-agent=com.iptvliink.net
@@ -258,7 +278,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2309
-#EXTINF:-1 tvg-id="201" tvg-name="ASTRO VAANAVIL" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-vaanavil-my.png" group-title="MALAYSIA🇲🇾",ASTRO VAANAVIL
+EXTINF:-1 tvg-id="201" tvg-name="ASTRO VAANAVIL" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-vaanavil-my.png" group-title="MALAYSIA🇲🇾",ASTRO VAANAVIL
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 
 #EXTINF:-1 tvg-id="201" tvg-name="ASTRO VAANAVIL" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-vaanavil-my.png" group-title="MALAYSIA🇲🇾",ASTRO VAANAVIL
@@ -272,7 +292,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_primary.mpd
 #EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsSKwJZQGfPw_hF9Z_PG7oY=5tic/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://epg.pw/stream/aa1b2652b5400194d10060d1fd203f35b901cf19f748391c77761261e72e8e16.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2711
@@ -458,6 +478,10 @@ http://45.80.181.150:8080/hls/agropolitantv.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv.png" group-title="INDONESIA🇮🇩", ANTV
 https://newanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv.png" group-title="INDONESIA🇮🇩", ANTV
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv.png" group-title="INDONESIA🇮🇩", ANTV
 http://210.210.155.37/qwr9ew/s/s07/index.m3u8|User-Agent=Lavf/56.15.102
 
@@ -525,10 +549,10 @@ http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/vGr0fmDxcU89zBOT95Zi3N86PEEAYEGV2ficTy6PIP6UVF_xfXS340Cv_lrGAAdmbcdw7wXWaQ=s900-c-k-c0x00ffffff-no-rj" group-title="INDONESIA🇮🇩",BRTV
 https://e1.siar.us/badartv/live/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/709611530602418176/0nN_0pC4.jpg" group-title="INDONESIA🇮🇩",BTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/1200px-BTV_%28Indonesia%29_logo.svg.png" group-title="INDONESIA🇮🇩",BTV
 http://122.248.43.138:1935/ch10/myStream/chunklist_w476334342.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-zjimxc5MgEw/XO3U4J0c3qI/AAAAAAAAoAU/oAj2668BydcflMha4iXoKbQjetJlJXeaQCLcBGAs/s1600/bungo-tv-channel-logo.png" group-title="INDONESIA🇮🇩",BUNGO TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/BlMNYC2OrsJURvfREuoliur1jvW-mjpQO5bDm3ZKweFZQSyX9mJBF_hRFRSTFipWuHuP8yM06w=s900-c-k-c0x00ffffff-no-rj" group-title="INDONESIA🇮🇩",BUNGO TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/200px-CTV_Banten.png" group-title="INDONESIA🇮🇩",CAHAYA TV BANTEN
@@ -566,6 +590,17 @@ https://bravo.kugo.id/dmtvmalang/rtmp.stream/chunklist.m3u8
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digital-tv-indonesia-id.png" group-title="INDONESIA🇮🇩",DTVI
 https://alfa.kugo.id/dtvi/rtmp.stream/playlist.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunia_lain_id.png" group-title="INDONESIA🇮🇩",DUNIA LAIN
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunia_lain_id.png" group-title="INDONESIA🇮🇩",DUNIA LAIN
+http://iptvid.my.id/hmm/Arviams/ams600/dunialain.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.eljohn.tv/wp-content/uploads/2019/02/logo-terbaru-square.jpg" group-title="INDONESIA🇮🇩",EL JOHN TV
 https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive/chunklist.m3u8
 
@@ -582,7 +617,7 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/FMN_%28Forget_Me_Not%29_Channel.png" group-title="INDONESIA🇮🇩",FMN
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fmn_id.png" group-title="INDONESIA🇮🇩",FMN
 https://newanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gpr-tv-id.png" group-title="INDONESIA🇮🇩",GPR TV
@@ -599,7 +634,7 @@ https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-id.png" group-title="INDONESIA🇮🇩",GTV
 https://newanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-id.png" group-title="INDONESIA🇮🇩",GTV
+EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-id.png" group-title="INDONESIA🇮🇩",GTV
 https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 tvg-logo="https://humabetang.com/public/uploads/mobile/icons/eZaQoM1KTVK99yyeF8XP8s54XXjrsJFVD0QIHuk9.png" group-title="INDONESIA🇮🇩",HUMA BETANG TV
@@ -615,9 +650,16 @@ https://newanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/ie-indonesia-id.png" group-title="INDONESIA🇮🇩",INFOTAIMENT
 https://newanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
+#EXTINF:-1 group-title="INDONESIA🇮🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU",INDONESIANA TV
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 group-title="INDONESIA🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png",INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
       
 #EXTINF:-1 group-title="INDONESIA🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -633,7 +675,7 @@ https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8|referer=https://m.rctiplus
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Jak_tv_%282010%29.png" group-title="INDONESIA🇮🇩",JAK TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jak-tv-id.png" group-title="INDONESIA🇮🇩",JAK TV
 https://newanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0P8QqpT/logojambitv.jpg" group-title="INDONESIA🇮🇩",JAMBI TV
@@ -711,9 +753,12 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png" group-title="INDONESIA🇮🇩",MNC TV
 https://newanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png" group-title="INDONESIA🇮🇩",MNC TV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png" group-title="INDONESIA🇮🇩",MNC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) https://raw.githubusercontent.com/MrK0nt/J4x/main/Mencitipi
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -762,8 +807,12 @@ http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA🇮🇩",RCTI
 https://newanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA🇮🇩",RCTI
-https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8|referer=https://m.rctiplus.com/
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA🇮🇩",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) https://raw.githubusercontent.com/MrK0nt/J4x/main/Rect1
 
 EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/615/129/png-clipart-radar-cirebon-tv-radar-cirebon-televisi-television-rctv-cirebon-streaming-media-others-trademark-logo.png" group-title="INDONESIA🇮🇩",RCTV
 http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
@@ -791,13 +840,17 @@ https://alfa.kugo.id/sampittv/rtmp.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLiJrL3Y7Rai9VOR_7TlPZrXmaOkDWnCWkqg&usqp=CAU" group-title="INDONESIA🇮🇩",SANGAJI TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png" group-title="INDONESIA🇮🇩",SCTV
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png" group-title="INDONESIA🇮🇩",SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/_RhO3s2zGr5o/TKRMtSU7tCI/AAAAAAAAAGA/xnRHC6apfFE/s1600/logo.jpeg" group-title="INDONESIA🇮🇩",SEMARANG TV
 http://116.254.112.74/hls/cakralive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/SIMPANG5_TV_2011.png/revision/latest?cb=20181001030020" group-title="INDONESIA🇮🇩",SIMPANG LIMA
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW5Of4Y6AYdCURxM6ROYHLzcU7tDLXnEBdYNMjI=s900-c-k-c0x00ffffff-no-rj" group-title="INDONESIA🇮🇩",SIMPANG LIMA
 http://122.248.43.138:1935/ch4/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-U2ogQ293NVw/V7Bi-N8FNpI/AAAAAAAAAMI/AqJxLkyrg5sa9KQbmBNas-8IH2xBqLmogCLcB/s1600/smtv.jpg" group-title="INDONESIA🇮🇩",SMTV
@@ -1053,18 +1106,18 @@ https://newanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:-1 tvg-logo="https://img.favpng.com/24/14/18/flag-of-thailand-thai-language-national-flag-png-favpng-MQNMypkwBGEHs49D6fnFn6LXm.jpg"tvg-name=",THAILAND🇹🇭
 http://youtube.com
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/altv-4-th.png" group-title="THAILAND🇹🇭",ALTV 4
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/altv-4-th.png" group-title="THAILAND🇹🇭",ALTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/ALTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/altv-4-th.png" group-title="THAILAND🇹🇭",ALTV 4
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/altv-4-th.png" group-title="THAILAND🇹🇭",ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg/revision/latest/scale-to-width-down/250?cb=20180110051919" group-title="THAILAND🇹🇭",AMARIN 34 HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg/revision/latest/scale-to-width-down/250?cb=20180110051919" group-title="THAILAND🇹🇭",AMARIN TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chamarin/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg/revision/latest/scale-to-width-down/250?cb=20180110051919" group-title="THAILAND🇹🇭",AMARIN 34 HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg/revision/latest/scale-to-width-down/250?cb=20180110051919" group-title="THAILAND🇹🇭",AMARIN TV HD
 https://freelive2.inwstream.com:1936/freelive-edge/amarinhd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/AND-logo-B08B08AEAC-seeklogo.com.gif" group-title="THAILAND🇹🇭",AND TV
@@ -1073,19 +1126,26 @@ https://live.thaitvstream.com/play/andtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/616532058718892032/SmjrJwro_400x400.jpg" group-title="THAILAND🇹🇭",ATTV (Movies)
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bb_tv_channel_7_th.png" group-title="THAILAND🇹🇭",BBTV CHANNEL 7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/ch7hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bb_tv_channel_7_th.png" group-title="THAILAND🇹🇭",BBTV CHANNEL 7 HD
-https://freelive2.inwstream.com:1936/freelive-edge/7hd/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/thai_tv_3_th.png" group-title="THAILAND🇹🇭",CHANNEL 3 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/thai_tv_3_th.png" group-title="THAILAND🇹🇭",CH3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/ch3hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/thai_tv_3_th.png" group-title="THAILAND🇹🇭",CHANNEL 3 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/thai_tv_3_th.png" group-title="THAILAND🇹🇭",CH3 HD
 https://freelive2.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bb_tv_channel_7_th.png" group-title="THAILAND🇹🇭",CH7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/ch7hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bb_tv_channel_7_th.png" group-title="THAILAND🇹🇭",CH7 HD
+https://freelive2.inwstream.com:1936/freelive-edge/7hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai-channel-8-th.png" group-title="THAILAND🇹🇭",CH8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/ch8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai-channel-8-th.png" group-title="THAILAND🇹🇭",CH8
+https://freelive2.inwstream.com:1936/freelive-edge/ch8/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://f.ptcdn.info/601/063/000/pqcvhsxk7PuKUZbFKv4-o.png" group-title="THAILAND🇹🇭",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
@@ -1140,31 +1200,31 @@ https://cdn6.goprimetime.info/feed/202205171929/chnation/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7K3HM0HHCu4PHK-aIaQxFOOkMIA7h9A45zrOOsARDDh1BHtxTG2ApgsAFaX1cR1PffQfULOqExCTIxiyfT8wO_RazpejXYcVSb5P8KRdxOFmXgcrVQkiZ5xOvBh8J_aFtY4boB2SrsowKguGcD0qP6z8uQahGUIEseDHnYkTW0ShZw-JdKlRfTpD_/s16000/Update!%20Kode%20Bisskey%20Terbaru%20Siaran%20Nation%20TV%20Thailand%20di%20Satelit%20Thaicom.jpg" group-title="THAILAND🇹🇭",NATION TV
 https://freelive2.inwstream.com:1936/freelive-edge/nation/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbt_th_2.png" group-title="THAILAND🇹🇭",NBT 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbt_th_2.png" group-title="THAILAND🇹🇭",NBT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chnbt3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbt_th_2.png" group-title="THAILAND🇹🇭",NBT 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbt_th_2.png" group-title="THAILAND🇹🇭",NBT HD
 https://freelive2.inwstream.com:1936/freelive-edge/nbt/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/907335088517599232/AxsFAPe-.jpg" group-title="THAILAND🇹🇭",NK TV (Movies)
 http://ch.fbth.xyz:5050/live/nktv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-31-th.png" group-title="THAILAND🇹🇭",ONE 31
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-31-th.png" group-title="THAILAND🇹🇭",ONE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chonehd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-31-th.png" group-title="THAILAND🇹🇭",ONE 31
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-31-th.png" group-title="THAILAND🇹🇭",ONE HD
 https://freelive2.inwstream.com:1936/freelive-edge/onehd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Petchabun_FC_2011.png" group-title="THAILAND🇹🇭",PHETCHABUN TV (Movies)
 https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/pp/pp_tv_hd_th.png" group-title="THAILAND🇹🇭",PPTV  36 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/pp/pp_tv_hd_th.png" group-title="THAILAND🇹🇭",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/pp/pp_tv_hd_th.png" group-title="THAILAND🇹🇭",PPTV  36 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/pp/pp_tv_hd_th.png" group-title="THAILAND🇹🇭",PPTV HD
 https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.siamnewsnetwork.net/wp-content/uploads/2018/05/siamnews-bw-helv-square.png" group-title="THAILAND🇹🇭",SIAM NEWS (Movies)
@@ -1173,45 +1233,29 @@ https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 #EXTINF:-1 tvg-logo="https://iphone-image.apkpure.com/v2/app/e/a/a/eaa2d0ef926bb1c9ef2bc6e327a34db6.jpg" group-title="THAILAND🇹🇭",SRTV ONLINE
 https://live1.thaitvstream.com/play/srtvonline/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai-channel-8-th.png" group-title="THAILAND🇹🇭",THAI CHANNEL 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/ch8/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai-channel-8-th.png" group-title="THAILAND🇹🇭",THAI CHANNEL 8
-https://freelive2.inwstream.com:1936/freelive-edge/ch8/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/banteng-thai-th.png" group-title="THAILAND🇹🇭",THAI NEWS (Movies)
 https://live.thaitvstream.com/play/thainews/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai_pbs.png" group-title="THAILAND🇹🇭",THAI PBS 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai_pbs.png" group-title="THAILAND🇹🇭",THAI PBS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chthaipbs3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai_pbs.png" group-title="THAILAND🇹🇭",THAI PBS 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai_pbs.png" group-title="THAILAND🇹🇭",THAI PBS HD
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai_tv_5_th.png" group-title="THAILAND🇹🇭",THAI TV 5 HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/ch5hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai_tv_5_th.png" group-title="THAILAND🇹🇭",THAI TV 5 HD1
-https://freelive2.inwstream.com:1936/freelive-edge/5hd/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai_tv_5_th.png" group-title="THAILAND🇹🇭",THAI TV 5 HD1
-https://tc-live1.sanook.com/live/22302_ch5.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thairath-tv-32-th.png" group-title="THAILAND🇹🇭",THAIRATH TV 32
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thairath-tv-32-th.png" group-title="THAILAND🇹🇭",THIARATH TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chthairath/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thairath-tv-32-th.png" group-title="THAILAND🇹🇭",THAIRATH TV 32
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thairath-tv-32-th.png" group-title="THAILAND🇹🇭",THIARATH TV
 https://freelive2.inwstream.com:1936/freelive-edge/thairahttvhd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnn-16-th.png" group-title="THAILAND🇹🇭",TNN 16
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnn-16-th.png" group-title="THAILAND🇹🇭",TNN16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chtnn/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnn-16-th.png" group-title="THAILAND🇹🇭",TNN 16
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnn-16-th.png" group-title="THAILAND🇹🇭",TNN16
 http://freelive.inwstream.com:1935/freelive-edge/tnn24/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/top-news-th.png" group-title="THAILAND🇹🇭",TOP NEWS
@@ -1221,10 +1265,20 @@ https://live.topnews.co.th/hls/topnews_720.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chtrue4u3/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai_tv_5_th.png" group-title="THAILAND🇹🇭",TV5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/ch5hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai_tv_5_th.png" group-title="THAILAND🇹🇭",TV5 HD
+https://freelive2.inwstream.com:1936/freelive-edge/5hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai_tv_5_th.png" group-title="THAILAND🇹🇭",TV5 HD
+https://tc-live1.sanook.com/live/22302_ch5.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/white_channel_th.png" group-title="THAILAND🇹🇭",WHITE CHANNEL 28
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/workpoint-23-th.png" group-title="THAILAND🇹🇭",WORKPOINT 23
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/workpoint-23-th.png" group-title="THAILAND🇹🇭",WORKPOINT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/index.m3u8
 
