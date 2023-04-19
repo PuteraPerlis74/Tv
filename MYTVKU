@@ -478,7 +478,11 @@ http://45.80.181.150:8080/hls/agropolitantv.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv.png" group-title="INDONESIA🇮🇩", ANTV
 https://newanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv.png" group-title="INDONESIA🇮🇩", ANTV
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
 
@@ -627,7 +631,7 @@ EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/garda-tv-id.png" group-ti
 https://bintangtv.siar.us/bintangtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmdhcnVkYS5nYXJ1ZGF0dl9zY3JlZW5fMF8xNjAzNTA2NTA0XzAwNQ/screen-0.jpg?fakeurl=1&type=.jpg" group-title="INDONESIA🇮🇩",GARUDA TV
-https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+https://stream.garuda.tv/live/garudatv/live.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -753,7 +757,11 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png" group-title="INDONESIA🇮🇩",MNC TV
 https://newanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png" group-title="INDONESIA🇮🇩",MNC TV
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
 
@@ -767,6 +775,11 @@ https://newanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.m
 
 #EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/14/932587078.jpg" group-title="INDONESIA🇮🇩",MOJI HD
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8|User-Agent=Lavf/56.15.102
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="INDONESIA🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music-tv-id.png",MUSIC TV
+https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -807,18 +820,19 @@ http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA🇮🇩",RCTI
 https://newanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA🇮🇩",RCTI
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA🇮🇩",RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) https://raw.githubusercontent.com/MrK0nt/J4x/main/Rect1
-
-EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/615/129/png-clipart-radar-cirebon-tv-radar-cirebon-televisi-television-rctv-cirebon-streaming-media-others-trademark-logo.png" group-title="INDONESIA🇮🇩",RCTV
-http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/615/129/png-clipart-radar-cirebon-tv-radar-cirebon-televisi-television-rctv-cirebon-streaming-media-others-trademark-logo.png" group-title="INDONESIA🇮🇩",RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/615/129/png-clipart-radar-cirebon-tv-radar-cirebon-televisi-television-rctv-cirebon-streaming-media-others-trademark-logo.png" group-title="INDONESIA🇮🇩",RCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) https://raw.githubusercontent.com/MrK0nt/J4x/main/Rect1
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/riau-tv-id.png" group-title="INDONESIA🇮🇩",RIAU TV PEKANBARU
 http://122.248.43.138:1935/ch11/myStream/chunklist_w2044873838.m3u8
@@ -840,7 +854,11 @@ https://alfa.kugo.id/sampittv/rtmp.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLiJrL3Y7Rai9VOR_7TlPZrXmaOkDWnCWkqg&usqp=CAU" group-title="INDONESIA🇮🇩",SANGAJI TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png" group-title="INDONESIA🇮🇩",SCTV
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
