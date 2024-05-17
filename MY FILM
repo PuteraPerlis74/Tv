@@ -1,0 +1,905 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg//singapore.xml"  refresh="1440" billed-msg="🇲🇾Putera Perlis Multimedia🇲🇾"
+
+
+#EXTINF:-1 tvg-logo="https://lh4.ggpht.com/f-zQdGn5dAUEybjbCJ94QTfabrzijJBNcADcaWn5dCoA3isCWrnN7-Pj0C73wSCbmHQ=w300" tvg-name=",PUTERA PERLIS MULTIMEDIA
+http://youtube
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>KIDS SERIES
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "lw1bgvNrkHXdDaysqXhETA", "kid": "rgTugpAe5Nh/oLEz0FteEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="KIDS SERIES"  tvg-logo="https://telegra.ph/file/4de3760ad476028da520f.jpg",Puteri E01
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/35feafbe-67ef-5850-881c-29ccfa64e6d7/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "LjVOIGjh5WpXQ9GQXYgZDg", "kid": "smfJJ5DDxPx4x7l0jJDHEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="KIDS SERIES"  tvg-logo="https://telegra.ph/file/4de3760ad476028da520f.jpg",Puteri E02
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/f702abe0-c7df-5468-9d70-12a47edeb2a9/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "wY5gcM47fnELNtFD7COMTw", "kid": "lCxzYEZPRHfTAlD+80/zEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="KIDS SERIES"  tvg-logo="https://telegra.ph/file/4de3760ad476028da520f.jpg",Puteri E03
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/d386be9e-187e-579d-9c46-e459d6432e64/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "TKC35zJcxJq/gN0xeTyctQ", "kid": "3MPvZktiCeAkzSY2YwAUEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="KIDS SERIES"  tvg-logo="https://telegra.ph/file/4de3760ad476028da520f.jpg",Puteri E04
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/b450f46a-0907-5f4e-b695-99fd9aa673c2/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "5gPPuOfs8o4WD7akdZDZMg", "kid": "CCvg+DAKhYue5ESNTx4sEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="KIDS SERIES"  tvg-logo="https://telegra.ph/file/4de3760ad476028da520f.jpg",Puteri E05
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/714ca946-58c1-5ad4-ba18-67a867180199/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "ZLgOsT+VK5eq+wD1gVQHsQ", "kid": "XXzG2yOCTqK5/qAf3r+uEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="KIDS SERIES"  tvg-logo="https://telegra.ph/file/4de3760ad476028da520f.jpg",Puteri E06
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/2f30910b-3acb-5616-835c-5f920d30cce9/default_primary.mpd
+
+
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E01_Episode%201.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E02_Episode%202.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E03_Episode%203.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E04_Episode%204.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E05_Episode%205.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E06_Episode%206.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E07
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E07_Episode%207.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E08
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E028_Episode%208.mp4
+
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E09
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E09_Episode%209.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E10
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E10_Episode%2010.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E11
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E11_Episode%2011.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E12
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E12_Episode%2012.mp4
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato S01 E13
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S01/Mechamato%20The%20Animated%20Series_S01E13_Episode%2013.mp4
+
+
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E01_Episode%201.mp4
+
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E02_Episode%202.mp4
+
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E03_Episode%203.mp4
+
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E04_Episode%204.mp4
+
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E05_Episode%205.mp4
+
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E06_Episode%206.mp4
+
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E07
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E07_Episode%207.mp4
+
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E08
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E08_Episode%208.mp4
+
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E09
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E019_Episode%209.mp4
+
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E10
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E10_Episode%2010.mp4
+
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E11
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E11_Episode%2011.mp4
+
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E12
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E12_Episode%2012.mp4
+
+#EXTINF:-1 type="series" group-title="KIDS SERIES" tvg-logo="https://images.justwatch.com/poster/260243298/s718/mechamato.jpg", Mechamato S02 E13
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/DRAMA%20SIRI/MECHAMATO/S02/Mechamato%20The%20Animated%20Series_S02E13_Episode%2013.mp4
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+MALAY SERIES
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "JGkbEugM7vRKnszIsvz2oQ", "kid": "ZpX/DrUoGQop2yU8hNSnEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://telegra.ph/file/6080f1c0ee22526232e63.jpg",Budak Hostel Otaknya Sewel E01
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8ab0f5af-2604-5879-845a-6b32a130b5e9/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "p5M4wWwuUNIKx11dqeteVQ", "kid": "PJ3seoWbYSsWfvUsJITSEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://telegra.ph/file/6080f1c0ee22526232e63.jpg",Budak Hostel Otaknya Sewel E02
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8cb776bf-6ddd-5024-84ad-8a330299dc91/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "J1iE4jp0HDahxD/c63LW+A", "kid": "+xF1I/b+XMKXBELBe2e7EA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://telegra.ph/file/6080f1c0ee22526232e63.jpg",Budak Hostel Otaknya Sewel E03
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/749a7fcc-795d-56b7-a03e-581e609ab21b/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "RVUW84KEwTgnrBPo4WKfKQ", "kid": "+16eOBqRNGnGPLI7ual4EA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://telegra.ph/file/6080f1c0ee22526232e63.jpg",Budak Hostel Otaknya Sewel E04
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/a78586f9-f8bb-59fb-94c6-6db539888972/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "LnBsKGSXOtCEyFb4g2QXPg", "kid": "IYUHMjNMnE9mHxLfQ9/pEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://telegra.ph/file/6080f1c0ee22526232e63.jpg",Budak Hostel Otaknya Sewel E05
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/abe647e8-91c4-55ee-bc3e-5ac6786c10ab/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "I5ZFNb4CaAvb5jLQTwNd2Q", "kid": "NtE/MIMqrGUdI9p/dT/jEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://telegra.ph/file/6080f1c0ee22526232e63.jpg",Budak Hostel Otaknya Sewel E06
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c53c3b3c-c6f1-5564-a873-0e683c9639a5/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "iJbyiryTezhsvVjXNx82aw", "kid": "31zoVKJ6daD05yVpSiHsEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://telegra.ph/file/6080f1c0ee22526232e63.jpg",Budak Hostel Otaknya Sewel E07
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/5f97c375-af7c-5cdc-bd49-37c8f0432aea/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "azoIDW873lw6KhDYbXAdbw", "kid": "570QV7F7ZEISNJxrz/V8EA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://telegra.ph/file/6080f1c0ee22526232e63.jpg",Budak Hostel Otaknya Sewel E08
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/e7f7511a-8c16-5277-8f41-e9c313d3dd44/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "dmPXkgxChHF1EUMrHzMxiQ", "kid": "xeNIQqAg2/6Jh1Y/dBEXEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://telegra.ph/file/6080f1c0ee22526232e63.jpg",Budak Hostel Otaknya Sewel E09
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/ec1508cc-db2e-5057-aecb-d069ee81160e/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "rXEScCUqitKPp1GkTcO/UQ", "kid": "413AlQ0LscQhYm9z4zg4EA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://telegra.ph/file/6080f1c0ee22526232e63.jpg",Budak Hostel Otaknya Sewel E10
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/763781c0-c856-56ff-94cb-3bb2cfacd31d/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "sg4UjX9b7tsIqlXqggR0PQ", "kid": "RQb+BDyFtDgD6PGpH0zMEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://telegra.ph/file/6080f1c0ee22526232e63.jpg",Budak Hostel Otaknya Sewel E11
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/b31ca52f-9f24-5e56-84d2-1c747413bb66/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "jEmgEv1yqxi3oaTftdS2UA", "kid": "lABpU4SIK0QMOp9DtUTWEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://telegra.ph/file/6080f1c0ee22526232e63.jpg",Budak Hostel Otaknya Sewel E12
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/635969eb-0f8c-5d74-9c7c-e339dd8c9d4a/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "PwqyPxU8lyRY3SXjsphiAw", "kid": "ughpGLCPsCxdZSogr/dnEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://telegra.ph/file/6080f1c0ee22526232e63.jpg",Budak Hostel Otaknya Sewel E13
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/584bf1f5-b1f7-5631-b4da-f7bb85816bdf/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Inmjri4c9ZwQ52KmaW/bCA", "kid": "lvxV59kFofDKpwRd8f2mEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://telegra.ph/file/6080f1c0ee22526232e63.jpg",Budak Hostel Otaknya Sewel E14
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/b4fb1d01-47e6-5373-9606-52fd9579b942/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "amMbNyOTiihs0tvphggmSw", "kid": "7bXxKIt+tYKfaoMtZn0fEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://telegra.ph/file/6080f1c0ee22526232e63.jpg",Budak Hostel Otaknya Sewel E15
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/ff12bc2d-d7e5-52cf-99f8-3a7b0385568c/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "POKoln0ikyJYV1eCtD+rOg", "kid": "f7fsT6Cz50k0DCZak0BtEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://telegra.ph/file/6080f1c0ee22526232e63.jpg",Budak Hostel Otaknya Sewel E16
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/2dd9f8cc-43fb-5f82-9d05-ebc744c1a308/default_primary.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fed48aa5e4b430623f6f0a72f357b710:dac93dbf75006e136c342a0db2ff7f03
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN17aNkEgTUj65gwl5K_atJG1LJL4IjQyzZORTxKKUOJLj1qD_XCoNgSAMEz96mcn7F6Wwu95xB2RrkRuNr4kUe8aNyD29O65CvRX7Ov0W8yVMN0DFmo7I_aclObwWvGe2O9OCD7xSLjqycyTN2ZgSZCDd637pu_x67airGdvnOu1ansmnffbaXzpTuSEV/w0/Hikayat%20Pak%20Belalang.jpg",Hikayat Pak Belalang E01
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/86b3bba1-0f68-58b2-9bf4-9817dbea1fac/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c0e601369c2b504cd03a67214590e10:ae2a76224c5e0450525103866fd52b7b
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN17aNkEgTUj65gwl5K_atJG1LJL4IjQyzZORTxKKUOJLj1qD_XCoNgSAMEz96mcn7F6Wwu95xB2RrkRuNr4kUe8aNyD29O65CvRX7Ov0W8yVMN0DFmo7I_aclObwWvGe2O9OCD7xSLjqycyTN2ZgSZCDd637pu_x67airGdvnOu1ansmnffbaXzpTuSEV/w0/Hikayat%20Pak%20Belalang.jpg",Hikayat Pak Belalang E02
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/f65f1d41-178e-5aee-8899-752b6887a395/default_primary.mpd
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN17aNkEgTUj65gwl5K_atJG1LJL4IjQyzZORTxKKUOJLj1qD_XCoNgSAMEz96mcn7F6Wwu95xB2RrkRuNr4kUe8aNyD29O65CvRX7Ov0W8yVMN0DFmo7I_aclObwWvGe2O9OCD7xSLjqycyTN2ZgSZCDd637pu_x67airGdvnOu1ansmnffbaXzpTuSEV/w0/Hikayat%20Pak%20Belalang.jpg",Hikayat Pak Belalang E03 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/VOD%20MALAY/hikayat%20belalang/Hikayat%20Pak%20Belalang%20(2023)%20EP3.mp4
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN17aNkEgTUj65gwl5K_atJG1LJL4IjQyzZORTxKKUOJLj1qD_XCoNgSAMEz96mcn7F6Wwu95xB2RrkRuNr4kUe8aNyD29O65CvRX7Ov0W8yVMN0DFmo7I_aclObwWvGe2O9OCD7xSLjqycyTN2ZgSZCDd637pu_x67airGdvnOu1ansmnffbaXzpTuSEV/w0/Hikayat%20Pak%20Belalang.jpg",Hikayat Pak Belalang E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/VOD%20MALAY/hikayat%20belalang/Hikayat%20Pak%20Belalang%20(2023)%20EP4.mp4
+
+
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%274538874%27&EntityType=%27Item%27&EntityId=%27249924%27&Width=1920&Height=1080", Misteri Jam 12 S01 E01
+https://vod.tonton.com.my/vod/379/6478767/playlist_wifi_high.m3u8
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%274538874%27&EntityType=%27Item%27&EntityId=%27249924%27&Width=1920&Height=1080", Misteri Jam 12 S01 E02
+https://vod.tonton.com.my/vod/379/6478772/playlist_wifi_high.m3u8
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%274538874%27&EntityType=%27Item%27&EntityId=%27249924%27&Width=1920&Height=1080", Misteri Jam 12 S01 E03
+https://vod.tonton.com.my/vod/379/6478775/playlist_wifi_high.m3u8
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%274538874%27&EntityType=%27Item%27&EntityId=%27249924%27&Width=1920&Height=1080", Misteri Jam 12 S01 E04
+https://vod.tonton.com.my/vod/379/6478777/playlist_wifi_high.m3u8
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%274538874%27&EntityType=%27Item%27&EntityId=%27249924%27&Width=1920&Height=1080", Misteri Jam 12 S01 E05
+https://vod.tonton.com.my/vod/379/6478779/playlist_wifi_high.m3u8
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%274538874%27&EntityType=%27Item%27&EntityId=%27249924%27&Width=1920&Height=1080", Misteri Jam 12 S01 E06
+https://vod.tonton.com.my/vod/379/6478782/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%275302641%27&EntityType=%27Item%27&EntityId=%27323989%27&Width=1920&Height=1080", Misteri Jam 12 S02 E01
+https://vod.tonton.com.my/vod/379/6478786/playlist_wifi_high.m3u8
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%275302641%27&EntityType=%27Item%27&EntityId=%27323989%27&Width=1920&Height=1080", Misteri Jam 12 S02 E02
+https://vod.tonton.com.my/vod/379/6478792/playlist_wifi_high.m3u8
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%275302641%27&EntityType=%27Item%27&EntityId=%27323989%27&Width=1920&Height=1080", Misteri Jam 12 S02 E03
+https://vod.tonton.com.my/vod/379/6478795/playlist_wifi_high.m3u8
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%275302641%27&EntityType=%27Item%27&EntityId=%27323989%27&Width=1920&Height=1080", Misteri Jam 12 S02 E04
+https://vod.tonton.com.my/vod/379/6478798/playlist_wifi_high.m3u8
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%275302641%27&EntityType=%27Item%27&EntityId=%27323989%27&Width=1920&Height=1080", Misteri Jam 12 S02 E05
+https://vod.tonton.com.my/vod/379/6478800/playlist_wifi_high.m3u8
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%275302641%27&EntityType=%27Item%27&EntityId=%27323989%27&Width=1920&Height=1080", Misteri Jam 12 S02 E06
+https://vod.tonton.com.my/vod/379/6478803/playlist_wifi_high.m3u8
+
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/ml0IHNs6S0Vx2sBTd8ESppCOnCt.jpg", Remang E01
+https://vod.tonton.com.my/vod/379/6438313/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/ml0IHNs6S0Vx2sBTd8ESppCOnCt.jpg", Remang E02
+https://vod.tonton.com.my/vod/379/6438363/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/ml0IHNs6S0Vx2sBTd8ESppCOnCt.jpg", Remang E03
+https://vod.tonton.com.my/vod/379/6438362/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/ml0IHNs6S0Vx2sBTd8ESppCOnCt.jpg", Remang E04
+https://vod.tonton.com.my/vod/379/6438325/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/ml0IHNs6S0Vx2sBTd8ESppCOnCt.jpg", Remang E05
+https://vod.tonton.com.my/vod/379/6438316/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/ml0IHNs6S0Vx2sBTd8ESppCOnCt.jpg", Remang E06
+https://vod.tonton.com.my/vod/379/6438364/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/ml0IHNs6S0Vx2sBTd8ESppCOnCt.jpg", Remang E07
+https://vod.tonton.com.my/vod/379/6438313/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/ml0IHNs6S0Vx2sBTd8ESppCOnCt.jpg", Remang E08
+https://vod.tonton.com.my/vod/379/6438319/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/ml0IHNs6S0Vx2sBTd8ESppCOnCt.jpg", Remang E09
+https://vod.tonton.com.my/vod/379/6438365/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/ml0IHNs6S0Vx2sBTd8ESppCOnCt.jpg", Remang E10
+https://vod.tonton.com.my/vod/379/6438333/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/ml0IHNs6S0Vx2sBTd8ESppCOnCt.jpg", Remang E11
+https://vod.tonton.com.my/vod/379/6438332/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/ml0IHNs6S0Vx2sBTd8ESppCOnCt.jpg", Remang E12
+https://vod.tonton.com.my/vod/379/6438357/playlist_wifi_high.m3u8
+
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-yT_h--2fDU8/YWT9xSfqC6I/AAAAAAAAMao/7ojROqCu6rEVTViI0GQLqg64o7By4TbEgCLcBGAsYHQ/w0/Tahyul%2Btv3.jpg",Tahyul E01
+https://vod.tonton.com.my/vod/379/6421896/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-yT_h--2fDU8/YWT9xSfqC6I/AAAAAAAAMao/7ojROqCu6rEVTViI0GQLqg64o7By4TbEgCLcBGAsYHQ/w0/Tahyul%2Btv3.jpg",Tahyul E02
+https://vod.tonton.com.my/vod/379/6421883/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-yT_h--2fDU8/YWT9xSfqC6I/AAAAAAAAMao/7ojROqCu6rEVTViI0GQLqg64o7By4TbEgCLcBGAsYHQ/w0/Tahyul%2Btv3.jpg",Tahyul E03
+https://vod.tonton.com.my/vod/379/6421884/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-yT_h--2fDU8/YWT9xSfqC6I/AAAAAAAAMao/7ojROqCu6rEVTViI0GQLqg64o7By4TbEgCLcBGAsYHQ/w0/Tahyul%2Btv3.jpg",Tahyul E04
+https://vod.tonton.com.my/vod/379/6421885/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-yT_h--2fDU8/YWT9xSfqC6I/AAAAAAAAMao/7ojROqCu6rEVTViI0GQLqg64o7By4TbEgCLcBGAsYHQ/w0/Tahyul%2Btv3.jpg",Tahyul E05
+https://vod.tonton.com.my/vod/379/6421886/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-yT_h--2fDU8/YWT9xSfqC6I/AAAAAAAAMao/7ojROqCu6rEVTViI0GQLqg64o7By4TbEgCLcBGAsYHQ/w0/Tahyul%2Btv3.jpg",Tahyul E06
+https://vod.tonton.com.my/vod/379/6421887/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-yT_h--2fDU8/YWT9xSfqC6I/AAAAAAAAMao/7ojROqCu6rEVTViI0GQLqg64o7By4TbEgCLcBGAsYHQ/w0/Tahyul%2Btv3.jpg",Tahyul E07
+https://vod.tonton.com.my/vod/379/6421888/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-yT_h--2fDU8/YWT9xSfqC6I/AAAAAAAAMao/7ojROqCu6rEVTViI0GQLqg64o7By4TbEgCLcBGAsYHQ/w0/Tahyul%2Btv3.jpg",Tahyul E08
+https://vod.tonton.com.my/vod/379/6421889/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-yT_h--2fDU8/YWT9xSfqC6I/AAAAAAAAMao/7ojROqCu6rEVTViI0GQLqg64o7By4TbEgCLcBGAsYHQ/w0/Tahyul%2Btv3.jpg",Tahyul E09
+https://vod.tonton.com.my/vod/379/6421890/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-yT_h--2fDU8/YWT9xSfqC6I/AAAAAAAAMao/7ojROqCu6rEVTViI0GQLqg64o7By4TbEgCLcBGAsYHQ/w0/Tahyul%2Btv3.jpg",Tahyul E10
+https://vod.tonton.com.my/vod/379/6421897/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-yT_h--2fDU8/YWT9xSfqC6I/AAAAAAAAMao/7ojROqCu6rEVTViI0GQLqg64o7By4TbEgCLcBGAsYHQ/w0/Tahyul%2Btv3.jpg",Tahyul E11
+https://vod.tonton.com.my/vod/379/6421898/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-yT_h--2fDU8/YWT9xSfqC6I/AAAAAAAAMao/7ojROqCu6rEVTViI0GQLqg64o7By4TbEgCLcBGAsYHQ/w0/Tahyul%2Btv3.jpg",Tahyul E12
+https://vod.tonton.com.my/vod/379/6421899/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-yT_h--2fDU8/YWT9xSfqC6I/AAAAAAAAMao/7ojROqCu6rEVTViI0GQLqg64o7By4TbEgCLcBGAsYHQ/w0/Tahyul%2Btv3.jpg",Tahyul E13
+https://vod.tonton.com.my/vod/379/6421901/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-yT_h--2fDU8/YWT9xSfqC6I/AAAAAAAAMao/7ojROqCu6rEVTViI0GQLqg64o7By4TbEgCLcBGAsYHQ/w0/Tahyul%2Btv3.jpg",Tahyul E14
+https://vod.tonton.com.my/vod/379/6421900/playlist_wifi_high.m3u8
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-yT_h--2fDU8/YWT9xSfqC6I/AAAAAAAAMao/7ojROqCu6rEVTViI0GQLqg64o7By4TbEgCLcBGAsYHQ/w0/Tahyul%2Btv3.jpg",Tahyul E15
+https://vod.tonton.com.my/vod/379/6421882/playlist_wifi_high.m3u8
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "sHxV8VmmTK5+IdTX9hU96Q", "kid": "eUVJvTppUn9eKNbPtJy0EA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_P_IVP_PORT_750x1126_202382_9928.jpg",Tanah Kubur S016 E01
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/d70a8508-a80a-5205-b24a-38f3614c0533/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "8dtmfiAKuAlTqPRz+fDQKA", "kid": "OqBSRr1YEEmHflQJHJR3EA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_P_IVP_PORT_750x1126_202382_9928.jpg",Tanah Kubur S016 E02
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/3a2097af-0128-5d48-b55c-f41b429b9813/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "eu799XssS87g6+Q8MrWfGw", "kid": "/OecJ0e2lRT//zlVUYMsEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_P_IVP_PORT_750x1126_202382_9928.jpg",Tanah Kubur S016 E03
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/f6ee8b3a-ab41-56ad-9bbe-65f0f2f60f1d/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "wKR66p/MtPPx+AJR9uH6VQ", "kid": "zUZcW/E+obr9jHAnyf9XEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_P_IVP_PORT_750x1126_202382_9928.jpg",Tanah Kubur S016 E04
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/a83fe030-426e-5af2-95d5-9a311e1a85bb/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "qIKToKS/aDvzp6naenAnmg", "kid": "1N/2r7dttUmqHY0vITPTEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_Series_IVP_LAND_672x378_202382_9918.jpg",Tanah Kubur S016 E05
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/7bb427e4-b1d5-52dc-8dbd-f5833e0cd59b/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "UUKtlqgmEYCeCNqY7okx+g", "kid": "mecSPwKSh8p1q27Ju8dnEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_Series_IVP_LAND_672x378_202382_9918.jpg",Tanah Kubur S016 E06
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/9e0738d8-2fc4-53ca-ab4e-fdfc8e6b091d/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "+uBqnpf+UeMPdgn96YL2Rg", "kid": "lqT5o5s8SRYGdg4dd/4/EA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_Series_IVP_LAND_672x378_202382_9918.jpg",Tanah Kubur S016 E07
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c3c27423-3ebe-5245-a04c-cd70613b1bf0/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "kdlpcfRjICFHwc//L6ShAQ", "kid": "Tw2jzBpIKywiRRL7/zmNEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_Series_IVP_LAND_672x378_202382_9918.jpg",Tanah Kubur S016 E08
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/74626c9d-0817-5d34-ac2b-c35034f60c1c/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XNwTArYY7aCMK5W4u47wmA", "kid": "cem5b34nYRGQBCS57m/ZEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_P_IVP_PORT_750x1126_202382_9928.jpg",Tanah Kubur S016 E09
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/5d3f3a82-df27-58cc-94d7-84ec8f68cbd2/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "nf9bj722u+wpecZB0FNaxQ", "kid": "EDh1fm1BbtXDPa3vJ9k8EA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_P_IVP_PORT_750x1126_202382_9928.jpg",Tanah Kubur S016 E10
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/7254c32d-c6a4-5037-8a3a-23f36d9857c6/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4GV/nfuFGtaUJTSWVnz+6Q","kid":"mN2ul186FMkDEH7CpXCQEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_P_IVP_PORT_750x1126_202382_9928.jpg",Tanah Kubur S016 E11
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/9666be5d-8647-5680-8fde-d7faf17c7d83/default_primary.mpd
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+VOD MALAYSIA
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+VOD NOSTALGIA
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2RlYjUzMWQtN2E2My00ZDhmLWEwYjgtYjA3MjA4YmViMTgyXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_FMjpg_UX1000_.jpg",Abang 92 - 1992
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Abang%2092.mkv
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5VaNTLstuv93lVnFzAYT50rpP1ahnKtaeizPQySLVWNPbqn-pUeW9NyFUNfW0cjInKTtRNKnYzd8AgHMRRkVFLVpWBHMz5KJzE48eA7zKeB859pWdn9I6iHccANKDGPjACqSzC7iauJEd/s200/adik.jpg",Adik - 1990
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Adik.mkv
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWEyMjA5YjUtOTZmOS00ZDk0LWI4YzgtYzNiM2Y3YWI4MmUxXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_FMjpg_UX1000_.jpg",Ali Setan - 1985
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/simpan/backupm/Ali%20Setan%201985.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDrRloE45uv46F30BzzaTjLGZt4DaQTp1Jh0Ym7uyfXw&s",Ali Setan 2 - 1986
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/simpan/backupm/Ali%20Setan%202%201986.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ExOTBiNzMtMDdhOS00YmM0LTkzNDUtYTk1NjNlYWI1NTU0XkEyXkFqcGdeQXVyMTgwOTc1Mjc1._V1_QL75_UX190_CR0,5,190,281_.jpg",Awang Spanar - 1989
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Awang%20Spanar%20(1989)%20HDTV_Hardsub%20English.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://image.tmdb.org/t/p/w500/4n7Efk6Hfd9nTiku4vqxND7Wx0a.jpg",Azura - 1984
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Azura.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5ZWE4MTYtY2RiYS00ZjMwLTk5NGMtNDFlYTYxZDM3MWU5XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",Baginda - 1997
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Baginda.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Bara_%281999_film%29.jpg/220px-Bara_%281999_film%29.jpg",Bara - 1999
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Bara.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/0/0e/Bayangan_Maut.jpg",Bayangan Maut - 1991
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Bayangan%20Maut.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-g6-sSOyuc24Jpyr7l8AOIS5EwuXWsSIfytxYyKrGm0FNuiT8KbrD9XCd3GY0Q7thi5cjpEfL2XnA9v7Xw6Ey7Ttf3pJ1q8_2iNsCJ9VH-httA2ZoAozwcW0ROSxV0K5InAqQv6hU8uw/s320/Cinta+Metropolitan.jpg",Cinta Metropolitan - 1994
+https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Cinta%20Metropolitan%20(1996)%20HDRip%201080p.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI5MzY1YmYtM2Y2My00ZWZmLWE5ZGMtZjI2MDA0ZjY4ZGE2XkEyXkFqcGdeQXVyMTMzMDI1NDAw._V1_.jpg",Da Di Du - 1981
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Da%20Di%20Du.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkzMWQzYTgtNThkNS00MmEzLWJmZTItY2MwMzBhMzNlNGU0XkEyXkFqcGdeQXVyMjQyMTUzNzY@._V1_.jpg",Darah Satria - 1983
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Darah%20Satria.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRmYmJhNzItZjk0MC00ODEyLTk3N2YtNmRlYjg0OWM1ZWVhXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_.jpg",Driving School - 1990
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Driving%20School%20%5B1990%5D%20VCDRip@KT.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg2MTVkN2UtMDZiZi00ODFmLTkzMzEtMTc2ZDFkZTdjZmFjXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg",Fenomena - 1990
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Fenomena.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/9/96/Gemilang_03.jpg/220px-Gemilang_03.jpg",Gemilang-  1997
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/GEMILANG%201997.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7p8PMLWW56KwbpNoSaRHR0BnT7yaWO8LtCHJ7dk7oIA&s" group-title=" Vod Nostalgia", Gila-Gila Remaja -1985
+https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EVf-BBkWYkFLmoluOHdXV7IBpwUByz7Bi3p3AAkOBpHeKw
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/7/2/1/2/2/172122-guru-badul-0-230-0-345-crop.jpg?v=ba722959bd",Guru Badul - 1988
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Guru%20Badul.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRmMzlkNzgtZGY0My00YmQ3LTg4Y2QtNjJjZjNiYThmNjk1XkEyXkFqcGdeQXVyMTU2Mzg5MDAw._V1_FMjpg_UX1000_.jpg",Harry Boy - 1991
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Harry%20Boy.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTgxNmI1MzItYTcwOS00MTlmLWJhZGUtOGEzNTEzZjUwMzRmXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_FMjpg_UX1000_.jpg",Hati Bukan Kristal - 1990
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Hati%20Bukan.Kristal.(1990).WebDL.mkv
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://a.ltrbxd.com/resized/film-poster/7/6/1/4/3/1/761431-kanta-serigala-0-230-0-345-crop.jpg?v=a56a9cffd5",Kanta Serigala - 1991
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Kanta%20Serigala.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/d2/Kembara-seniman-jalanan-1-.jpg",Kembara Seniman Jalanan - 1986
+https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Kembara%20Seniman%20Jalanan.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Y1NTU2NzUtN2Q5My00NmY0LTk4YmQtOGY3MTUzOTkxZDg0XkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_FMjpg_UX1000_.jpg",Litar Kasih - 1996
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Litar%20Kasih%201996.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzRhOWNmZDQtNzc5NC00MWEwLWExNTMtMjgwY2E5MTZiNjRjXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_FMjpg_UX1000_.jpg",Main Main Hantu - 1990
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Main-main%20Hantu.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDZjNzBmNDUtYzQxNi00ZDQyLWIyNjYtMTcyYzVkZDdhZTQwXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_.jpg",Marah Marah Sayang - 1987
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Marah-marah%20Sayang%20(1987).mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgzMzZhYjctYjExZS00MzIzLWJhYzktYmUzOWU1MjNjNzJhXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",Maria Mariana - 1996
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Maria%20Mariana.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGM4MWZiZDAtNmU3NC00NDZmLWI2ZmMtZjY4ZmNkY2QyYjM0XkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_FMjpg_UX1000_.jpg",Maria Mariana 2 - 1998
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Maria%20Mariana%20II.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGU4MjQwYTYtNGUxYy00Yjg5LTkxMTUtOGE3NjVkZjgxYWY2XkEyXkFqcGdeQXVyNzQwOTU0NTk@._V1_FMjpg_UX1000_.jpg",Memori - 1991
+https://misty-dust.evanwinters.workers.dev/0:/public/Memori.1991.576p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMwNjY1ZTktMDRmNy00OTE1LWJiZjgtOTI1MjhiZmI3MjNjXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_.jpg",Mira Edora - 1990
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Mira.Edora.1990.720p.HDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWU1ODNiNGQtZTQyMy00MTI2LWIxMTYtYWIyNDM4NmMwMDBlXkEyXkFqcGdeQXVyMTMzMDI1NDAw._V1_.jpg",Misteri Rumah Tua - 1987
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Misteri%20Rumah%20Tua.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDI0NzkwZGItMjk4Ny00YzQ2LWFmZjMtZGMyZjhkMWU0Mjg1XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",Mr Os - 1987
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/simpan/backupm/Mr%20Os.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://image.tmdb.org/t/p/w500/w1Krdhc6SpXxRuVrxCIawtz3h6K.jpg",Orang Kampung Otak Kimia - 1990
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Orang%20Kampung%20Otak%20Kimia.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDZiMWI2MDctYmVkMy00OTdmLTkxOGItNTcxYTM3ZmU1ZmE0XkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_.jpg",Pening Pening Lalat - 1990
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Pening%20Pening%20Lalat.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWFhZWExYWYtZDE1Mi00MjMzLTk2ODUtM2MxODJkM2M2NWE2XkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_FMjpg_UX1000_.jpg",Perempuan Melayu Terakhir - 1999
+https://misty-dust.evanwinters.workers.dev/0:/public/Perempuan.Melayu.Terakhir.1999.1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/eR4MDbv9lnwOXmqXPy4B7uSipUx.jpg" group-title=" Vod Nostalgia", Prebet Lapok -1979
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Prebet%20Lapok.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Puteri_Impian.jpg/220px-Puteri_Impian.jpg",Puteri Impian - 1997
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/simpan/backupm/Puteri%20Impian%201.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjc4NWQ0ZmUtMjFjNS00NDA3LWIwOTQtOGQyMDA3ODZiMTFhXkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_FMjpg_UX1000_.jpg",Puteri Impian 2 - 1998
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/simpan/backupm/Puteri%20Impian%202.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTIxMTg4MWQtM2QzMC00NDQ0LTk1NjAtOTU0MzEyODFhMzQyXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",Rahsia - 1987
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Rahsia%20(1987)%20720p%20WEBDL-SPITT.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQyNGVhMWItM2Q3Yi00ZGJkLTkwMTktYzg3ZGQ4YTIwYTQ1XkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_.jpg",Ringgit Kasorrga - 1995
+https://misty-dust.evanwinters.workers.dev/0:/public/Ringgit.Kasorrga.1995.576p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fk3G9QYxGKAXc0j8ShR774LNXLDi.jpg",Rombongan Cik Kiah Ke Sukan Komanwel - 1998
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Rombongan%20Cik%20Kiah%20ke%20Sukan%20Komanwel.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU0ZDRiYmItYjUzYy00YTA0LWFhNDAtZjJhZDNiZDJiYmI2XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",Sayang Salmah - 1995
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Sayang%20Salmah.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2UyYjUwMDctZmQyMy00M2I0LTk1MTItNmI2ODg4MTMzZDdiXkEyXkFqcGdeQXVyNDU3NjYwOTI@._V1_.jpg",Sejati - 1991
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Sejati.mkv
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BODIxZDA1ZmMtZTM0NC00YmM0LWJiNjEtMGQ4ZTdiODcxMTczXkEyXkFqcGdeQXVyNDg5MDMxNjQ@._V1_FMjpg_UX1000_.jpg",Sembilu - 1994
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Sembilu.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUxNTQ2MjYtNzExMy00NGU3LTljMzQtYTYyYzhhY2UyMGE5XkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_FMjpg_UX1000_.jpg",Sembilu 2 - 1995
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Sembilu%20II.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFmYmFjOWQtZTBlNy00YWZlLTgxYjQtMWM0NTRmNjlhZDg0XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg",Senario The Movie - 1999
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Senario/Senario%20The%20Movie.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZiODBkMzEtNjYzMS00Yjc0LWE3ZjEtMTc1M2ZhNDhmODg1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_.jpg",Setinggan - 1981
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Setinggan.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://image.tmdb.org/t/p/w500/wWha77bHLejEY86A0n9sXIXsyzK.jpg",Siapa Dia? - 1996
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Siapa%20Dia.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc1ODRkODctYjIzYS00YTNhLWFiMGYtMjI4Njg5NjUwMDBkXkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_FMjpg_UX1000_.jpg",Sikit Punya Gila - 1982
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Sikit%20Punya%20Gila.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ0ODQ3MTEtMjAwMC00NTA2LTk5MWMtNDlmOGJiZjI4NjUzXkEyXkFqcGdeQXVyNzQwOTU0NTk@._V1_FMjpg_UX1000_.jpg",Suara Kekasih - 1986
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Suara%20Kekasih.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTE3MTU1M2MtMmQzMC00NjU1LTk4OTktN2FkZGRlMzNjYzYwXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg",Tiada Esok Bagimu - 1980
+https://misty-dust.evanwinters.workers.dev/0:/public/Tiada.Esok.Bagimu.1980.1080p.WEB.2CH.x264-PYPER.mkv
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTliZGYxZjEtOTMxOC00ZjQxLTlkZmYtOTY0OGQzOTJmYTUwXkEyXkFqcGdeQXVyNjU2OTkyMzY@._V1_.jpg",XX Ray - 1992
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/XX%20Ray.mkv
+
+#EXTINF:-1 type="movie" group-title="Vod Nostalgia" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGEzMDRiMGEtYjFiMi00NDFhLThiYzAtNWZiNTdhMGU4ZmQ2XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",XX Ray II - 1995
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/XX%20Ray%20II.mp4
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+VOD P RAMLEE
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeBDlILGqpUpXhtNdc6m-cUHPjlQhNqvpRIQ&usqp=CAU",Abu Hasan Penchuri - 1955
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1955%5D%20Abu%20Hasan%20Penchuri%20VCD.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZlNzAzYmYtOWMxYy00YjJiLWI0NTUtZmI0MzNjNWIwYTliXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",Ahmad Albab - 1968
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Ahmad%20Albab%20SDTV.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "xSw1MgEGHAp9eRXOOd3D4A", "kid": "1ytFpDC5dK6Sn1/BqXtOEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzliNGYyMDAtZDM1ZC00ODFhLWIzNzAtZmVhYWU3NDFjODNkXkEyXkFqcGdeQXVyMTA3NTk1MQ@@._V1_FMjpg_UX1000_.jpg",Ali Baba Bujang Lapok - 1961
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/557b8f09-ff70-531f-9db3-2c5f671e881a/default.mpd
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzliNGYyMDAtZDM1ZC00ODFhLWIzNzAtZmVhYWU3NDFjODNkXkEyXkFqcGdeQXVyMTA3NTk1MQ@@._V1_FMjpg_UX1000_.jpg",Ali Baba Bujang Lapok - 1961
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1961%5D%20Ali%20Baba%20Bujang%20Lapok%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://d2gynsnnx1ixn5.cloudfront.net/jokp2/images/282x422/film/106817/aa1fa6e49ae34ecb0603cd514fbad42c.jpg",Anak Bapak - 1968 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Anak%20Bapak%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BODg2ODRmMmMtMGU1Yi00ZWVjLWI0ZTctZWFmNzJlMzdhNTQ4XkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_FMjpg_UX1000_.jpg",Anakku Sazali - 1956
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1956%5D%20Anakku%20Sazali%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://image.tmdb.org/t/p/w500/anxBz6GDqIwOqRbf9lyontJ4NhO.jpg",Anjoran Nasib - 1952
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1952%5D%20Anjoran%20Nasib%20VCD.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/9/9c/Antara_Dua_Darjat.jpg",Antara Dua Darjat - 1960
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1960%5D%20Antara%20Dua%20Darjat%20SDTV.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Tq0DwUNKVnuCrHLSmkuggQ", "kid": "Om6Cfj5k0iNnYeJJwuHbEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM2ZmExYmUtZTllMi00NzM2LWIwNmQtMTdjNzIwNjczNGJlXkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_.jpg",Bujang Lapok - 1957
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/a59bd445-319e-53c9-baac-6eaccddc25c7/default.mpd
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM2ZmExYmUtZTllMi00NzM2LWIwNmQtMTdjNzIwNjczNGJlXkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_.jpg",Bujang Lapok - 1957
+Bujang Lapok
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1957%5D%20Bujang%20Lapok%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk5NzdlYmMtNjUzYi00MjJlLWE4MzUtY2IzZDc2MGE2ZjI5XkEyXkFqcGdeQXVyNjMyMDY4MDM@._V1_FMjpg_UX1000_.jpg",Di Belakang Tabir- 1970
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1970%5D%20Di%20Belakang%20Tabir%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGMzNjNiNDItNWZiNi00OTVjLThkZGMtYWQ2ZWYxYjk4YTVjXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",Do Re Mi - 1966
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1966%5D%20Do%20Re%20Mi%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzRiZTM2NWUtOWJlZi00ZWEyLTlkZDItZGExZGEyZTFmYjY4XkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_FMjpg_UX1000_.jpg",Dr Rushdi - 1970
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1970%5D%20Dr%20Rushdi%20VCD.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ2ZWViYmItNzIwNS00ZmM5LTgwMGUtZWVkM2NkMGVkYTQwXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",Enam Jahanam - 1969
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1969%5D%20Enam%20Jahanam%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWJmM2Q2YjYtMTc5Ni00MWY2LWJiM2QtOTRiNWU2NzA2MDJlXkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_FMjpg_UX1000_.jpg",Gerimis - 1968
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Gerimis%20VCD.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Hangtuahpramlee.jpg",Hang Tuah - 1954
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1955%5D%20Hang%20Tuah%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg3MzQ2ZTMtYzA4ZC00NjBjLWIwY2ItZGRmMmIzNDIwNzI4XkEyXkFqcGdeQXVyMTA3NTk1MQ@@._V1_.jpg",Hujan Panas - 1953
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1953%5D%20Hujan%20Panas%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjZhMTM5ODgtY2E4ZC00OGI0LWExN2ItNmUyNDViMzNjYTRmXkEyXkFqcGdeQXVyMTgwOTc1Mjc1._V1_FMjpg_UX1000_.jpg",Ibu - 1953
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1953%5D%20Ibu%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjZzWF7NzGV15ZhcU-d0pqlukoukQFVMBVYxpb9dTm5Q&s",Ibu Mertuaku - 1962
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1969%5D%20Ibu%20Mertuaku%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmZkMGExMGUtYjZiMC00NWU1LTkwMzUtM2Y0YThjM2RhZTJmXkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_FMjpg_UX1000_.jpg",Jangan Tinggal Daku - 1971
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1971%5D%20Jangan%20Tinggal%20Daku%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUGgKtJ_RsSw1sWPATDdCMpP3roPY364K-XLIfRbF7JZfsje1D4K0SestDPEVOkzuVOOYuoRx5Dtjq70rJtnEtptp3IN_kcFChLzN4f48K8ikwU-dt3tsPoTGackrNltw6YssMjNK3JN8w/s1600/Juwita.jpg",Juwita - 1951
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1951%5D%20Juwita%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFjNGU2OWEtYmNkYS00M2IzLWJhYjgtN2Y0YzVkY2U2ODU4XkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_.jpg",Kanchan Tirana - 1969
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Kanchan%20Tirana%20VCD.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDdhOGEzYTktZTZlYi00ZjI5LTk5NTEtNjk3ZWE4ZjYwNzQyXkEyXkFqcGdeQXVyMTA3NTk1MQ@@._V1_FMjpg_UX1000_.jpg",Keluarga 69 - 1967
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1967%5D%20Keluarga%2069%20VCD.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGJhMTkwNWYtNWVhNC00NWJlLTg4ZTAtZTI4YjA5ZTE2ODY0XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",Labu dan Labi - 1962
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1962%5D%20Labu%20dan%20Labi%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTE0YWUzYWQtYjU3Ny00YWVkLTlmNTgtNjIzNDZmNmE2N2ZkXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",Laksamana Do Re Mi - 1972
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1972%5D%20Laksamana%20Do%20Re%20Mi%20SDTV.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=06405eab1fc89e880b043affb7997a10:5158304bb69c3ec1287bc3f548a8df0c
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmYwMzNjNjUtMDliMi00NjJiLWJiNzYtN2M1NzE3MDAzZDkzXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",Madu Tiga - 1964
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c5bbc9fc-1c36-5a60-a8d2-7b1036e2cc50/default_primary.mpd
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmYwMzNjNjUtMDliMi00NjJiLWJiNzYtN2M1NzE3MDAzZDkzXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",Madu Tiga - 1964
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Madu%20Tiga%20SDTV.mp4
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69ac558debea92af91b80fca29e63210:8359d7e73eaffa20df30549d7af6208c
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc0ZThjZWYtZjNhOS00NDg3LTllYmUtMmNiMDY1OGI4YWNkXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",Masam Masam Manis - 1965
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/ba51a685-217c-5725-8221-62f23bbf93a1/default_primary.mpd
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc0ZThjZWYtZjNhOS00NDg3LTllYmUtMmNiMDY1OGI4YWNkXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",Masam Masam Manis - 1965
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1965%5D%20Masam%20Masam%20Manis%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://image.tmdb.org/t/p/w500/zlF3xSqMJZUgqmJSx44Lo2uLUpv.jpg",Merana - 1954
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1954%5D%20Merana%20SDTV.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=568810c75d93711d80a001c904549710:4811edb267f9ab3dee1781fdd22e916a
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://image.tmdb.org/t/p/w500/cqHXC95ahqrSAaNxBD2QbAOj6iQ.jpg",Musang Berjanggut - 1959
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c7622e9d-d629-5f39-a274-6ca729874360/default_primary.mpd
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://image.tmdb.org/t/p/w500/cqHXC95ahqrSAaNxBD2QbAOj6iQ.jpg",Musang Berjanggut - 1959
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1959%5D%20Musang%20Berjanggut%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://image.tmdb.org/t/p/w500/byq9XA5beRUvI2yN9CHtVTDUk6c.jpg",Nasib Do Re Mi - 1966
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1966%5D%20Nasib%20Do%20Re%20Mi%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDkwMmJkNmMtNjBkYy00MTNhLTgyZWUtMmU2NDY3NTNlNDU4XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_QL75_UY281_CR11,0,190,281_.jpg",Nasib Si Labu Labi - 1963
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1963%5D%20Nasib%20Si%20Labu%20Labi%20SDTV.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "D/aVOXsG4HJdakO/8qYcHQ", "kid": "T3tLwDRHV7nhkThEF39xEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDI1NzVhNjQtOTEyYy00NDBiLTkwYzctMzg0NzRiOTM5Y2YxXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",Nujum Pak Belalang - 1959
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/cb5eda30-0264-5912-946b-f1e8ae80ddc5/default.mpd
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDI1NzVhNjQtOTEyYy00NDBiLTkwYzctMzg0NzRiOTM5Y2YxXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",Nujum Pak Belalang - 1959
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1959%5D%20Nujum%20Pak%20Belalang%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzdmZGRjYmEtZmJlNi00ZjI3LTllZWEtNDIwYmZmMWRiMzI0XkEyXkFqcGdeQXVyMTMzMDI1NDAw._V1_FMjpg_UX1000_.jpg",Panggilan Pulau - 1954
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1954%5D%20Panggilan%20Pulau%20VCD.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTBjNTFlYWQtMjdmYi00ZmU3LWI3ODMtMDJlYTc1ZDhlMjYzXkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_.jpg",Penarek Becha - 1955
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1955%5D%20Penarek%20Becha%20VCD.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "nh18ci729n2aTNerMD1Acw", "kid": "5dFUdJ5EghNY/XAlaINDEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZjYjZmMzUtOWUzYy00MDkwLThhMWMtMDdiYjJjNzcyNzRhXkEyXkFqcGdeQXVyMTA3NTk1MQ@@._V1_FMjpg_UX1000_.jpg",Pendekar Bujang Lapok - 1959
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/4d64370e-245a-58f9-a510-05d43e81e736/default.mpd
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZjYjZmMzUtOWUzYy00MDkwLThhMWMtMDdiYjJjNzcyNzRhXkEyXkFqcGdeQXVyMTA3NTk1MQ@@._V1_FMjpg_UX1000_.jpg",Pendekar Bujang Lapok - 1959
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1959%5D%20Pendekar%20Bujang%20Lapok%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RkZWM4NzctMjJkZS00NWY2LTk4MjYtMmU1NjYwMmFmYjJlXkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_FMjpg_UX1000_.jpg",Putus Sudah Kasih Sayang - 1971
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1971%5D%20Putus%20Sudah%20Kasih%20Sayang%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://image.tmdb.org/t/p/w500/agZ63MetwRS0voliHPrpwWrAObk.jpg",Rachun Dunia - 1950
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1950%5D%20Rachun%20Dunia%20VCD.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ3ZjRmYmItMGJkYy00NDhmLWI1MDQtYWE3NmI3MWUzOGQ1XkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_.jpg",Ragam P Ramlee - 1964
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Ragam%20P%20Ramlee%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ3ZjRmYmItMGJkYy00NDhmLWI1MDQtYWE3NmI3MWUzOGQ1XkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_.jpg",Ragam P Ramlee - Mintak Nombor Ekor - 1964
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Ragam%20P%20Ramlee%20-%20Mintak%20Nombor%20Ekor%20VCD.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzI3NWRiZGItMGVlYi00YmE2LTk4ZTEtNzNiMzQyOTI4Y2ZjXkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_FMjpg_UX1000_.jpg",Sabarudin Tukang Kasut - 1966
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1966%5D%20Sabarudin%20Tukang%20Kasut%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUxZDdmNGMtYWQyOC00MjNmLTkxOWItY2JiYjZmMmZlZjMyXkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_FMjpg_UX1000_.jpg",Semerah Padi - 1956
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1956%5D%20Semerah%20Padi%20VCD.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "CQz/7/3IjdLJ7BLDzkttjw", "kid": "03nOegVES1pjR1+QPRNYEA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3Y2UxNTYtM2U4My00MzliLWJlOTYtYTFjMTljZThmZWFhXkEyXkFqcGdeQXVyMTA3NTk1MQ@@._V1_FMjpg_UX1000_.jpg",Seniman Bujang Lapok - 1961
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/b5d3f275-7a5d-5d4c-9dcc-7a1b0ac0326f/default.mpd
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3Y2UxNTYtM2U4My00MzliLWJlOTYtYTFjMTljZThmZWFhXkEyXkFqcGdeQXVyMTA3NTk1MQ@@._V1_FMjpg_UX1000_.jpg",Seniman Bujang Lapok - 1961
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1961%5D%20Seniman%20Bujang%20Lapok%20SDTV.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "BLaBEgJep4l7lJK6P6aubw", "kid": "PI7ZZiNFWDJecvCgKxJ8EA"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDgxMDZhNDctZGViYy00YTgwLTkwMzktYzY5NTk3OTI5MjIwXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",Sergeant Hassan - 1958
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/92a1547a-f25e-5832-a35e-9898ae4b2a4e/default_primary.mpd
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDgxMDZhNDctZGViYy00YTgwLTkwMzktYzY5NTk3OTI5MjIwXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",Sergeant Hassan - 1958
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1958%5D%20Sarjan%20Hassan%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/2/1-6585437673.jpg",Sumpah Orang Minyak - 1956
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1958%5D%20Sumpah%20Orang%20Minyak%20VCD.mp4
+
+#EXTINF:-1 type="movie" group-title="Vod P Ramlee" tvg-logo="https://thumbs.worthpoint.com/zoom/images4/1/0714/05/1964-majallah-filem-ramlee-tiga-abdul_1_194deded014ba4f2c0f53d16ac74369f.jpg",Tiga Abdul - 1964
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Tiga%20Abdul%20SDTV.mp4
+
+
