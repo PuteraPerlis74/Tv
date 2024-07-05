@@ -575,10 +575,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
 EXTINF:-1 tvg-id="816" tvg-name="SPOTV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png" group-title="SPORTS",SPOTV
 https://d1fk7kbmz4il3.cloudfront.net/CH2/masterCH2.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7W1n2VPRSwJrJgLPiEZXfg", "kid":"Xv0m2lABNjtNb6SpyBKtEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png" group-title="SPORTS",SPOTV2
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXRTNNakUxT0dNdFpHVTNOeTAwWW1RM0xXSTFNakl0T0RjMFpXWTVPVEV4WWpNMSIsIndtb3BpZCI6MzIsImV4cCI6MTcxNDU0MTExMywiaWF0IjoxNzEzOTM3MTEzfQ.9AGuF61lYpQAH0DRhNV10UwBq2nYk32eC1M5dYE27f8"}
