@@ -246,6 +246,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_cricket_my.png" group-title="SPORTS",ASTRO CRICKET HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT HD
@@ -300,6 +301,10 @@ EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/balap-id.png" group-title
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658" group-title="SPORTS",BEIN SPORTS XTRA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PEUIrzSIRBB/XgJqT9axbg", "kid":"GmVRiatcSesjUwjCsannEA" } ], "type":"temporary" }
@@ -770,7 +775,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MFKMTviClU5XB80QAdZhIQ", "kid":"DLxNO0+9mvUSrLJIi7QpEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="SPORTS",WWE NETWORK HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 
 
 
@@ -3063,10 +3068,13 @@ http://youtube.com
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/722791735-959381a44397842bc1f7b14dd6e7ece4e8e6d89094b12e3e829279c5980be790-d_640" group-title="MOVIES",ACTION HOLLYWOOD MOVIES
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_east_asia.png" group-title="MOVIES",AXN HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3092,20 +3100,21 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20220801_200458_68.png" group-title="MOVIES",BOLLYWOOD CLASSIC HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
-#EXTINF:-1 tvg-id="404" tvg-name="BOO" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boo_my.png" group-title="MOVIES",BOO HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
 #EXTINF:-1 tvg-id="404" tvg-name="BOO" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boo_my.png" group-title="MOVIES",BOO HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
-#EXTINF:-1 tvg-id="321" tvg-name="CCM" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="MOVIES",CCM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"P1k1XhXu0bshnqFofVXPuw", "kid":"pkLdS/PqeC4ZICre+2BLEA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
+#EXTINF:-1 tvg-id="321" tvg-name="CCM" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="MOVIES",CCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3113,10 +3122,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 EXTINF:-1 tvg-id="321" tvg-name="CCM" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="MOVIES",CCM
 https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",CELESTIAL MOVIES
-http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3167,20 +3178,33 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E8xTWtSnMgEUeGPKw4bN0w", "kid":"79sqjTkVHMOfS1HXYs+cEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="412" tvg-name="CINEMAX HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="MOVIES",CINEMAX HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
-#EXTINF:-1 tvg-name="COLORS HINDI" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-in.png" group-title="MOVIES",COLORS HINDI HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-bioskop-id.png" group-title="MOVIES", CITRA BIOSKOP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btm0l2qFSiic5iyslXpV1Q", "kid":"rTyyQs3jtofiOYzSHrm9EA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KXyXli/42emfHaF46gCD7A", "kid":"lHiLyTcFQJCyFtwQHl+l3A" } ], "type":"temporary" }
+https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
-#EXTINF:-1 tvg-name="COLORS TAMIL" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-tamil-in-uk.png" group-title="MOVIES",COLORS TAMIL HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btm0l2qFSiic5iyslXpV1Q", "kid":"rTyyQs3jtofiOYzSHrm9EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-name="COLORS HINDI" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-in.png" group-title="MOVIES",COLORS HINDI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"URkFvxkUdLQStOwRdRWnnA", "kid":"5GNU+znCjllWvJRqwqBQEA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
+#EXTINF:-1 tvg-name="COLORS TAMIL" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-tamil-in-uk.png" group-title="MOVIES",COLORS TAMIL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="MOVIES",DOUYU TV MOVIES
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
@@ -3208,18 +3232,24 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8/hCxUzJbLvQvLlqTLioEw", "kid":"oJiJbSsRxfOQapk8O6XGEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="411" tvg-name="HBO HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_my.png" group-title="MOVIES",HBO HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_ce.png" group-title="MOVIES",HBO 2
 http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="MOVIES",HBO FAMILY HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/default.mpd
 
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="MOVIES",HBO FAMILY HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3229,10 +3259,13 @@ EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" grou
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eWE5ugWiq0Jfl4x/2YtDcg", "kid":"XWAOtwlE1oHCbB9I++YfEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="415" tvg-name="HBO Hits" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" group-title="MOVIES",HBO HITS HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" group-title="MOVIES",HBO HITS HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3295,10 +3328,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png" group-title="MOVIES",HITS
 https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-movies-sg.png" group-title="MOVIES",HITS MOVIES
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3306,7 +3342,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-movies-sg.png" group-title="MOVIES",HITS MOVIES
 https://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HITSNOW.png" group-title="MOVIES",HITS NOW
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HITSNOW.png" group-title="MOVIES",HITS NOW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"pNSb2ozSm6KIjHMrTn2dYw", "kid":"Qwfe9qKb7AgvjJPx+Y5ZEA" } ], "type":"temporary" }
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
@@ -3450,10 +3486,11 @@ https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="MOVIES",THRILL
 https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png" group-title="MOVIES",WARNER TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+DJvZox77jCeUwK1E+W99w", "kid":"YJPhJjmyTNZR7ms8E0RtEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png" group-title="MOVIES",WARNER TV HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
+https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-action-in.png" group-title="MOVIES",ZEE ACTION
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8?token=test
@@ -3468,9 +3505,10 @@ EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-bollywood-in.png" gro
 http://208.115.215.42:80/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IPOS5aECG+aPwyvNuew61A", "kid":"25ZIOQB2LiM6p4MEV6DTEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cinema-in.png" group-title="MOVIES",ZEE CINEMA
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-classic-in.png" group-title="MOVIES",ZEE CLASSIC 
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/index.m3u8?token=test
