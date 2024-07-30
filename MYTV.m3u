@@ -861,7 +861,8 @@ https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V6jW+eODKIfbGOpgcRGHNg", "kid":"QaQvta9FdQHBG7mxWNWhEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="114" tvg-name="AL-HIJRAH" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_alhijrah.png" group-title="MALAYSIA🇲🇾",AL HIJRAH
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
 #EXTINF:-1 tvg-id="123" tvg-name="AWESOME TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/awesome-tv-my.png" group-title="MALAYSIA🇲🇾",AWESOME
 #KODIPROP:inputstream.adaptive.license_type=clearkey
