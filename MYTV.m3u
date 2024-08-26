@@ -148,6 +148,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-2-my.png" group-title="SPORTS",ASTRO ARENA 2 HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-2-my.png" group-title="SPORTS",ASTRO ARENA 2 HD
+https://test.zapi.us.kg/?id=astro-arena2
+
 #EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola_logo.png" group-title="SPORTS",ASTRO ARENA BOLA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=7481d3e3738c46768f138e208fee9076:e1d428c7f1ca82339a6cfa1d0757428e 
@@ -176,11 +179,23 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" } 
 https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT HD
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1722
+
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT HD
+http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1722.ts
+
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png",ASTRO SUPERSPORT 2 HD
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XUmtNbVExTnpBdE5ESXpaaTAwWVdSaExUZzRNMkl0TkRabFlqTmtObVptTmpCaSIsIndtb3BpZCI6MzIsImV4cCI6MTcyNTAxMDY0OCwiaWF0IjoxNzI0NDA2NjQ4fQ.oJFUHAFhXe3Lj5kSLwYHhk9LTk5JklISqprbRDV3Asg"} 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" } 
 http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png",ASTRO SUPERSPORT 2 HD
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1721
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png",ASTRO SUPERSPORT 2 HD
+http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1721.ts
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",ASTRO SUPERSPORT 3 HD
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XUmtNbVExTnpBdE5ESXpaaTAwWVdSaExUZzRNMkl0TkRabFlqTmtObVptTmpCaSIsIndtb3BpZCI6MzIsImV4cCI6MTcyNTAxMDY0OCwiaWF0IjoxNzI0NDA2NjQ4fQ.oJFUHAFhXe3Lj5kSLwYHhk9LTk5JklISqprbRDV3Asg"} 
@@ -188,10 +203,22 @@ http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" } 
 https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",ASTRO SUPERSPORT 3 HD
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1720
+
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",ASTRO SUPERSPORT 3 HD
+http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 #EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="SPORTS",ASTRO SUPERSPORT 4 HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+
+#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="SPORTS",ASTRO SUPERSPORT 4 HD
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1719
+
+#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="SPORTS",ASTRO SUPERSPORT 4 HD
+http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1719.ts
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -943,12 +970,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 #EXTINF:-1 tvg-id="501" tvg-name="ASTRO AWANI" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_awani.png" group-title="MALAYSIA🇲🇾",ASTRO AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
-EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-https://9nmy.short.gy/2700.mpd
+#EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA HD
+https://test.zapi.us.kg/?id=astro-citra
 
 #EXTINF:-1 tvg-id="333" tvg-name="ASTRO HUA HEE DAI" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-hua-hee-dai-my.png" group-title="MALAYSIA🇲🇾",ASTRO HUA HEE DAI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -991,6 +1014,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 https://cdn08.mobileads.cloud/myiptv4u-ria/index.m3u8
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA HD
+https://test.zapi.us.kg/?id=astro-ria
+
+#EXTINF:-1 tvg-id="104" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA HD
 http://31.42.187.37:25461/watchpad13158/1234/11485
 http://31.42.187.37:25461/watchpad13158/1234/68
 
@@ -1022,6 +1048,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_primary.mpd
 
 #EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA HD
 http://31.42.187.37:25461/watchpad13158/1234/87
+
+#EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA HD
+https://test.zapi.us.kg/?id=astro-warna
 
 EXTINF:-1 tvg-name="ASTRO XIAO TAI YANG" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_xiao_tai_yang.png" group-title="MALAYSIA🇲🇾",ASTRO XIAO TAI YANG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
