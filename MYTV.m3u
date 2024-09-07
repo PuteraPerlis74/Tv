@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" billed-msg="🇲🇾PuteraPerlis Multimedia🇲🇾" vod_library="https://raw.githubusercontent.com/PuteraPerlis74/Tv/main/MY%20FILM,https://fahmikacak.pages.dev/HBOGO%20Asia,https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php,https://dl.dropbox.com/scl/fi/07hague6sa0a5mkr6g7gc/T-Vision-VOD.m3u?rlkey=igjyfiapriuk1a21cqmyuvn17&dl=0,"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" billed-msg="🇲🇾PuteraPerlis Multimedia🇲🇾" vod_library="https://pondan.serv00.net/dewanonton.m3u8,https://fahmikacak.pages.dev/HBOGO%20Asia,https://raw.githubusercontent.com/PuteraPerlis74/Tv/main/MY%20FILM,"
 
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/f-zQdGn5dAUEybjbCJ94QTfabrzijJBNcADcaWn5dCoA3isCWrnN7-Pj0C73wSCbmHQ=w300" tvg-name=",PUTERA PERLIS MULTIMEDIA
 http://youtube
@@ -140,12 +140,12 @@ http://80.252.37.194:5000/udp/233.233.233.8:12000
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-my.png" group-title="SPORTS",ASTRO ARENA HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-my.png" group-title="SPORTS",ASTRO ARENA
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-2-my.png" group-title="SPORTS",ASTRO ARENA 2 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-2-my.png" group-title="SPORTS",ASTRO ARENA 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 
 #EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola_logo.png" group-title="SPORTS",ASTRO ARENA BOLA
@@ -164,37 +164,37 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_cricket_my.png" group-title="SPORTS",ASTRO CRICKET HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_cricket_my.png" group-title="SPORTS",ASTRO CRICKET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT HD
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1722
 
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT HD
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1722.ts
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png",ASTRO SUPERSPORT 2 HD
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png",ASTRO SUPERSPORT 2
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1721
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png",ASTRO SUPERSPORT 2 HD
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png",ASTRO SUPERSPORT 2
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1721.ts
 
-#EXTINF:-1 tvg-id="AstroSupersport3" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",ASTRO SUPERSPORT 3 HD
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",ASTRO SUPERSPORT 3
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1720
 
-#EXTINF:-1 tvg-id="AstroSupersport3" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",ASTRO SUPERSPORT 3 HD
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",ASTRO SUPERSPORT 3
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="SPORTS",ASTRO SUPERSPORT 4 HD
+#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="SPORTS",ASTRO SUPERSPORT 4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
-#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="SPORTS",ASTRO SUPERSPORT 4 HD
+#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="SPORTS",ASTRO SUPERSPORT 4
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1719
 
-#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="SPORTS",ASTRO SUPERSPORT 4 HD
+#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="SPORTS",ASTRO SUPERSPORT 4
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1719.ts
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -224,20 +224,20 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf500092
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PEUIrzSIRBB/XgJqT9axbg", "kid":"GmVRiatcSesjUwjCsannEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-qa.png" group-title="SPORTS",BEIN SPORTS HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-qa.png" group-title="SPORTS",BEIN SPORTS
 http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UQKxKqx3VsZdy0ahAdlg0w", "kid":"OcF1WB4jfv+VWWB+ubI8EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",BEIN SPORTS 2 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",BEIN SPORTS 2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BCohvyNspymx40PtbgpjNw", "kid":"IMiE747Saydi+LGnjy0ZEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS",BEIN SPORTS 3 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS",BEIN SPORTS 3
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="SPORTS",BEIN SPORTS 4 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="SPORTS",BEIN SPORTS 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
 https://web.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
@@ -443,7 +443,7 @@ http://210.210.155.35/uq2663/h/h09/index.m3u8?app_type=web&userid=50n13N0v14nd1&
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="SPORTS",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-sports-asia-ie.png" group-title="SPORTS",PREMIER SPORTS ASIA
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-sports-asia-ie.png" group-title="SPORTS",PREMIER SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -690,7 +690,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MFKMTviClU5XB80QAdZhIQ", "kid":"DLxNO0+9mvUSrLJIi7QpEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="SPORTS",WWE NETWORK HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="SPORTS",WWE NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 
@@ -938,7 +938,7 @@ https://linear07-playback.sooka.my/CH5/masterCH5.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-aura-my.png" group-title="MALAYSIA🇲🇾",ASTRO AURA HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-aura-my.png" group-title="MALAYSIA🇲🇾",ASTRO AURA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
@@ -977,7 +977,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_quan_jia_hd_my.png" group-title="MALAYSIA🇲🇾",ASTRO QUAN JIA HD
 https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroQuanJiaHD
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-rania-my.png" group-title="MALAYSIA🇲🇾",ASTRO RANIA HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-rania-my.png" group-title="MALAYSIA🇲🇾",ASTRO RANIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -985,7 +985,7 @@ https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroQuanJiaHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
-EXTINF:-1 tvg-id="104" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA HD
+EXTINF:-1 tvg-id="104" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
 http://31.42.187.37:25461/watchpad13158/1234/11485
 http://31.42.187.37:25461/watchpad13158/1234/68
 
@@ -1221,13 +1221,13 @@ https://azuracast.shoutcastsolutions.com/radio/8120/radio.mp3
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/47465.v3.png" group-title="RADIO MALAYSIA🇲🇾",DELIMA FM
 http://167.114.131.90:5610/;stream.nsv
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="RADIO MALAYSIA🇲🇾",ERA FM
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="RADIO MALAYSIA🇲🇾",ERA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TVWfzBIFLZ5/zg+PZZK7oQ", "kid":"hSlCUcius3NonqoOqVh4EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/118/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="RADIO MALAYSIA🇲🇾",ERA FM
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="RADIO MALAYSIA🇲🇾",ERA
 https://stream.rcs.revma.com/crec9cmbv4uvv/14_1mxuqy6p1izr902/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/era-sarawak/square_md.jpg" group-title="RADIO MALAYSIA🇲🇾",ERA (SABAH)
@@ -1257,6 +1257,27 @@ https://stream.rcs.revma.com/sgzunsw711uvv/7_1tp64fb9xvrs502/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/era-throwbaek/141123/square_md.png" group-title="RADIO MALAYSIA🇲🇾",ERA THROWBAEK
 https://stream.rcs.revma.com/uq3kmtw711uvv/8_9km8aut9q72f02/playlist.m3u8
 
+#EXTINF:-1 tvg-id="863" tvg-name="GEGAR FM" tvg-country="MY"tvg-language="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" tvg-url="" group-title="RADIO MALAYSIA🇲🇾",GEGAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oP7KOBC5InWSvYk7+58fiQ", "kid":"cLap0cX10nWszwqMUdv3EA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/126/default_primary.mpd
+
+#EXTINF:-1 tvg-id="863" tvg-name="GEGAR FM" tvg-country="MY"tvg-language="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" tvg-url="" group-title="RADIO MALAYSIA🇲🇾",GEGAR
+https://stream.rcs.revma.com/cn0zcqsbv4uvv/4_ejlx9lzb14zo02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/gegar_hindi/080224/square_md.png" group-title="RADIO MALAYSIA🇲🇾",GEGAR HINDI POWER
+https://stream.rcs.revma.com/ggn4nww711uvv/16_1jvcsvi5sf2zg02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/gegar_hohbtabuh/080224/square_md.png" group-title="RADIO MALAYSIA🇲🇾",GEGAR HOH BTABUH
+https://stream.rcs.revma.com/5u674yw711uvv/16_1c1frqv8qb5em02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/gegar_maghigelek/080224/square_md.png" group-title="RADIO MALAYSIA🇲🇾",GEGAR MAGHI GELEK
+https://stream.rcs.revma.com/97gya1w711uvv/7_1longra7dqcba02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/gegar_tradisi/080224/square_md.png" group-title="RADIO MALAYSIA🇲🇾",GEGAR TRADISI
+https://stream.rcs.revma.com/ad2y31w711uvv/3_uux2412lm9kd02/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/47995.v9.png" group-title="RADIO MALAYSIA🇲🇾",GEMERSIK FM
 http://51.79.219.206:8000/stream
 
@@ -1278,7 +1299,7 @@ http://nebula.shoutca.st:8098/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/8q4c2zyx9twt.png" group-title="RADIO MALAYSIA🇲🇾",HIJAU FM
 https://stream.radio.co/s4c9c7e0cb/listen
 
-#EXTINF:-1 tvg-id="852" tvg-name="Hits FM" tvg-country="MY"tvg-language="en"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" tvg-url="" group-title="RADIO MALAYSIA🇲🇾",HITZ FM
+#EXTINF:-1 tvg-id="852" tvg-name="Hits FM" tvg-country="MY"tvg-language="en"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" tvg-url="" group-title="RADIO MALAYSIA🇲🇾",HITZ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ltoLvoO49UGU5CQo4f1mMg", "kid":"x1n0vBV7AKex26eHMZf8EA" } ], "type":"temporary" } 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -1362,7 +1383,7 @@ https://22273.live.streamtheworld.com/LANGKAWI_FMAAC.aac
 #EXTINF:-1 tvg-logo="https://rtmklik.rtm.gov.my/img/radio-limbang.09e4dfee.jpg" group-title="RADIO MALAYSIA🇲🇾",LIMBANG FM
 https://22273.live.streamtheworld.com/LIMBANGAAC.aac
 
-#EXTINF:-1 tvg-id="854" tvg-name="LITE FM"tvg-country="MY"tvg-language="en"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png" tvg-url="" group-title="RADIO MALAYSIA🇲🇾",LITE FM
+#EXTINF:-1 tvg-id="854" tvg-name="LITE FM"tvg-country="MY"tvg-language="en"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png" tvg-url="" group-title="RADIO MALAYSIA🇲🇾",LITE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tZ1I5dpeNKHRe8tujMNiZw", "kid":"6Ks1BJHgUSgjWFnxJyJbEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -1389,7 +1410,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/139/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://rtmklik.rtm.gov.my/img/radio-minnal.891948ec.jpg" group-title="RADIO MALAYSIA🇲🇾",MINNAL FM
 https://22273.live.streamtheworld.com/MINNAL_FMAAC
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png" group-title="RADIO MALAYSIA🇲🇾",MIX FM
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png" group-title="RADIO MALAYSIA🇲🇾",MIX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/122
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -1398,7 +1419,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/122/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://rtmklik.rtm.gov.my/img/radio-melaka.ddf4e356.jpg" group-title="RADIO MALAYSIA🇲🇾",MELAKA FM
 https://28153.live.streamtheworld.com/MELAKA_FMAAC
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png" group-title="RADIO MALAYSIA🇲🇾",MELODY FM
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png" group-title="RADIO MALAYSIA🇲🇾",MELODY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bfUsRrGTUi/odCCTjgKXWQ", "kid":"003ElwH5wiufILqrsnrUEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -1416,7 +1437,7 @@ https://mediaprima.rastream.com/mediaprima-molekfm
 #EXTINF:-1 tvg-logo="https://rtmklik.rtm.gov.my/img/radio-mutiara.2d02099e.jpg" group-title="RADIO MALAYSIA🇲🇾",MUTIARA FM
 https://28153.live.streamtheworld.com/MUTIARA_FMAAC
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png" group-title="RADIO MALAYSIA🇲🇾",MY FM
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png" group-title="RADIO MALAYSIA🇲🇾",MY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Qz+mjW7JgGdclrta4uAXiQ", "kid":"j2GMEpVaxcQx9fkBRRydEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -1470,6 +1491,12 @@ http://51.79.219.207:8000/stream
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/82309.v17.png" group-title="RADIO MALAYSIA🇲🇾",RADIO ROSAK
 https://radiorosak.radioca.st/stream
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png" group-title="RADIO MALAYSIA🇲🇾",RAAGA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BYeQ+4hhPmpxAoqvoiWEAw", "kid":"jZum9isUpdVwayEAe8ITEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/134/default_primary.mpd
+
 #EXTINF:-1 tvg-logo="https://rtmklik.rtm.gov.my/img/radio-red.62159cea.jpg" group-title="RADIO MALAYSIA🇲🇾",RED FM
 https://28163.live.streamtheworld.com/RED_FMAAC.aac
 
@@ -1479,13 +1506,13 @@ http://procyon.shoutca.st:8346/;
 #EXTINF:-1 tvg-logo="https://rtmklik.rtm.gov.my/img/radio-melaka.ddf4e356.jpg" group-title="RADIO MALAYSIA🇲🇾",SABAH FM
 https://28153.live.streamtheworld.com/SABAH_FMAAC
 
-#EXTINF:-1 tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah-v.8109b1c6.jpg" group-title="RADIO MALAYSIA🇲🇾",SABAH VFM
+#EXTINF:-1 tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah-v.8109b1c6.jpg" group-title="RADIO MALAYSIA🇲🇾",SABAH V FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V9QpBgepo6Fj3gc4j831jQ", "kid":"7U3HtuIiXEVjTp1jJyqbEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/133/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah-v.8109b1c6.jpg" group-title="RADIO MALAYSIA🇲🇾",SABAH VFM
+#EXTINF:-1 tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah-v.8109b1c6.jpg" group-title="RADIO MALAYSIA🇲🇾",SABAH V FM
 https://28103.live.streamtheworld.com/SABAH_VFMAAC
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/114401.v6.png" group-title="RADIO MALAYSIA🇲🇾",SANA SINI FM
@@ -1503,13 +1530,13 @@ https://22273.live.streamtheworld.com/SELANGOR_FMAAC
 #EXTINF:-1 tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sibu.a8d8e039.jpg" group-title="RADIO MALAYSIA🇲🇾",SIBU FM
 https://28163.live.streamtheworld.com/SIBU_FMAAC
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="RADIO MALAYSIA🇲🇾",SINAR FM
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="RADIO MALAYSIA🇲🇾",SINAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lFjtduhfGtiqfu/NvWKJCA", "kid":"evPsHy2wd65jdKAYy7SFEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/130/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="RADIO MALAYSIA🇲🇾",SINAR FM
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="RADIO MALAYSIA🇲🇾",SINAR
 https://stream.rcs.revma.com/azatk0tbv4uvv/6_1h7vqr08pndta02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/sinar-irama70/080224/square_md.png" group-title="RADIO MALAYSIA🇲🇾",SINAR IRAMA 70’
@@ -1542,10 +1569,10 @@ https://22273.live.streamtheworld.com/SRIAMAN_FMAAC.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/khyuktkvllxf.png" group-title="RADIO MALAYSIA🇲🇾",SUARA RAKYAT FM
 http://s9.voscast.com:7670
 
-#EXTINF:-1 tvg-logo="https://cdn.starmediagroup.my/wp-content/uploads/2015/04/04191241/Suria-Logo-01-300x221.jpg" group-title="RADIO MALAYSIA🇲🇾",SURIA FM
+#EXTINF:-1 tvg-logo="https://cdn.starmediagroup.my/wp-content/uploads/2015/04/04191241/Suria-Logo-01-300x221.jpg" group-title="RADIO MALAYSIA🇲🇾",SURIA
 https://raw.githubusercontent.com/mastrolive/Stream/master/SuriaFM.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.starmediagroup.my/wp-content/uploads/2015/04/04191241/Suria-Logo-01-300x221.jpg" group-title="RADIO MALAYSIA🇲🇾",SURIA FM
+#EXTINF:-1 tvg-logo="https://cdn.starmediagroup.my/wp-content/uploads/2015/04/04191241/Suria-Logo-01-300x221.jpg" group-title="RADIO MALAYSIA🇲🇾",SURIA
 https://23693.live.streamtheworld.com/SURIA_FMAAC
 
 #EXTINF:-1 tvg-logo="https://rtmklik.rtm.gov.my/img/radio-tawau.eca8d8cb.jpg" group-title="RADIO MALAYSIA🇲🇾",TAWAU FM
@@ -1553,33 +1580,6 @@ https://28103.live.streamtheworld.com/TAWAU_FMAAC
 
 #EXTINF:-1 tvg-logo="https://rtmklik.rtm.gov.my/img/radio-terengganu.eabe5ef2.jpg" group-title="RADIO MALAYSIA🇲🇾",TERENGGANU FM
 https://22243.live.streamtheworld.com/TERENGGANU_FMAAC
-
-#EXTINF:-1 tvg-id="863" tvg-name="GEGAR FM" tvg-country="MY"tvg-language="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" tvg-url="" group-title="RADIO MALAYSIA🇲🇾",THR GEGAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oP7KOBC5InWSvYk7+58fiQ", "kid":"cLap0cX10nWszwqMUdv3EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/126/default_primary.mpd
-
-#EXTINF:-1 tvg-id="863" tvg-name="GEGAR FM" tvg-country="MY"tvg-language="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" tvg-url="" group-title="RADIO MALAYSIA🇲🇾",THR GEGAR
-https://stream.rcs.revma.com/cn0zcqsbv4uvv/4_ejlx9lzb14zo02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/gegar_hindi/080224/square_md.png" group-title="RADIO MALAYSIA🇲🇾",GEGAR HINDI POWER
-https://stream.rcs.revma.com/ggn4nww711uvv/16_1jvcsvi5sf2zg02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/gegar_hohbtabuh/080224/square_md.png" group-title="RADIO MALAYSIA🇲🇾",GEGAR HOH BTABUH
-https://stream.rcs.revma.com/5u674yw711uvv/16_1c1frqv8qb5em02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/gegar_maghigelek/080224/square_md.png" group-title="RADIO MALAYSIA🇲🇾",GEGAR MAGHI GELEK
-https://stream.rcs.revma.com/97gya1w711uvv/7_1longra7dqcba02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/gegar_tradisi/080224/square_md.png" group-title="RADIO MALAYSIA🇲🇾",GEGAR TRADISI
-https://stream.rcs.revma.com/ad2y31w711uvv/3_uux2412lm9kd02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png" group-title="RADIO MALAYSIA🇲🇾",THR RAAGA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BYeQ+4hhPmpxAoqvoiWEAw", "kid":"jZum9isUpdVwayEAe8ITEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/134/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://rtmklik.rtm.gov.my/img/radio-traxx.0a686746.jpg" group-title="RADIO MALAYSIA🇲🇾",TRAXX FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2466,17 +2466,17 @@ http://210.210.155.37/uq2663/h/h19/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"taOoAISBIMhDrg+mjAnCYQ", "kid":"qkiyi9cj+RIUiH327Z+tEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="392" tvg-name="KBS World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="KOREA🇰🇷",K PLUS
+#EXTINF:-1 tvg-id="392" tvg-name="KBS World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="KOREA🇰🇷",K+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6txiarlZJV96uIHAPTBv4g", "kid":"aSlQ05hpySr5qd3qRTwNEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png" group-title="KOREA🇰🇷",KBS WORLD HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png" group-title="KOREA🇰🇷",KBS WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png" group-title="KOREA🇰🇷",KBS WORLD HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png" group-title="KOREA🇰🇷",KBS WORLD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/41/ed/e3/41ede346a8ef290b039121ed9999edec.png" group-title="KOREA🇰🇷",K-DAILY
@@ -2759,19 +2759,19 @@ https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="DOCUMENTARY",CGTN DOCUMENTARY
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="714" tvg-name="CRIME + INVESTIGATION" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crime-plus-investigation-uk-plus1-us-uk.png" group-title="DOCUMENTARY",CRIME INVESTIGATION
+#EXTINF:-1 tvg-id="714" tvg-name="CRIME + INVESTIGATION" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crime-plus-investigation-uk-plus1-us-uk.png" group-title="DOCUMENTARY",CRIME + INVESTIGATION
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2x7iuJlLkarGUEnvPkk3hw", "kid":"Ivxbr0euO2MivCRCBruyEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_asia_us.png" group-title="DOCUMENTARY",DISCOVERY ASIA HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_asia_us.png" group-title="DOCUMENTARY",DISCOVERY ASIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w6WOyGfMJYKeH76JOEQlUw", "kid":"P/AvzYDC4yMMUq5w/pA0EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 
-#EXTINF:-1 tvg-id="552" tvg-name="DISCOVERY" tvg-logo="https://www.lyngsat.com/logo/corp/dd/discovery_networks.png" group-title="DOCUMENTARY",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="552" tvg-name="DISCOVERY" tvg-logo="https://www.lyngsat.com/logo/corp/dd/discovery_networks.png" group-title="DOCUMENTARY",DISCOVERY NETWORKS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A++I3xpHZp5UWeEF47U1sQ", "kid":"J2dnpXiq4urLKEJHzNnrEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -2861,13 +2861,13 @@ https://xplore-roku.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-logo="https://bh.arabiccoupon.com/sites/default/files/styles/icon_image/public/store_icon/lifestyle-logo-2021-en-arabiccoupon-400x400.jpg"tvg-name=",LIFESTYLE
 http://youtube.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/2560px-Asian_Food_Network.svg.png" group-title="LIFESTYLE",ASIAN FOOD NETWORK HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/2560px-Asian_Food_Network.svg.png" group-title="LIFESTYLE",ASIAN FOOD NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zwz/tje4FZiie9aw2Q1lqA", "kid":"NGufQeKTN0jIhh+Cky4BEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_lifestyle_uk.png" group-title="LIFESTYLE",BBC LIFESTYLE ASIA
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_lifestyle_uk.png" group-title="LIFESTYLE",BBC LIFESTYLE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sS4fiUEpxRfciEW6ruvsig", "kid":"9CkpLcdE8oQ1UwhWFXesEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -2924,7 +2924,7 @@ http://youtube.com
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ceria.png" group-title="KIDS",ASTRO CERIA HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ceria.png" group-title="KIDS",ASTRO CERIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
 
@@ -3446,7 +3446,7 @@ https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="MOVIES",THRILL
 https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png" group-title="MOVIES",WARNER TV HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png" group-title="MOVIES",WARNER TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3454,7 +3454,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png" group-title="MOVIES",WARNER TV HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png" group-title="MOVIES",WARNER TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+DJvZox77jCeUwK1E+W99w", "kid":"YJPhJjmyTNZR7ms8E0RtEA" } ], "type":"temporary" }
 https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
