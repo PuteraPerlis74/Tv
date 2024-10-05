@@ -704,6 +704,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-SjbZogdIKeY/VO50H26hrrI/AAAAAAAAG5E/WVzUBt8PH70/s1600/MALAYSIA%2BTV.jpg"tvg-name=",MALAYSIA🇲🇾
 http://youtube.com
 
+#EXTINF:-1 tvg-name="ASTTO LIVE" group-title="MALAYSIA🇲🇾" group-logo="https://astromedia.com.my/wp-content/uploads/2023/07/sooka.png" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/07/sooka.png", ASTRO LIVE SHOW (Waktu Live Sahaja) 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
+
+#EXTINF:-1 tvg-name="ASTRO LIVE" group-title="MALAYSIA🇲🇾" group-logo="https://astromedia.com.my/wp-content/uploads/2023/07/sooka.png" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/07/sooka.png", ASTRO LIVE SHOW (Waktu Live Sahaja)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUaGhabU14WmpBdE9EZ3pNaTAwT0RrMExUaGlNR0l0TVRaaE9UWXlaVE0zTjJNeCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMjE3MjgwNCwiaWF0IjoxNzAxNTY4ODA0fQ.vinEwql2deyMbNSPZ9OkUoFqOHbxjqczcB_sqePicQoeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUaGhabU14WmpBdE9EZ3pNaTAwT0RrMExUaGlNR0l0TVRaaE9UWXlaVE0zTjJNeCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMjE3MjgwNCwiaWF0IjoxNzAxNTY4ODA0fQ.vinEwql2deyMbNSPZ9OkUoFqOHbxjqczcB_sqePicQo"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vb22tRR+w8CUUCJpWTeA1Q", "kid":"DwhdB2RNQTWRhi/UeqTGJg" } ], "type":"temporary" }
+https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
+
 #EXTINF:-1 tvg-id="RTMK01" tvg-name="TV1" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm_my_tv1.png" group-title="MALAYSIA🇲🇾",TV1 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
