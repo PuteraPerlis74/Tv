@@ -840,7 +840,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227615/3221227615.mpd?rrsip=web.hy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
 
-#EXTINF:-1 tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png" group-title="MALAYSIA🇲🇾",SELANGOR TV
+EXTINF:-1 tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png" group-title="MALAYSIA🇲🇾",SELANGOR TV
 https://skyios.sky4k.top/S1G_010/playlist.m3u8
 
 EXTINF:-1 tvg-id="116" tvg-name="SENSASI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sensasi2022.png" group-title="MALAYSIA🇲🇾",SENSASI
@@ -946,6 +946,9 @@ https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroQuanJiaHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
+#EXTINF:-1 tvg-id="104" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
+http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1705
+
 EXTINF:-1 tvg-id="104" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -979,6 +982,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_vinmeen_hd_my.png" group-title="MALAYSIA🇲🇾",ASTRO VINMEEN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_primary.mpd
+
+#EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA HD
+http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1706
 
 EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
