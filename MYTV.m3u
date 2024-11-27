@@ -410,16 +410,24 @@ https://linear08-playback.sooka.my/CH1/masterCH1.mpd
 #EXTINF:-1 tvg-id="RTMK02" tvg-name="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TV2_RTM.png" group-title="MALAYSIA🇲🇾",TV2 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
-EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/STMB_TV3.png/290px-STMB_TV3.png" group-title="MALAYSIA🇲🇾",TV3
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/index.m3u8
-
-EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/STMB_TV3.png/290px-STMB_TV3.png" group-title="MALAYSIA🇲🇾",TV3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" } #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1703233800:KeyName=tsports-ed25519-01:Signature=Ffv0NfuYzRuLK6C19Sr2iQiptRsqIqvcAV3rF6NA2LdSaVUGd7EOl9Pyuiy_YZ_go-TyQrqagSfU4rD1aIJlAA"}
-https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
-https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/STMB_TV3.png/290px-STMB_TV3.png" group-title="MALAYSIA🇲🇾",TV3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NXnpRPwUbZ03AvQZxT+1XQ", "kid":"IkibOmMizjqBHzE8R/PYQg" } ], "type":"temporary" }
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+https://manifest.bapok.best/UnifiTV/TV3.mpd
 
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/STMB_TV3.png/290px-STMB_TV3.png" group-title="MALAYSIA🇲🇾",TV3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+
+EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/STMB_TV3.png/290px-STMB_TV3.png" group-title="MALAYSIA🇲🇾",TV3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -472,6 +480,11 @@ https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b
 #EXTINF:-1 tvg-id="114" tvg-name="AL-HIJRAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TV_Alhijrah_%282013%29.svg/300px-TV_Alhijrah_%282013%29.svg.png" group-title="MALAYSIA🇲🇾",AL HIJRAH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+
+#EXTINF:-1 tvg-id="123" tvg-name="AWESOME TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/300px-Awesome_TV_Malaysia.png" group-title="MALAYSIA🇲🇾",AWESOME TV
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"} #KODIPROP:inputstream.adaptive.stream_headers=Referrer=https://awesometv.my/ 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1550
 
 #EXTINF:-1 tvg-id="123" tvg-name="AWESOME TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/300px-Awesome_TV_Malaysia.png" group-title="MALAYSIA🇲🇾",AWESOME TV
 http://31.42.187.37:25461/watchpad13158/1234/340
@@ -2844,9 +2857,11 @@ EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-2-in.png" group-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 
-EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" group-title="MOVIES",SONY PIX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="MOVIES",SONY PIX
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"nRDFK0an2Qm2nE1e31abWg", "kid":"t0SuDKuuOZi7+9d41TfwSQ" }], "type":"temporary" } 
+https://companion-live-play1.streamready.in/live/media4/sony_pix/ndashd/sony_pix.mpd
 
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies_in_select.png" group-title="MOVIES",STAR MOVIES SELECT HD
 http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1116489&extension=m3u8&play_token=740AxcgoQq
