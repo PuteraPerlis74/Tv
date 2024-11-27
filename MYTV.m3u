@@ -651,10 +651,13 @@ http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
 
 #EXTINF:-1 tvg-id="106" tvg-name="ASTRO OASIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Astro_Oasis_%282024%29.png/400px-Astro_Oasis_%282024%29.png" group-title="MALAYSIA🇲🇾",ASTRO OASIS HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+m
 
 #EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png" group-title="MALAYSIA🇲🇾",ASTRO PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
