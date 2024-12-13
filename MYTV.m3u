@@ -413,11 +413,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/STMB_TV3.png/290px-STMB_TV3.png" group-title="MALAYSIA🇲🇾",TV3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NXnpRPwUbZ03AvQZxT+1XQ", "kid":"IkibOmMizjqBHzE8R/PYQg" } ], "type":"temporary" }
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
-https://manifest.bapok.best/UnifiTV/TV3.mpd
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/STMB_TV3.png/290px-STMB_TV3.png" group-title="MALAYSIA🇲🇾",TV3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -720,10 +716,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Astro_Vinmeen_%282024%29.png/400px-Astro_Vinmeen_%282024%29.png" group-title="MALAYSIA🇲🇾",ASTRO VINMEEN
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aMXbOzCfq1UDpv21gN3ygQ", "kid":"x3N+3R1ngk+nDfcxVL+BEA" } ], "type":"temporary" } 
-http://d1w72er2qn2fg9.cloudfront.net/vin.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Astro_Vinmeen_%282024%29.png/400px-Astro_Vinmeen_%282024%29.png" group-title="MALAYSIA🇲🇾",ASTRO VINMEEN
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aMXbOzCfq1UDpv21gN3ygQ", "kid":"x3N+3R1ngk+nDfcxVL+BEA" } ], "type ":"sementara" } http://d37lxn4ksn51zz.cloudfront.net/vin.mpd
 
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194407/150x150_AdithyaTV_194407_5d218a3c-c2ce-47b8-994b-4737e26edfef.png" group-title="MALAYSIA🇲🇾",ADITHYA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
