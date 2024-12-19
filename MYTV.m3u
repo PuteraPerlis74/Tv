@@ -118,34 +118,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5170/default_primary.mpd
 
-EXTINF:-1 tvg-id="ASTRO BADMINTON 2" group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Astro_Badminton_2.svg/revision/latest/scale-to-width-down/300?cb=20241016164048",ASTRO BADMINTON 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F8Ga1nClV+aIJBnWkj+tJw", "kid":"cq1uqhkEVAE4SH//o61lEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Astro_Arena_Bola_1_%282024%29.png/400px-Astro_Arena_Bola_1_%282024%29.png" group-title="SPORTS",ASTRO ARENA BOLA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXRmtZVFZoWTJVdE0yRTVOeTAwWXprekxXSmxORGN0T0RKak9URTVPVFJsTVRsaCIsIndtb3BpZCI6MzIsImV4cCI6MTczMDQyODkyMiwiaWF0IjoxNzI5ODI0OTIyfQ.N1BJF_u0LMBaLwDBfDycLtCe-PdIXg2pLjK3nfiHKSI"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }  
-https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Astro_Arena_Bola_1_%282024%29.png/400px-Astro_Arena_Bola_1_%282024%29.png" group-title="SPORTS",ASTRO ARENA BOLA
-http://31.42.187.37:25461/watchpad13158/1234/4648
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Astro_Arena_Bola_2_%282024%29.png/400px-Astro_Arena_Bola_2_%282024%29.png" group-title="SPORTS",ASTRO ARENA BOLA 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXRmtZVFZoWTJVdE0yRTVOeTAwWXprekxXSmxORGN0T0RKak9URTVPVFJsTVRsaCIsIndtb3BpZCI6MzIsImV4cCI6MTczMDQyODkyMiwiaWF0IjoxNzI5ODI0OTIyfQ.N1BJF_u0LMBaLwDBfDycLtCe-PdIXg2pLjK3nfiHKSI"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
-https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4VG7gUaKhCbWqxKGDTFKow", "kid":"SZqPNoBksRzAkrewE9sHEA" } ], "type":"temporary" }
+http://d14sysfrzu8fji.cloudfront.net/bola1.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Astro_Arena_Bola_2_%282024%29.png/400px-Astro_Arena_Bola_2_%282024%29.png" group-title="SPORTS",ASTRO ARENA BOLA 2
-http://31.42.187.37:25461/watchpad13158/1234/332
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"se/6nlHPOLOuZ2vCZJN++w", "kid":"Yqe3kXqtUSPNTfZcVhxwEA" } ], "type":"temporary" }
+http://d14sysfrzu8fji.cloudfront.net/bola2.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -155,31 +136,45 @@ http://31.42.187.37:25461/watchpad13158/1234/332
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 #EXTINF:-1 tvg-id="815" tvg-name="ASTRO FOOTBALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/400px-Astro_Football_%282024%29.png" group-title="SPORTS",ASTRO FOOTBALL
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 
-#EXTINF:-1 tvg-id="815" tvg-name="ASTRO FOOTBALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/400px-Astro_Football_%282024%29.png" group-title="SPORTS",ASTRO FOOTBALL
+EXTINF:-1 tvg-id="815" tvg-name="ASTRO FOOTBALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/400px-Astro_Football_%282024%29.png" group-title="SPORTS",ASTRO FOOTBALL
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1719.ts
 
 #EXTINF:-1 tvg-id="ASTRO GRANDSTAND" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",ASTRO GRANDSTAND
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
+http://d14sysfrzu8fji.cloudfront.net/grand.mpd
+
+EXTINF:-1 tvg-id="ASTRO GRANDSTAND" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",ASTRO GRANDSTAND
 http://newlife3.wanicelife.com:8880/live/29ca11113n01/adsfer3223/1720.ts
 
-#EXTINF:-1 tvg-id="ASTRO GRANDSTAND" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",ASTRO GRANDSTAND
+EXTINF:-1 tvg-id="ASTRO GRANDSTAND" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",ASTRO GRANDSTAND
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
 
 #EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",ASTRO PREMIER LEAGUE
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
+http://d14sysfrzu8fji.cloudfront.net/premier1.mpd
+
+EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",ASTRO PREMIER LEAGUE
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1722.ts
 
-#EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",ASTRO PREMIER LEAGUE
+EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",ASTRO PREMIER LEAGUE
 https://7pal.short.gy/astross1
 
 #EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE 2" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Astro_Premier_League_2_%282024%29.png/400px-Astro_Premier_League_2_%282024%29.png",ASTRO PREMIER LEAGUE 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
+http://d14sysfrzu8fji.cloudfront.net/premier2.mpd
+
+EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE 2" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Astro_Premier_League_2_%282024%29.png/400px-Astro_Premier_League_2_%282024%29.png",ASTRO PREMIER LEAGUE 2
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1721.ts
 
-#EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE 2" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Astro_Premier_League_2_%282024%29.png/400px-Astro_Premier_League_2_%282024%29.png",ASTRO PREMIER LEAGUE 2
+EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE 2" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Astro_Premier_League_2_%282024%29.png/400px-Astro_Premier_League_2_%282024%29.png",ASTRO PREMIER LEAGUE 2
 https://7pal.short.gy/astross2
 
 #EXTINF:-1 tvg-id="ASTRO SPORTS PLUS" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png",ASTRO SPORTS PLUS
@@ -633,7 +628,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Citra_%282024%29.png/400px-Astro_Citra_%282024%29.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
-http://d37lxn4ksn51zz.cloudfront.net/citra.mpd
+http://d14sysfrzu8fji.cloudfront.net/citra.mpd
 
 #EXTINF:-1 tvg-id="333" tvg-name="ASTRO HUA HEE DAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Astro_Hua_Hee_Dai_%282024%29.png/400px-Astro_Hua_Hee_Dai_%282024%29.png" group-title="MALAYSIA🇲🇾",ASTRO HUA HEE DAI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -654,7 +649,7 @@ m
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" } 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 
-http://d37lxn4ksn51zz.cloudfront.net/prima.mpd
+http://d14sysfrzu8fji.cloudfront.net/prima.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
@@ -686,10 +681,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
 #EXTINF:-1 tvg-id="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" } 
-http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
+http://d14sysfrzu8fji.cloudfront.net/ria.mpd
 
-EXTINF:-1 tvg-id="104" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
-http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1705
+#EXTINF:-1 tvg-id="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
+http://newlife3.wanicelife.com:8880/live/kg48m3n08252/xcsdfawq122/71020.ts
 
 EXTINF:-1 group-title="MALAYSIA🇲🇾" tvg-id="AstroSensasi.sg" tvg-name="Astro Sensasi HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Sensasi_%283D%29.png/revision/latest/scale-to-width-down/596?cb=20220623141711",ASTRO SENSASI HD
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/407476.m3u8
