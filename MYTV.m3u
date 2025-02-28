@@ -33,38 +33,6 @@ https://pbc.furrera.ps/palestinelivehd/tracks-v2a1/mono.m3u8
 https://pbc.furrera.ps/palestinehd/tracks-v3a1/mono.m3u8
 
 
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>SOOKA CHANNEL
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-#EXTINF:-1 tvg-logo="https://img.astroawani.com/2021-06/51623077545_sookaMalaysialogo.jpg"tvg-name=",SOOKA CHANNEL
-http://youtube.com
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gusto_TV_logo.jpg/1598px-Gusto_TV_logo.jpg" group-title="SOOKA CHANNEL",GUSTO TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-dash-sooka/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/63dda050707d230d4aa878ee/c86406fb-7f39-407d-a9fb-51b541f4954e/INFAMOUS-Logo-NoBkgd12.png" group-title="SOOKA CHANNEL",INFAMOUS TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-infamoustv-dash-sooka/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sooka_Travel_%26_Taste.png" group-title="SOOKA CHANNEL",TRAVEL & TASTE
-https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="SOOKA CHANNEL",YRF MUSIC
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00223-unisysinfo-yrf-music-dash-sooka/index.mpd
-
-
-
-
-
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>SPORTS
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -101,22 +69,27 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Astro_Arena_1_%282024%29.png/400px-Astro_Arena_1_%282024%29.png" group-title="SPORTS",ASTRO ARENA
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd|User-Agent=aizzal
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Astro_Arena_2_%282024%29.png/400px-Astro_Arena_2_%282024%29.png" group-title="SPORTS",ASTRO ARENA 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Astro_Arena_2_%282024%29.png/400px-Astro_Arena_2_%282024%29.png" group-title="SPORTS",ASTRO ARENA 2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 #EXTINF:-1 tvg-id="ASTRO BADMINTON" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Astro_Badminton_1_%282024%29.png",ASTRO BADMINTON
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g3KLRwGavbs3qjbtXylRvQ", "kid":"b/DgQNVE7D8CJDhlmQ8MEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5170/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_ott.mpd
+
+#EXTINF:-1 tvg-id="ASTRO BADMINTON" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Astro_Badminton_1_%282024%29.png",ASTRO BADMINTON
+http://iptv12k.com:35461/654321/123456/11241
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Astro_Arena_Bola_1_%282024%29.png/400px-Astro_Arena_Bola_1_%282024%29.png" group-title="SPORTS",ASTRO ARENA BOLA
 http://iptv12k.com:35461/654321/123456/20630
@@ -135,13 +108,32 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 #EXTINF:-1 tvg-id="815" tvg-name="ASTRO FOOTBALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/400px-Astro_Football_%282024%29.png" group-title="SPORTS",ASTRO FOOTBALL
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+
+#EXTINF:-1 tvg-id="815" tvg-name="ASTRO FOOTBALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/400px-Astro_Football_%282024%29.png" group-title="SPORTS",ASTRO FOOTBALL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+
 
 #EXTINF:-1 tvg-id="ASTRO GRANDSTAND" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",ASTRO GRANDSTAND
-http://iptv12k.com:35461/654321/123456/11241
+http://iptv12k.com:35461/654321/123456/11243
+
+#EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png",ASTRO PREMIER LEAGUE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Q+/2qNqJajQFbzOeyVYgRQ","kid":"EJC+8ydbRdGIIAuCj+MFJw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"bb2dc3cfa3024039ae59b55e6b0b5de5":"03d25d6ceb16fc4e007697e9d2124fac","1090bef3275b45d188200b828fe30527":"43eff6a8da896a34056f339ec9562045"}
+https://l01.dp.sooka.my/601/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA2OTU2MzYsImlzcyI6IlZSIiwiZXhwIjoxNzQwNzgxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.HHmoIuwPI_zgQkaF6inanaTUC9uYSLthDbEHF6D8XHY
 
 #EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png",ASTRO PREMIER LEAGUE
 http://iptv12k.com:35461/654321/123456/11243
+
+#EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE 2" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png",ASTRO PREMIER LEAGUE 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Q6yFOCiTGUgC8NNNv3EFng","kid":"TsrZra6PRPCxyL9cSS2mEw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"4ecad9adae8f44f0b1c8bf5c492da613":"43ac85382893194802f0d34dbf71059e","537a246e0284449a862dfd4dc43b7c79":"f3829c61a21ceae05ee5d5260679c210"}
+https://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA2OTU2MzYsImlzcyI6IlZSIiwiZXhwIjoxNzQwNzgxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.HHmoIuwPI_zgQkaF6inanaTUC9uYSLthDbEHF6D8XHY
 
 #EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE 2" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png",ASTRO PREMIER LEAGUE 2
 http://iptv12k.com:35461/654321/123456/11242
@@ -158,13 +150,13 @@ https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 #EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE 2" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png",ASTRO PREMIER LEAGUE 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={3225f837a4b95d6e46683c53818c1710:3e1b57c06699c7e408e7aa49ff57d4f4}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd
 |user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE 2" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png",ASTRO PREMIER LEAGUE 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={229670469469aa6f78bc5bbe10071810:3b3ede68e8bb9d0d4e3b4517c422cccf} 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott.mpd
 |user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="ASTRO SPORTS PLUS" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Astro_Sports_Plus_%282024%29.png/400px-Astro_Sports_Plus_%282024%29.png",ASTRO SPORTS PLUS
@@ -182,17 +174,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf500092
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PEUIrzSIRBB/XgJqT9axbg", "kid":"GmVRiatcSesjUwjCsannEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="SPORTS",BEIN SPORTS
-http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UQKxKqx3VsZdy0ahAdlg0w", "kid":"OcF1WB4jfv+VWWB+ubI8EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" group-title="SPORTS",BEIN SPORTS 2
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BCohvyNspymx40PtbgpjNw", "kid":"IMiE747Saydi+LGnjy0ZEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="SPORTS",BEIN SPORTS 3
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch644_425_305" group-title="SPORTS",BEIN SPORTS 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -216,12 +208,15 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/inde
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0OeU48/1ZO0scgoJjrF3xw", "kid":"TbI6Qbq/6a/CIqWMWYKDEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="820" tvg-name="EUROSPORT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="SPORTS",EUROSPORT HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KGObz7XL7o/5yjmPz1v80A", "kid":"cFurXmRbbXyVWIspUg+BEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="822" tvg-name="GOLF CHANNEL" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="SPORTS",GOLF CHANNEL HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KGObz7XL7o/5yjmPz1v80A", "kid":"cFurXmRbbXyVWIspUg+BEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%278226372%27&EntityType=%27LinearSchedule%27&EntityId=%27738d0726-8853-46db-9840-3422d384a7b8%27&Width=540&Height=305&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="SPORTS",M LIVE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -285,6 +280,7 @@ http://iptv12k.com:35461/654321/123456/21718
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bld//MSTW6JK/0xMndaEbQ", "kid":"m/61BoclYX261jOEc9ptEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://www.psjtv.id/wp-content/uploads/2023/06/PSJTV-Tagline-Hitam.png" group-title="SPORTS",PSJ TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
@@ -309,7 +305,7 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dYgj5Oq7bkyMA20HPbRrjA", "kid":"wOGASqHZ/ZxBxBvw9hpfEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="816" tvg-name="SPOTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" group-title="SPORTS",SPOTV
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 
 #EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png" group-title="SPORTS",SPOTV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -352,14 +348,15 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
 #EXTINF:-1 tvg-id="unifi Sports" tvg-name="unifi Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UnifiSports2023.png/300px-UnifiSports2023.png" group-title="SPORTS",UNIFI SPORTS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
-https://web.hypp.tv:443/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xPjG9KTt82xXCdpGInMoKWMBLe9Ie9rQgSTZ%2FmsUArMht5J0dsgfU28LWZM15p3G2%3A20221124103114%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103114%2Curn:Huawei:liveTV:XTV54185493%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOyw6CMBRE_6bLhj4sYdEVxsTEoIno1lzaayUUqi2a-PeC4nZmzuSMEQxu11o0WZ4bIaTAlWTYFFgoMMIqKSyXuSEJH1XQnBjwvh1cFeyMnY_lhWU0o5wzyjip57uNB7csq2ffYNTijx0xvlqD2qYrfUGi4FxEB2MbBnrw8D5Fv0wI1osaU6rghVBcqoyTcU5rSN3UkBukMvR3iGh3wX0BfQWfkNzBdOCwgh718PT-x-2jnWw-IqajZvQAAAA&tenantId=6003
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" group-title="SPORTS",W-SPORT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nNXA0eVMIuA12I3Twd/ITA", "kid":"AQy7nPGgHq04Bwcw04vHEA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -373,19 +370,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 
 
 
+
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>MALAYSIA
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-SjbZogdIKeY/VO50H26hrrI/AAAAAAAAG5E/WVzUBt8PH70/s1600/MALAYSIA%2BTV.jpg"tvg-name=",MALAYSIA🇲🇾
 http://youtube.com
 
-EXTINF:-1 tvg-name="ASTTO LIVE" group-title="MALAYSIA🇲🇾" group-logo="https://astromedia.com.my/wp-content/uploads/2023/07/sooka.png" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/07/sooka.png", ASTRO LIVE SHOW (Waktu Live Sahaja) 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
-
-#EXTINF:-1 tvg-name="ASTRO LIVE" group-title="MALAYSIA🇲🇾" group-logo="https://astromedia.com.my/wp-content/uploads/2023/07/sooka.png" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/07/sooka.png", ASTRO LIVE SHOW (Waktu Live Sahaja)
+EXTINF:-1 tvg-name="ASTRO LIVE" group-title="MALAYSIA🇲🇾" group-logo="https://astromedia.com.my/wp-content/uploads/2023/07/sooka.png" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/07/sooka.png", ASTRO LIVE SHOW (Waktu Live Sahaja)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUaGhabU14WmpBdE9EZ3pNaTAwT0RrMExUaGlNR0l0TVRaaE9UWXlaVE0zTjJNeCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMjE3MjgwNCwiaWF0IjoxNzAxNTY4ODA0fQ.vinEwql2deyMbNSPZ9OkUoFqOHbxjqczcB_sqePicQoeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUaGhabU14WmpBdE9EZ3pNaTAwT0RrMExUaGlNR0l0TVRaaE9UWXlaVE0zTjJNeCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMjE3MjgwNCwiaWF0IjoxNzAxNTY4ODA0fQ.vinEwql2deyMbNSPZ9OkUoFqOHbxjqczcB_sqePicQo"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
@@ -512,24 +504,27 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Drama_Sangat_2024_logo.svg/400px-Drama_Sangat_2024_logo.svg.png" group-title="MALAYSIA🇲🇾",DRAMA SANGAT
 http://31.42.187.37:25461/watchpad13158/1234/60
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Sooka_Drama_Hebat.png" group-title="MALAYSIA🇲🇾",DRAMA HEBAT
-https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sooka_Drama_Hotpot.png/250px-Sooka_Drama_Hotpot.png" group-title="MALAYSIA🇲🇾",DRAMA HOTPOT
-https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 
-#EXTINF:-1 tvg-id="128" tvg-name="DUNIA SINEMA" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="MALAYSIA🇲🇾",DUNIA SINEMA HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sooka_Drama_Hotpot.png/250px-Sooka_Drama_Hotpot.png" group-title="MALAYSIA🇲🇾",DRAMA HOTPOT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+
+#EXTINF:-1 tvg-id="128" tvg-name="DUNIA SINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png" group-title="MALAYSIA🇲🇾",DUNIA SINEMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png" group-title="MALAYSIA🇲🇾",FILEM MANTAP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png" group-title="MALAYSIA🇲🇾",FILEM MANTAP
-https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
 
 #EXTINF:-1 tvg-id="300" tvg-name="ASTRO iQIYI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Iqiyi_Logo_Baru.png/400px-Iqiyi_Logo_Baru.png" group-title="MALAYSIA🇲🇾",iQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -543,20 +538,23 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1006/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/unifitv/inspirasi/
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sooka_Jom_Ngaji.png" group-title="MALAYSIA🇲🇾",JOM NGAJI
-https://linearfast06.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_6_Ad/dash.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sooka_Lawak_Sentral.png/640px-Sooka_Lawak_Sentral.png" group-title="MALAYSIA🇲🇾",LAWAK SENTRAL
-https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Sooka_Oh_My_Ceria.png" group-title="MALAYSIA🇲🇾",OH MY CERIA!
-https://linearfast07.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
 #EXTINF:-1 tvg-id="141" tvg-name="PESONA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/PesonaHDv2.png" group-title="MALAYSIA🇲🇾",PESONA HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -586,8 +584,14 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/suke-tv-my.png" group-title="MALAYSIA🇲🇾",SUKE TV
 https://live.mana2.my/SukeTv/tracks-v3a1/mono.m3u8?token=1691605527-7862891e35de4670b20f8e79aaa9f339-0-d0c461e8d8d01e3fc8320ba3ed356198&auth_key=1691605527-7862891e35de4670b20f8e79aaa9f339-0-57c80548c6fb19131d41d2c4ae38d937
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sooka_Travel_%26_Taste.png" group-title="MALAYSIA🇲🇾",TRAVEL & TASTE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png" group-title="MALAYSIA🇲🇾",TV IKIM
-https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
+https://origin.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8?nimblesessionid=31367141
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Okey_RTM.png/400px-Okey_RTM.png" group-title="MALAYSIA🇲🇾",TV OKEY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -852,8 +856,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2311/default_primary.m
 #EXTINF:-1 tvg-logo="https://purepng.com/public/uploads/large/purepng.com-radioradioradio-stationtransceiverwirelessbroadcast-1701528368200ki8j8.png"tvg-name=",RADIO MALAYSIA🇲🇾
 http://youtube.com
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/988_FM_Logo.png" group-title="RADIO MALAYSIA🇲🇾",988 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/8_FM_%28Malaysian_radio_station%29_logo.png" group-title="RADIO MALAYSIA🇲🇾",8FM
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/8FM.m3u8
+https://stream.rcs.revma.com/qp0xrd9mtd3vv/11_1cafl4qraqbr402/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Ai_FM_logo.png" group-title="RADIO MALAYSIA🇲🇾",AI FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -862,7 +869,7 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/8FM.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/140/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Ai_FM_logo.png" group-title="RADIO MALAYSIA🇲🇾",AI FM
-https://28103.live.streamtheworld.com/AI_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-9lIKxaYpFVw/UaXhF6CJ3WI/AAAAAAAAABg/TPbclzAQH_4/s828/Alam%2BMayaFM%2B4%2BNew%2B2%2B960x300.png" group-title="RADIO MALAYSIA🇲🇾",ALAM MAYA FM
 http://192.99.8.192:3142/stream
@@ -870,8 +877,8 @@ http://192.99.8.192:3142/stream
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/21689.v2.png" group-title="RADIO MALAYSIA🇲🇾",ALAM SENI FM
 http://s1.cmesolution.my:6178/;stream.mp3
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-mY7Lj_h7xNk/UKUstomd-DI/AAAAAAAAALY/Nh_jP32kImw/s1600/Logo3%2Bedited.jpg" group-title="RADIO MALAYSIA🇲🇾",AMBOI FM
-http://live.ceriterafm.my:8000
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5LxOCESTykC3yeOMGNp8mFAziPcmVAqStHi1fNj7doIXJ10628tQnW-vbJCOGDfKJM8" group-title="RADIO MALAYSIA🇲🇾",AMBOI FM
+https://amboifm.iradio.work:8000/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Asyik_FM_Logo.PNG" group-title="RADIO MALAYSIA🇲🇾",ASYIK FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -882,14 +889,23 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/141/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Asyik_FM_Logo.PNG" group-title="RADIO MALAYSIA🇲🇾",ASYIK FM
 https://22273.live.streamtheworld.com/ASYIK_FMAAC
 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7ufj9qc3xwam.png" group-title="RADIO MALAYSIA🇲🇾",BAPAKKU FM
+https://servidor30-2.brlogic.com:7048/live
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png" group-title="RADIO MALAYSIA🇲🇾",BAYU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9yw4BYGqEqAW6oh4nGecZw", "kid":"VRXU8iZk44bGL3zywWarEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/135/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Best_fm_logo.png/1599px-Best_fm_logo.png" group-title="RADIO MALAYSIA🇲🇾",BEST FM
+https://n22a-eu.rcs.revma.com/h34x4kgg9hhvv.m4a
+
 #EXTINF:-1 tvg-logo="https://bintulufm.rtm.gov.my/storage/app/uploads/public/60f/e2d/5ed/60fe2d5ed5edc343829293.png" group-title="RADIO MALAYSIA🇲🇾",BINTULU FM
 https://22273.live.streamtheworld.com/BINTULU_FMAAC
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Catsfmlogo.png?20110224145944" group-title="RADIO MALAYSIA🇲🇾",CATS FM
+https://s4.yesstreaming.net:7019/stream
 
 #EXTINF:-1 tvg-id="860" tvg-name="CLASSIC ROCK FM" tvg-country="MY" tvg-language="en"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png" tvg-url="" group-title="RADIO MALAYSIA🇲🇾",CLASSIC ROCK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -945,6 +961,9 @@ https://stream.rcs.revma.com/sgzunsw711uvv/7_1tp64fb9xvrs502/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/era-throwbaek/141123/square_md.png" group-title="RADIO MALAYSIA🇲🇾",ERA THROWBAEK
 https://stream.rcs.revma.com/uq3kmtw711uvv/8_9km8aut9q72f02/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Logo_Fly_FM.svg.png" group-title="RADIO MALAYSIA🇲🇾",FLY FM
+https://stream.rcs.revma.com/q17aka9mtd3vv/6_19pj9n9pvoh6p02/playlist.m3u8
+
 #EXTINF:-1 tvg-id="863" tvg-name="GEGAR FM" tvg-country="MY"tvg-language="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" tvg-url="" group-title="RADIO MALAYSIA🇲🇾",GEGAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oP7KOBC5InWSvYk7+58fiQ", "kid":"cLap0cX10nWszwqMUdv3EA" } ], "type":"temporary" }
@@ -994,10 +1013,10 @@ https://stream.radio.co/s4c9c7e0cb/listen
 https://linearjitp-playback.astro.com.my/dash-wv/linear/121/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Logo_of_Hot_FM_%28Malaysia%29.svg/1200px-Logo_of_Hot_FM_%28Malaysia%29.svg.png" group-title="RADIO MALAYSIA🇲🇾",HOT FM
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
+https://stream.rcs.revma.com/drakdf8mtd3vv/2_1pjpn0nyne6ry02/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Logo_of_Hot_FM_%28Malaysia%29.svg/1200px-Logo_of_Hot_FM_%28Malaysia%29.svg.png" group-title="RADIO MALAYSIA🇲🇾",HOT FM
-https://mediaprima.rastream.com/mediaprima-hotfm.android
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/IKIM_FM_2024.png" group-title="RADIO MALAYSIA🇲🇾",IKIM FM
+https://ais-sa8.cdnstream1.com/5035/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://admin.auto-messenger.ru/storage/radios/8470/10931/conversions/ila-fm-lg.webp" group-title="RADIO MALAYSIA🇲🇾",ILA FM
 http://s1.cmesolution.my:5442/;stream.mp3
@@ -1019,6 +1038,12 @@ http://167.114.131.90:5744/stream
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"soRWP83esHi1v+DvtoT/oQ", "kid":"G7q2ex+Vrpoy23OojDCBEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/128/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xwWpJDq3rMbtdPAK7w7WnOQt-rju45HKWKP8XFVURQ&s" group-title="RADIO MALAYSIA🇲🇾",JAZZ LOUNGE
+https://eu8.fastcast4u.com/proxy/lch?mp=/1
+
+#EXTINF:-1 tvg-logo="https://www.allonlineradio.com/wp-content/uploads/2023/01/Malaysia-radio-Jei-FM-logo.jpg" group-title="RADIO MALAYSIA🇲🇾",JEI FM
+https://usa3.fastcast4u.com/proxy/jeifm?mp=/1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Johor_FM_logo_2021.png" group-title="RADIO MALAYSIA🇲🇾",JOHOR FM
 https://28163.live.streamtheworld.com/JOHOR_FMAAC
@@ -1054,13 +1079,16 @@ https://28103.live.streamtheworld.com/RADIO_KLASIKAAC.aac
 http://s6.voscast.com:9748/;stream.nsv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/KOOL_101_2023.png" group-title="RADIO MALAYSIA🇲🇾",KOOL101 FM
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Kool101.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/KOOL_101_2023.png" group-title="RADIO MALAYSIA🇲🇾",KOOL101 FM
-https://mediaprima.rastream.com/mediaprima-koolfm.android
+https://stream.rcs.revma.com/3930238mtd3vv/2_1qs9hosuwug5902/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://admin.auto-messenger.ru/storage/radios/8473/10934/conversions/kuala-sentul-heart-fm-lg.webp" group-title="RADIO MALAYSIA🇲🇾",KUALA SENTUL HEART FM
 http://51.79.219.202:8000/stream
+
+#EXTINF:-1 tvg-logo="https://assets-kupikupifm.audioplus.audio/media/Logo/profile_photo_1000x1000-17.jpg" group-title="RADIO MALAYSIA🇲🇾",KUPI KUPI FM SABAH
+https://stream.rcs.revma.com/axht8yawe1bwv/2_18wn0vtfz96i402/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-kupikupifm-sarawak.audioplus.audio/media/Logo/profile_photo_1000x1000-27.jpg" group-title="RADIO MALAYSIA🇲🇾",KUPI KUPI FM SARAWAK
+https://stream.rcs.revma.com/vx54zkbwe1bwv/3_j71se4uny0me02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://labuanfm.rtm.gov.my/storage/app/uploads/public/606/6fb/2ee/6066fb2eea8c8102025697.png" group-title="RADIO MALAYSIA🇲🇾",LABUAN FM
 https://22243.live.streamtheworld.com/LABUAN_FMAAC
@@ -1080,14 +1108,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/123/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://admin.auto-messenger.ru/storage/radios/8516/45552/conversions/UsuPVX9eGavpxyrDLq31NJfb1nrbYh-metabHRmbS5wbmc=--lg.webp" group-title="RADIO MALAYSIA🇲🇾",LTFM
 http://live.ltfmonline.com:8000/stream
 
-#EXTINF:-1 tvg-logo="https://radio-online.my/storage/radios/8510/10971/conversions/mahligai-fm-lg.webp" group-title="RADIO MALAYSIA🇲🇾",MAHLIGAI FM
+EXTINF:-1 tvg-logo="https://radio-online.my/storage/radios/8510/10971/conversions/mahligai-fm-lg.webp" group-title="RADIO MALAYSIA🇲🇾",MAHLIGAI FM
 https://s4.voscast.com:8979/live
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/fv3rvakjae29.png" group-title="RADIO MALAYSIA🇲🇾",MAKMUR FM
+EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/fv3rvakjae29.png" group-title="RADIO MALAYSIA🇲🇾",MAKMUR FM
 https://26383.live.streamtheworld.com/SAM12AAC083_SC
 
+#EXTINF:-1 tvg-logo="https://www.maccfm.my/theme/img/basic/default-cover.jpg" group-title="RADIO MALAYSIA🇲🇾",MACC FM
+https://listen.radioking.com/radio/560261/stream/619850
+
 #EXTINF:-1 tvg-logo="https://www.manis.fm/wp-content/uploads/2020/02/cropped-manisfm_new-01.png" group-title="RADIO MALAYSIA🇲🇾",MANIS FM
-https://n07.rcs.revma.com/nzgauqq1v7zuv?rj-ttl=5&rj-tok=AAABdGs8ajQAVVGv4vpE3Kqfhg
+https://stream.rcs.revma.com/7bmtzk1z403vv/6_1i22gkaums46d02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/Minnal_FM_logo.png" group-title="RADIO MALAYSIA🇲🇾",MINNAL FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1117,10 +1148,7 @@ https://28153.live.streamtheworld.com/MELAKA_FMAAC
 https://linearjitp-playback.astro.com.my/dash-wv/linear/132/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Molek_FM.svg/revision/latest/scale-to-width-down/250?cb=20220103100925" group-title="RADIO MALAYSIA🇲🇾",MOLEK FM
-https://raw.githubusercontent.com/mastrolive/Stream/master/MolekFM.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Molek_FM.svg/revision/latest/scale-to-width-down/250?cb=20220103100925" group-title="RADIO MALAYSIA🇲🇾",MOLEK FM
-https://mediaprima.rastream.com/mediaprima-molekfm
+https://stream.rcs.revma.com/z56xa78mtd3vv/16_q0v5zs8l1wqp02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Mutiara_FM_logo_2021.png" group-title="RADIO MALAYSIA🇲🇾",MUTIARA FM
 https://28153.live.streamtheworld.com/MUTIARA_FMAAC
@@ -1130,6 +1158,12 @@ https://28153.live.streamtheworld.com/MUTIARA_FMAAC
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Qz+mjW7JgGdclrta4uAXiQ", "kid":"j2GMEpVaxcQx9fkBRRydEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/119/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://radio-online.my/storage/radios/8445/58514/conversions/qlXKSChecyQJexn9P1PSHsNXFUgEiw-metabG9naS1iYXJ1LTEtMTA4MHg3MjAuanBlZw==--lg.webp" group-title="RADIO MALAYSIA🇲🇾",MY FRIEND FM
+https://cast3.asurahosting.com/proxy/myfriend/stream
+
+#EXTINF:-1 tvg-logo="https://artmeet-my-001.s3.ap-southeast-1.amazonaws.com/uploads/company/167/avatar/1620094109.png" group-title="RADIO MALAYSIA🇲🇾",MYKAMPUS RADIO
+https://usa10.fastcast4u.com/voicespl
 
 #EXTINF:-1 tvg-logo="https://admin.auto-messenger.ru/storage/radios/8511/10972/conversions/mysuara-fm-lg.webp" group-title="RADIO MALAYSIA🇲🇾",MY SUARA FM
 http://s9.voscast.com:7670/;stream.mp3
@@ -1173,9 +1207,6 @@ https://22273.live.streamtheworld.com/PERAK_FMAAC
 #EXTINF:-1 tvg-logo="https://perlisfm.rtm.gov.my/storage/app/uploads/public/606/49d/f60/60649df60c210090408790.png" group-title="RADIO MALAYSIA🇲🇾",PERLIS FM
 https://28153.live.streamtheworld.com/PERLIS_FMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/90752.v4.png" group-title="RADIO MALAYSIA🇲🇾",PERSONA FM
-http://51.79.219.207:8000/stream
-
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/82309.v17.png" group-title="RADIO MALAYSIA🇲🇾",RADIO ROSAK
 https://radiorosak.radioca.st/stream
 
@@ -1185,14 +1216,20 @@ https://radiorosak.radioca.st/stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/134/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdozR0PlZpMhbYI3fF3yrOl8G2JtufroTXJQ&s" group-title="RADIO MALAYSIA🇲🇾",RADIO AN NUR
+https://listen.radioannurmainj.my/proxy/radioannur/stream
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bEt6jtt2Kcvfg0xGEvv6nk7VzFWOmm4_eStpPt-PsN6J4258pekGuN7yIyofIAUxNA" group-title="RADIO MALAYSIA🇲🇾",RADIO KPKT
+https://listen.kpkt.gov.my/proxy/radiokpkt/stream
+
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/rakita/rakita270623/square_md.png" group-title="RADIO MALAYSIA🇲🇾",RAKITA 107.9
+https://22243.live.streamtheworld.com/RAKITAAAC/HLS/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Redfm_2021_.png/revision/latest?cb=20211114000515" group-title="RADIO MALAYSIA🇲🇾",RED FM
 https://28163.live.streamtheworld.com/RED_FMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/48015.v7.png" group-title="RADIO MALAYSIA🇲🇾",RL ROCK JIWANG
-http://procyon.shoutca.st:8346/;
-
 #EXTINF:-1 tvg-logo="https://sabahfm.rtm.gov.my/storage/app/uploads/public/608/0c5/2ac/6080c52accea9537873246.png" group-title="RADIO MALAYSIA🇲🇾",SABAH FM
-https://28153.live.streamtheworld.com/SABAH_FMAAC
+https://28103.live.streamtheworld.com/SABAH_FMAAC
 
 #EXTINF:-1 tvg-logo="https://sabahvfm.rtm.gov.my/storage/app/uploads/public/606/54c/ef6/60654cef61c96099935060.png" group-title="RADIO MALAYSIA🇲🇾",SABAH V FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1252,13 +1289,13 @@ https://stream.rcs.revma.com/rz43weh811uvv/4_1tiuzdrilfkvr02/playlist.m3u8
 https://stream.rcs.revma.com/h67e7gh811uvv/16_4f1i8j1zuqj102/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sriamanfm.rtm.gov.my/storage/app/uploads/public/608/0c6/8a8/6080c68a8c53d419294766.png" group-title="RADIO MALAYSIA🇲🇾",SRI AMAN FM
-https://22273.live.streamtheworld.com/SRIAMAN_FMAAC.aac
+https://22253.live.streamtheworld.com/SRIAMAN_FMAAC
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/khyuktkvllxf.png" group-title="RADIO MALAYSIA🇲🇾",SUARA RAKYAT FM
 http://s9.voscast.com:7670
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Suria_logo-01.png/1200px-Suria_logo-01.png" group-title="RADIO MALAYSIA🇲🇾",SURIA
-https://23693.live.streamtheworld.com/SURIA_FMAAC
+https://28163.live.streamtheworld.com/SURIA_FMAAC
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Tawau_Fm_2021.png/revision/latest?cb=20211114125028" group-title="RADIO MALAYSIA🇲🇾",TAWAU FM
 https://28103.live.streamtheworld.com/TAWAU_FMAAC
@@ -1275,6 +1312,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/138/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/TraXX_FM.png" group-title="RADIO MALAYSIA🇲🇾",TRAXX FM
 https://22273.live.streamtheworld.com/TRAXX_FMAAC.aac
 
+#EXTINF:-1 tvg-logo="https://www.voices.my/wp-content/uploads/2019/07/VOICE-fm-01-300x96.jpg" group-title="RADIO MALAYSIA🇲🇾",VOSJ
+https://listen.radioking.com/radio/224413/stream/267892
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Wai_FM.png/revision/latest/scale-to-width-down/250?cb=20211114094310" group-title="RADIO MALAYSIA🇲🇾",WAI FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vJ314WLFaSZpqOxjZsnk2w", "kid":"veR4S8ZOsyYWnRHBCgsVEA" } ], "type":"temporary" }
@@ -1282,7 +1322,7 @@ https://22273.live.streamtheworld.com/TRAXX_FMAAC.aac
 https://linearjitp-playback.astro.com.my/dash-wv/linear/137/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Wai_FM.png/revision/latest/scale-to-width-down/250?cb=20211114094310" group-title="RADIO MALAYSIA🇲🇾",WAI FM
-https://22273.live.streamtheworld.com/WAI_FM_IBANAAC
+https://22243.live.streamtheworld.com/WAI_FM_IBANAAC
 #EXTINF:-1 tvg-logo="https://rtmklik.rtm.gov.my/img/radio-wai.c98b98ac.jpg" group-title="RADIO MALAYSIA🇲🇾",WAI FM BIDAYUH / KAYAN
 https://28163.live.streamtheworld.com/WAI_FM_BKAAC
 
@@ -1291,6 +1331,9 @@ https://28163.live.streamtheworld.com/WAI_FM_BKAAC
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"isbT6tRhxcFJerJai9H2GQ", "kid":"+DZv2Gbg71ISaLU0RiA2EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/142/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png" group-title="RADIO MALAYSIA🇲🇾",ZAYAN
+https://stream.rcs.revma.com/7ww2a4tbv4uvv
 
 #EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/zayan-hawa/080224/square_md.png" group-title="RADIO MALAYSIA🇲🇾",ZAYAN HAWA TUNES
 https://stream.rcs.revma.com/9e7savh811uvv/11_l6iq9m1magta02/playlist.m3u8
@@ -1853,6 +1896,20 @@ http://youtube.com
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
 
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>RADIO THAILAND
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-logo="https://img.favpng.com/24/14/18/flag-of-thailand-thai-language-national-flag-png-favpng-MQNMypkwBGEHs49D6fnFn6LXm.jpg"tvg-name=",RADIO THAILAND🇹🇭
+http://youtube.com
+
+#EXTINF:-1 tvg-logo="https://www.plathong.net/img/logo.png" group-title="RADIO THAILAND🇹🇭",RADIO BROADCASTING NARATIWAT
+https://radio11.plathong.net/8712/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/radio-thailand-yala-fm-95.png" group-title="RADIO THAILAND🇹🇭",RADIO YALA 95 FM
+https://radio-org-01-ott.prd.go.th/yla_fm95
 
 
 
