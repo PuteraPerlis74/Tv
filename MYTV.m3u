@@ -581,7 +581,7 @@ https://live.mana2.my/SukeTv/tracks-v3a1/mono.m3u8?token=1691605527-7862891e35de
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png" group-title="MALAYSIA🇲🇾",TV IKIM
-https://origin.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8?nimblesessionid=31367141
+https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Okey_RTM.png/400px-Okey_RTM.png" group-title="MALAYSIA🇲🇾",TV OKEY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
