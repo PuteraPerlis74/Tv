@@ -33,6 +33,36 @@ https://pbc.furrera.ps/palestinelivehd/tracks-v2a1/mono.m3u8
 https://pbc.furrera.ps/palestinehd/tracks-v3a1/mono.m3u8
 
 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>RTM SPECIAL
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/RTMKlik.png"tvg-name=",RTM SPECIAL
+http://youtube.com
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg" group-title="RTM SPECIAL",APETITO
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg" group-title="RTM SPECIAL",AURA
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg" group-title="RTM SPECIAL",FITRAH
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg" group-title="RTM SPECIAL",JR.
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg" group-title="RTM SPECIAL",LEAD
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg" group-title="RTM SPECIAL",ROLL
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="RTM SPECIAL",SNAP
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
+
+
+
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>SPORTS
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -195,6 +225,9 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hy
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BlwQgpbXjVGoVEzEKhqnaA", "kid":"/ElXO0+WS+C0BTRJjOjWLg" } ], "type":"temporary" }
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-rugby-qa.png" group-title="SPORTS",BEIN SPORTS RUGBY
 https://linear05-playback.sooka.my/CH3/masterCH3.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Celebes_TV.png" group-title="SPORTS",CELEBES TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027" group-title="SPORTS",DUBAI SPORTS 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
@@ -1393,7 +1426,11 @@ https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
 #EXTINF:-1 tvg-logo="tvindonesia.jpg" tvg-logo="http://4.bp.blogspot.com/-KtJNkM15WPE/VMuh-Ap5SpI/AAAAAAAAGeI/HZkH4BS1Pb0/s1600/INDONE1SIA%2BTV.jpg",INDONESIA🇮🇩
 http://www.youtube.com/
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DUY5WXf.png" group-title="INDONESIA🇮🇩",AKTV
+https://e.siar.us/live/aktv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qj1EFf1.png" group-title="INDONESIA🇮🇩",AL-IMAN TV
+https://tv.aliman.id/aliman/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="INDONESIA🇮🇩",AL QURAN AL KAREEM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1417,6 +1454,9 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png" group-title="INDONESIA🇮🇩",ATAMBUA TV
 https://63b2dc7196c38.streamlock.net:1937/atambua/myStream/chunklist_w1110314352.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P3whqna.png" group-title="INDONESIA🇮🇩",BALIKPAPAN TV
+https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="INDONESIA🇮🇩",BANDUNG TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
@@ -1431,6 +1471,15 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/488px-BTV_%28Indonesia%29_logo.svg.png" group-title="INDONESIA🇮🇩",BTV
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OrCrtDA.png" group-title="INDONESIA🇮🇩",BUNGO TV
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1653049434-.png" group-title="INDONESIA🇮🇩",CITRA DANGDUT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1653049434-.png" group-title="INDONESIA🇮🇩",CITRA DANGDUT
 https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8
@@ -1461,6 +1510,9 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Dunia_Lain_TV.svg/revision/latest/scale-to-width-down/284?cb=20210109161817" group-title="INDONESIA🇮🇩",DUNIA LAIN
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="INDONESIA🇮🇩",DUTA TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Elshinta_TV_2019.png/revision/latest?cb=20191002081235" group-title="INDONESIA🇮🇩",ELSHINTA TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
@@ -1616,9 +1668,6 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/SANGAJI_TV_JOGJA.jpg" group-title="INDONESIA🇮🇩",SANGKAJI TV JOGJA
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1600px-SCTV_Logo.svg.png" group-title="INDONESIA🇮🇩",SCTV
-https://cdn09jtedge.indihometv.com/atm/hlsv3/sctv/sctv-avc1_1200000=4-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1600px-SCTV_Logo.svg.png" group-title="INDONESIA🇮🇩",SCTV
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
