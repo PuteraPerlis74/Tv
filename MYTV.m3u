@@ -111,16 +111,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd|Use
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 #EXTINF:-1 tvg-id="ASTRO BADMINTON" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Astro_Badminton_1_%282024%29.png",ASTRO BADMINTON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm; Android 13; SM-A137F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5894.0 Safari/537.36
 https://ktpremium.site/live/RY318/7777/1010678.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Astro_Arena_Bola_1_%282024%29.png/400px-Astro_Arena_Bola_1_%282024%29.png" group-title="SPORTS",ASTRO ARENA BOLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm; Android 13; SM-A137F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5894.0 Safari/537.36
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Bolaarena1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Astro_Arena_Bola_2_%282024%29.png/400px-Astro_Arena_Bola_2_%282024%29.png" group-title="SPORTS",ASTRO ARENA BOLA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm; Android 13; SM-A137F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5894.0 Safari/537.36
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Bolaarena2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Astro_Cricket_%282024%29.png/400px-Astro_Cricket_%282024%29.png" group-title="SPORTS",ASTRO CRICKET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm; Android 13; SM-A137F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5894.0 Safari/537.36
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/18629.ts
 
 #EXTINF:-1 tvg-id="815" tvg-name="ASTRO FOOTBALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/400px-Astro_Football_%282024%29.png" group-title="SPORTS",ASTRO FOOTBALL
@@ -130,7 +134,8 @@ http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/18629.ts
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 
 #EXTINF:-1 tvg-id="ASTRO GRANDSTAND" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",ASTRO GRANDSTAND
-http://wanicelife.com:8880/live/kg14m3n1116/sfdsdrgr2334/1720.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_assp3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png",ASTRO PREMIER LEAGUE
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -140,7 +145,8 @@ http://wanicelife.com:8880/live/kg14m3n1116/sfdsdrgr2334/1720.ts
 https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
 
 #EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png",ASTRO PREMIER LEAGUE
-http://wanicelife.com:8880/live/kg14m3n1116/sfdsdrgr2334/1722.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_assp1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE 2" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png",ASTRO PREMIER LEAGUE 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -149,7 +155,8 @@ http://wanicelife.com:8880/live/kg14m3n1116/sfdsdrgr2334/1722.ts
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_ott.mpd
 
 #EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE 2" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png",ASTRO PREMIER LEAGUE 2
-http://wanicelife.com:8880/live/kg14m3n1116/sfdsdrgr2334/1721.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_assp2/playlist.m3u8
 
 EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE 2" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png",ASTRO PREMIER LEAGUE 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -424,6 +431,10 @@ https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 #EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xper!a 5 Build/mFjLTNcIil8fCh0eXBlIT1cIn1cImF1ZGlvXCIpIn0.BkWDujdfuYgIuoHodsw1Kshx0h6BhW4egKD8ymY4e2s; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/STMB_TV3.png/290px-STMB_TV3.png" group-title="MALAYSIA🇲🇾",TV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm; Android 13; SM-A137F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5894.0 Safari/537.36
+https://ktpremium.site/live/RY318/7777/912828.ts
+
 #EXTINF:-1 tvg-id="RTMK06" tvg-name="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" group-title="MALAYSIA🇲🇾",TV6
 #EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
@@ -633,6 +644,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:A1:DE:E8&stream=1163672&extension=ts
 
 #EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Citra_%282024%29.png/400px-Astro_Citra_%282024%29.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm; Android 13; SM-A137F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5894.0 Safari/537.36
 https://ktpremium.site/live/RY318/7777/913177.ts
 
 #EXTINF:-1 tvg-id="333" tvg-name="ASTRO HUA HEE DAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Astro_Hua_Hee_Dai_%282024%29.png/400px-Astro_Hua_Hee_Dai_%282024%29.png" group-title="MALAYSIA🇲🇾",ASTRO HUA HEE DAI
@@ -650,6 +662,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="106" tvg-name="ASTRO OASIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Astro_Oasis_%282024%29.png/400px-Astro_Oasis_%282024%29.png" group-title="MALAYSIA🇲🇾",ASTRO OASIS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm; Android 13; SM-A137F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5894.0 Safari/537.36
 https://ktpremium.site/live/RY318/7777/25864.ts
 
 #EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png" group-title="MALAYSIA🇲🇾",ASTRO PRIMA HD
@@ -683,6 +696,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 http://livesmartphp.RobYang.ggff.net/smart.php?id=Ria-0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm; Android 13; SM-A137F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5894.0 Safari/537.36
 https://ktpremium.site/live/RY318/7777/25855.ts
 
 #EXTINF:-1 group-title="MALAYSIA🇲🇾" tvg-id="AstroSensasi.sg" tvg-name="Astro Sensasi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Astro_Sensasi_%28Dec_2024%29.png/500px-Astro_Sensasi_%28Dec_2024%29.png",ASTRO SENSASI
@@ -694,10 +708,7 @@ EXTINF:-1 tvg-id="307" tvg-name="ASTRO SHUANG XING" tvg-logo="https://www.lyngsa
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Astro_Thangathirai_%282024%29.png/400px-Astro_Thangathirai_%282024%29.png" group-title="MALAYSIA🇲🇾",ASTRO THANGATHIRAI
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
-#EXTVLCOPT:http-user-agent=PerfectTv v3 (Android 9)
-https://get.perfecttv.net/astro_master.mpd?channel=astroABO&username=vip_level7&password=vip_level7
+https://live20.bozztv.com/akamaissh101/ssh101/sungo546/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Astro_Tutor_TV_%282024%29.png/500px-Astro_Tutor_TV_%282024%29.png" group-title="MALAYSIA🇲🇾",ASTRO TUTUR TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
