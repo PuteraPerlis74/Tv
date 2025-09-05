@@ -4,53 +4,6 @@
 http://youtube
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>IRAN
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ps.png"tvg-name=",IRAN🇮🇷
-http://youtube.com
-
-#EXTINF:-1 tvg-logo="https://imamhusseintv.com/assets/images/ihtv-logo.webp" group-title="IRAN🇮🇷",IMAM HOSSAIN TV
-https://live.imamhossaintv.com/live/ih1.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/500px-Iran_International.svg.png" group-title="IRAN🇮🇷",IRAN INTERNATIONAL
-https://irantv.icdndhcp.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Press_TV_logo.png" group-title="IRAN🇮🇷",PRESS TV
-https://live.presstv.ir/hls/presstv.m3u8
-
-
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>PALESTINE
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ps.png"tvg-name=",PALESTINE🇵🇸
-http://youtube.com
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Al_Jazeera_Media_Network_Logo.svg/440px-Al_Jazeera_Media_Network_Logo.svg.png" group-title="PALESTINE🇵🇸",AL JAZEERA ARABIC
-https://live-hls-web-aja-fa.getaj.net/AJA/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Palestine_Satellite_Channel_Logo.png?20230225115043" group-title="PALESTINE🇵🇸",FALASTINI TV
-https://rp.tactivemedia.com/falastinitv/live/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://media0061.elcinema.com/tvguide/1343_1.png" group-title="PALESTINE🇵🇸",MUSAWA
-https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFbL1p_PE5dEqj4fPQCN04fq9As4BienPHvQ&s" group-title="PALESTINE🇵🇸",NBC — NAJAH BROADCASTING CHANNEL
-https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/ps/palestine_al_yawm_95x72.gif" group-title="PALESTINE🇵🇸",PALESTINE AL YAWN
-https://live.paltodaytv.com/paltv/live/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/palestine-mobasher-ps.png" group-title="PALESTINE🇵🇸",PALESTINE MOBASHER
-https://pbc.furrera.ps/palestinelivehd/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2ebba914598923.56036d805849d.jpg" group-title="PALESTINE🇵🇸",PALESTINE TV
-https://pbc.furrera.ps/palestinehd/tracks-v3a1/mono.m3u8
-
-
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>RTM SPECIAL
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -417,7 +370,7 @@ http://youtube.com
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U3tNDHMRkqO50xIbKZDvug", "kid":"i7MdiZKf+O9W3tJSZGtHEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/HeroesTVchannel.png" group-title="MALAYSIA🇲🇾",HEROES
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/HeroesTVchannel.png" group-title="MALAYSIA🇲🇾",HEROES
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5183/default_ott.mpd
 
 #EXTINF:-1 tvg-name="RTM ASEAN" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/RTM%20ASEAN%20Malay.png" group-title="MALAYSIA🇲🇾",RTM ASEAN
@@ -1449,11 +1402,13 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://algorit.ma/wp-content/uploads/2023/04/Antaranews.png" group-title="INDONESIA🇮🇩", ANTARA NEWS
 https://streaming.indihometv.com/atm/DASH/antara/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png" group-title="INDONESIA🇮🇩", ANTV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
-https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Ashiil_TV.png/revision/latest?cb=20180922125304" group-title="INDONESIA🇮🇩",ASHILL TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
