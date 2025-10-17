@@ -5,40 +5,10 @@ http://youtube
 
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>RTM SPECIAL
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/RTMKlik.png"tvg-name=",RTM SPECIAL
-http://youtube.com
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/APETTO%20Malay.png" group-title="RTM SPECIAL",APETITO
-https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/AURA%20Malay.png" group-title="RTM SPECIAL",AURA
-https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/FITRAH%20Malay.png" group-title="RTM SPECIAL",FITRAH
-https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/JR.%20Malay.png" group-title="RTM SPECIAL",JR.
-https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/LEAD%20Malay.png" group-title="RTM SPECIAL",LEAD
-https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/ROLL%20Malay.png" group-title="RTM SPECIAL",ROLL
-https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/SNAP%20MALAY.png" group-title="RTM SPECIAL",SNAP
-https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
-
-
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>SPORTS
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/sports.svg"tvg-name=",SPORTS 
-http://youtube.com
 
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-1-ae.png" group-title="SPORTS",ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
@@ -365,8 +335,27 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>MALAYSIA
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-SjbZogdIKeY/VO50H26hrrI/AAAAAAAAG5E/WVzUBt8PH70/s1600/MALAYSIA%2BTV.jpg"tvg-name=",MALAYSIA🇲🇾
-http://youtube.com
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/APETTO%20Malay.png" group-title="RTM SPECIAL",APETITO
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/AURA%20Malay.png" group-title="RTM SPECIAL",AURA
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/FITRAH%20Malay.png" group-title="RTM SPECIAL",FITRAH
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/JR.%20Malay.png" group-title="RTM SPECIAL",JR.
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/LEAD%20Malay.png" group-title="RTM SPECIAL",LEAD
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/ROLL%20Malay.png" group-title="RTM SPECIAL",ROLL
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/SNAP%20MALAY.png" group-title="RTM SPECIAL",SNAP
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U3tNDHMRkqO50xIbKZDvug", "kid":"i7MdiZKf+O9W3tJSZGtHEA" } ], "type":"temporary" }
@@ -849,8 +838,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>RADIO MALAYSIA
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-#EXTINF:-1 tvg-logo="https://purepng.com/public/uploads/large/purepng.com-radioradioradio-stationtransceiverwirelessbroadcast-1701528368200ki8j8.png"tvg-name=",RADIO MALAYSIA🇲🇾
-http://youtube.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/988_FM_Logo.png" group-title="RADIO MALAYSIA🇲🇾",988 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC
@@ -1350,9 +1337,6 @@ https://stream.rcs.revma.com/dramduh811uvv/11_1lhbrh2gbhmbm02/playlist.m3u8
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
-#EXTINF:-1 tvg-logo="tvbrunei.png" tvg-logo="http://1.bp.blogspot.com/-JOzbw9xepfg/VMuavV70R7I/AAAAAAAAGdI/ZYmbocCYySw/s1600/BRUNEI%2BTV.jpg",BRUNEI🇧🇳
-http://www.youtube.com/
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/RTB_Aneka.png/220px-RTB_Aneka.png" group-title="BRUNEI🇧🇳",RTB ANEKA
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
@@ -1386,9 +1370,6 @@ https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>INDONESIA
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-#EXTINF:-1 tvg-logo="tvindonesia.jpg" tvg-logo="http://4.bp.blogspot.com/-KtJNkM15WPE/VMuh-Ap5SpI/AAAAAAAAGeI/HZkH4BS1Pb0/s1600/INDONE1SIA%2BTV.jpg",INDONESIA🇮🇩
-http://www.youtube.com/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DUY5WXf.png" group-title="INDONESIA🇮🇩",AKTV
 https://e.siar.us/live/aktv.m3u8
@@ -1848,9 +1829,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>SINGAPURA
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-#EXTINF:-1 tvg-logo="tvsingapura.png" tvg-logo="https://2.bp.blogspot.com/-tGWBloKRQ78/VX59w1OeRiI/AAAAAAAAHI0/oVdR5_diWQM/s320/SINGAPORE%2BTV.jpg",SINGAPURA🇸🇬
-http://www.youtube.com/
-
 #EXTINF:-1 group-title="SINGAPURA🇸🇬" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/440px-Mediacorp_Channel_5_2023.svg.png",CHANNEL 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
@@ -1894,9 +1872,6 @@ https://22403.live.streamtheworld.com/WARNA942FM_PREM
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>KOREA
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/Korea_Flag-logo-0265972B6F-seeklogo.com.png"tvg-name=",KOREA🇰🇷
-http://youtube.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="KOREA🇰🇷",ARIRANG TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -1947,9 +1922,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
-#EXTINF:-1 tvg-logo="https://img.favpng.com/24/14/18/flag-of-thailand-thai-language-national-flag-png-favpng-MQNMypkwBGEHs49D6fnFn6LXm.jpg"tvg-name=",THAILAND🇹🇭
-http://youtube.com
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/thai_tv_3_th.png" group-title="THAILAND🇹🇭",3 HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
@@ -1958,10 +1930,6 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>RADIO THAILAND
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-
-#EXTINF:-1 tvg-logo="https://img.favpng.com/24/14/18/flag-of-thailand-thai-language-national-flag-png-favpng-MQNMypkwBGEHs49D6fnFn6LXm.jpg"tvg-name=",RADIO THAILAND🇹🇭
-http://youtube.com
 
 #EXTINF:-1 tvg-logo="https://www.plathong.net/img/logo.png" group-title="RADIO THAILAND🇹🇭",RADIO BROADCASTING NARATIWAT
 https://radio11.plathong.net/8712/;stream.mp3
@@ -1973,9 +1941,6 @@ https://radio-org-01-ott.prd.go.th/yla_fm95
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>DOCUMENTARY
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-#EXTINF:-1 tvg-logo="https://as1.ftcdn.net/jpg/01/72/36/70/500_F_172367047_RvnAElKZqOzuGbExtKwAVpmCOwGAqiq7.jpg"tvg-name=",DOCUMENTARY
-http://youtube.com
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest/thumbnail/width/360/height/360?cb=20190715173635" group-title="DOCUMENTARY",ANIMAL PLANET HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2063,9 +2028,6 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>LIFESTYLE
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-#EXTINF:-1 tvg-logo="https://bh.arabiccoupon.com/sites/default/files/styles/icon_image/public/store_icon/lifestyle-logo-2021-en-arabiccoupon-400x400.jpg"tvg-name=",LIFESTYLE
-http://youtube.com
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/2560px-Asian_Food_Network.svg.png" group-title="LIFESTYLE",ASIAN FOOD NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zwz/tje4FZiie9aw2Q1lqA", "kid":"NGufQeKTN0jIhh+Cky4BEA" } ], "type":"temporary" }
@@ -2120,9 +2082,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>KIDS
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-#EXTINF:-1 tvg-logo="https://image.shutterstock.com/image-vector/child-logo-260nw-359834360.jpg"tvg-name=",KIDS
-http://youtube.com
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
@@ -2189,9 +2148,6 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>MOVIES
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/movie-illustration-logo-vector-design-film-178252125.jpg"tvg-name=",MOVIES
-http://youtube.com
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9DA67180-77F0-4AAA-A1C4-148BEBA5BD25/3-1x1.png/900" group-title="MOVIES",ACTION HOLLYWOOD MOVIES
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
