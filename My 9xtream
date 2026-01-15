@@ -1,45 +1,1301 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/main/Astro%20Arena.png" group-title="SPORTS",ASTRO ARENA
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena.png" group-title="SPORTS",ASTRO ARENA
+http://195.128.24.55:80/play/live.php?mac=00:1A:79:7D:FD:F1&stream=1163654&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/main/Astro%20Arena%202.png" group-title="SPORTS",ASTRO ARENA 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%202.png" group-title="SPORTS",ASTRO ARENA 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/main/Astro%20Badminton%201.png" group-title="SPORTS",ASTRO BADMINTON
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Badminton%201.png",ASTRO BADMINTON
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/main/Astro%20Arena%20Bola%201.png" group-title="SPORTS",ASTRO ARENA BOLA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%20Bola%201.png" group-title="SPORTS",ASTRO ARENA BOLA
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Bolaarena1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/main/Astro%20Arena%20Bola%202.png" group-title="SPORTS",ASTRO ARENA BOLA 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%20Bola%202.png" group-title="SPORTS",ASTRO ARENA BOLA 2
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Bolaarena2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/main/Astro%20Cricket.png" group-title="SPORTS",ASTRO CRICKET
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Cricket.png" group-title="SPORTS",ASTRO CRICKET
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/18629.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/main/Astro%20Football.png" group-title="SPORTS",ASTRO FOOTBALL
+#EXTINF:-1
+tvg-name="ASTRO FOOTBALL" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Football.png" group-title="SPORTS",ASTRO FOOTBALL
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/main/TV1.png" group-title="MALAYSIA🇲🇾",TV1 HD
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Grandstand.png",ASTRO GRANDSTAND
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Premier%20League%201.png",ASTRO PREMIER LEAGUE
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Premier%20League%202.png",ASTRO PREMIER LEAGUE 2
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Premier%20League%203.webp",ASTRO PREMIER LEAGUE 3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Sports%20Plus.png",ASTRO SPORTS PLUS
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Sports%20UHD.png",ASTRO SPORTS UHD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Bein%20sports%201.png" group-title="SPORTS",BEIN SPORTS
+https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Bein%20sports%202.png" group-title="SPORTS",BEIN SPORTS 2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Bein%20sports%203.png" group-title="SPORTS",BEIN SPORTS 3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Celebes%20TV.png" group-title="SPORTS",CELEBES TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Dubai%20Sports.png" group-title="SPORTS",DUBAI SPORTS 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Dubai%20Sports.png" group-title="SPORTS",DUBAI SPORTS 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Dubai%20Sports.png" group-title="SPORTS",DUBAI SPORTS 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Eurosports.png" group-title="SPORTS",EUROSPORT HD
+https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Golf.png" group-title="SPORTS",GOLF CHANNEL HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%201.png" group-title="SPORTS",M LIVE 1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%202.png" group-title="SPORTS",M LIVE 2
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%205.png" group-title="SPORTS",M LIVE 5 
+https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%206.png" group-title="SPORTS",M LIVE 6
+https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPL%2001.png" group-title="SPORTS",M LIVE SPL CH01
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPL%2002.png" group-title="SPORTS",M LIVE SPL CH02
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Premier%20Sports.png" group-title="SPORTS",PREMIER SPORTS
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Red%20Bull.png" group-title="SPORTS",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPOTV.png" group-title="SPORTS",SPOTV
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPOTV2.png" group-title="SPORTS",SPOTV2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Sukan%20RTM.png" group-title="SPORTS",SUKAN RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/TVRI%20Sport.webp" group-title="SPORTS",TVRI SPORT
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Unifi%20Sports.png" group-title="SPORTS",UNIFI SPORTS
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/W-Sport.png" group-title="SPORTS",W-SPORT
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/APETTO%20Malay.png" group-title="RTM SPECIAL",APETITO
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/AURA%20Malay.png" group-title="RTM SPECIAL",AURA
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/FITRAH%20Malay.png" group-title="RTM SPECIAL",FITRAH
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/JR.%20Malay.png" group-title="RTM SPECIAL",JR.
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/LEAD%20Malay.png" group-title="RTM SPECIAL",LEAD
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/ROLL%20Malay.png" group-title="RTM SPECIAL",ROLL
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/SNAP%20MALAY.png" group-title="RTM SPECIAL",SNAP
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
+
+
+#EXTINF:-1 tvg-name="RTM ASEAN" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/RTM%20ASEAN.png" group-title="MALAYSIA🇲🇾",RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV1.png" group-title="MALAYSIA🇲🇾",TV1 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/main/TV2.png" group-title="MALAYSIA🇲🇾",TV2 HD
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV1.png" group-title="MALAYSIA🇲🇾",TV1 HD
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv1/index.m3u8
+
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV2.png" group-title="MALAYSIA🇲🇾",TV2 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/main/TV3.png" group-title="MALAYSIA🇲🇾",TV3
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV2.png" group-title="MALAYSIA🇲🇾",TV2 HD
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv2/index.m3u8
+
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV3.png" group-title="MALAYSIA🇲🇾",TV3
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/TV3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/main/TV6.png" group-title="MALAYSIA🇲🇾",TV6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV6.png" group-title="MALAYSIA🇲🇾",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/main/DidikTV%20KPM.png" group-title="MALAYSIA🇲🇾",DidikTv KPM
-https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV6.png" group-title="MALAYSIA🇲🇾",TV6
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv6/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/main/8TV.png" group-title="MALAYSIA🇲🇾",8TV
-https://live.aqfadtv.xyz/8tv/index.mpd
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/DidikTV%20KPM.png" group-title="MALAYSIA🇲🇾",DidikTv KPM
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DidikTvKPM/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/main/TV9.png" group-title="MALAYSIA🇲🇾",TV9
-https://live.aqfadtv.xyz/tv9/index.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/8TV.png" group-title="MALAYSIA🇲🇾",8TV
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/TV8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/main/TV%20Alhijrah.png" group-title="MALAYSIA🇲🇾",AL HIJRAH
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV9.png" group-title="MALAYSIA🇲🇾",TV9
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV%20Alhijrah.png" group-title="MALAYSIA🇲🇾",AL HIJRAH
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Alhijrah_backup/playlist.m3u8
+
+EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Awesome%20TV.png" group-title="MALAYSIA🇲🇾",AWESOME TV
+http://31.42.187.37:25461/watchpad13158/1234/340
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Bernama%20TV.png" group-title="MALAYSIA🇲🇾",BERNAMA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Berita%20RTM.webp" group-title="MALAYSIA🇲🇾",BERITA RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Berita%20RTM.webp" group-title="MALAYSIA🇲🇾",BERITA RTM
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/BeritaRTM/index.m3u8
+
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Degup.png" group-title="MALAYSIA🇲🇾",DEGUP
+https://web.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9uuxH7x3%2FZwmEQ4bTlgbubfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080123%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080123%2Curn:Huawei:liveTV:XTV55631601%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjAoqxfeCUKlKlyq0Ut9doDS_UCjYpOJH6941b57q7s5olw9HLs23l4OoKRnlXaadbaCfrthYVGiPkIFih7y5ZxRxiHOfQJb9in4fdUQouuFKSS8X69W4fEbZld50GyvbpgR0o30ZH1pcTv6FwhJApYBnTzN8jfj5y3CaM-k1NGtOqRhulTVOxZU17lPO9YV8ouzRdkMm_pvAH2BNiIXaBOyNQh4nsfI3xn3vL_m7zCxBl4Ar0AAAA&tenantId=6001
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Parlimen.png" group-title="MALAYSIA🇲🇾",,DEWAN NEGARA
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Parlimen.png" group-title="MALAYSIA🇲🇾",DEWAN RAKYAT
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
+
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Drama%20Sangat.png" group-title="MALAYSIA🇲🇾",DRAMA SANGAT
+http://31.42.187.37:25461/watchpad13158/1234/60
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Drama%20Hebat.png" group-title="MALAYSIA🇲🇾",DRAMA HEBAT
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Drama%20Hotpot.png" group-title="MALAYSIA🇲🇾",DRAMA HOTPOT
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Dunia%20Sinema.png" group-title="MALAYSIA🇲🇾",DUNIA SINEMA
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Filem%20Mantap.png" group-title="MALAYSIA🇲🇾",FILEM MANTAP
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Iqiyi.png" group-title="MALAYSIA🇲🇾",iQIYI HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Inspirasi%20HD.png" group-title="MALAYSIA🇲🇾",INSPIRASI
+https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Jom%20Ngaji.png" group-title="MALAYSIA🇲🇾",JOM NGAJI
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Lawak%20Sentral.png" group-title="MALAYSIA🇲🇾",LAWAK SENTRAL
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Media%20Selangor.png" group-title="MALAYSIA🇲🇾",MEDIA SELANGOR
+https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist b3128000_slmsa.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Oh%20My%20Ceria.png" group-title="MALAYSIA🇲🇾",OH MY CERIA!
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Salam%20HD.webp" group-title="MALAYSIA🇲🇾",SALAM HD
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV%20SELANGOR.jpeg" group-title="MALAYSIA🇲🇾",SELANGOR TV
+https://dedm91s0p00ib.cloudfront.net/smil:selangor/playlist.m3u8?id=1&CMCD=cid%3D%221%22%2Cot%3Dm%2Cmp-schema%3D%22Live%20Channel%22%2Csf%3Dh%2Csid%3D%22773d8db9-2502-4536-85a1-5a1e66d4f274%22%2Cmp-site%3D%22Selangor%20TV%22%2Cst%3Dv%2Csu%2Cmp-user%3D0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/SIAR.webp" group-title="MALAYSIA🇲🇾",SIAR
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/SUKE-TV.png" group-title="MALAYSIA🇲🇾",SUKE TV
+https://live.mana2.my/SukeTv/index.m3u8?auth_key=1761095070-b5540afbca7a4959834f4ff4f1d87fbd-0-b50646165810efcc8cc2e433c755b9d7&token=1761095070-b5540afbca7a4959834f4ff4f1d87fbd-0-b50646165810efcc8cc2e433c755b9d7
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Travel%20%26%20Taste.png" group-title="MALAYSIA🇲🇾",TRAVEL & TASTE
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Tv%20Ikim.png" group-title="MALAYSIA🇲🇾",TV IKIM
+https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Tv%20Ikim.png" group-title="MALAYSIA🇲🇾",TV IKIM
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvIkim/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Okey.png" group-title="MALAYSIA🇲🇾",TV OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Okey.png" group-title="MALAYSIA🇲🇾",TV OKEY
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvOkey/index.m3u8
+
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20AEC.png" group-title="MALAYSIA🇲🇾",ASTRO AEC HD
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/AEC/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20AOD.png" group-title="MALAYSIA🇲🇾",ASTRO AOD HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Aura.png" group-title="MALAYSIA🇲🇾",ASTRO AURA
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Awani.png" group-title="MALAYSIA🇲🇾",ASTRO AWANI
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Awani.png" group-title="MALAYSIA🇲🇾",ASTRO AWANI
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/AstroAwani/index.m3u8
+
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Citra.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Citra/playlist.m3u8
+
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Hua%20Hee%20Dai.png" group-title="MALAYSIA🇲🇾",ASTRO HUA HEE DAI
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Oasis.png" group-title="MALAYSIA🇲🇾",ASTRO OASIS HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Prima.png" group-title="MALAYSIA🇲🇾",ASTRO PRIMA HD
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Prima/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20QJ.png" group-title="MALAYSIA🇲🇾",ASTRO QJ
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Rania.png" group-title="MALAYSIA🇲🇾",ASTRO RANIA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Ria-0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Thangathirai.png" group-title="MALAYSIA🇲🇾",ASTRO THANGATHIRAI
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Tutor%20TV.png" group-title="MALAYSIA🇲🇾",ASTRO TUTUR TV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Vaanavil.png" group-title="MALAYSIA🇲🇾",ASTRO VAANAVIL 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Vellithirai.png" group-title="MALAYSIA🇲🇾",ASTRO VELLITHIRAI
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/ADITHYA.webp" group-title="MALAYSIA🇲🇾",ADITHYA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/CCTV%204.png" group-title="MALAYSIA🇲🇾",CCTV4 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Cti%20Asia.png" group-title="MALAYSIA🇲🇾",CTI ASIA HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/KTV.png" group-title="MALAYSIA🇲🇾",KTV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Phoenix%20Chinese.png" group-title="MALAYSIA🇲🇾",PHOENIX CHINESE CHANNEL
+https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Phoenix%20Info.png" group-title="MALAYSIA🇲🇾",PHOENIX INFO NEWS
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Star%20Vijay.png" group-title="MALAYSIA🇲🇾",STAR VIJAY HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Sun%20Life.png" group-title="MALAYSIA🇲🇾",SUN LIFE
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Sun%20Music.png" group-title="MALAYSIA🇲🇾",SUN MUSIC HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/SUN%20NEWS%20Malay.png" group-title="MALAYSIA🇲🇾",SUN NEWS
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Sun%20TV.png" group-title="MALAYSIA🇲🇾",SUN TV HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Tvb%20Classic.png" group-title="MALAYSIA🇲🇾",TVB CLASSIC HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TVB%20ENTERTAINMENT%20NEWS%20Malay.png" group-title="MALAYSIA🇲🇾",TVB ENTERTAINMENT NEWS
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TVB%20Jade_logo.png" group-title="MALAYSIA🇲🇾",TVB JADE
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TVB%20Magic.webp" group-title="MALAYSIA🇲🇾",TVB MAGIC
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5107/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TVB%20Xing%20He_logo.png" group-title="MALAYSIA🇲🇾",TVB XING HE HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TVBS%20Asia.png" group-title="MALAYSIA🇲🇾",TVBS ASIA HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TVBS%20NEWS.png" group-title="MALAYSIA🇲🇾",TVBS NEWS HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5008/default_ott.mpd
+
+#EXTINF:-1
+tvg-name="ZEE TAMIL HD" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Zee%20Tamil.png" group-title="MALAYSIA🇲🇾",ZEE TAMIL HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>RADIO MALAYSIA
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/988%20FM.png" group-title="RADIO MALAYSIA🇲🇾",988 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/8%20Fm.png" group-title="RADIO MALAYSIA🇲🇾",8FM
+https://stream.rcs.revma.com/qp0xrd9mtd3vv/11_1cafl4qraqbr402/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Ai%20FM.png" group-title="RADIO MALAYSIA🇲🇾",AI FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L2HWbPzhK8sFZXFRCZnzvw", "kid":"mdAGD00zM76QsMrmrdtDEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/140/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Ai%20FM.png" group-title="RADIO MALAYSIA🇲🇾",AI FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Alam%20Maya%20FM.png" group-title="RADIO MALAYSIA🇲🇾",ALAM MAYA FM
+http://192.99.8.192:3142/stream
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Alam%20Seni%20Fm.png" group-title="RADIO MALAYSIA🇲🇾",ALAM SENI FM
+http://s1.cmesolution.my:6178/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Amboi%20Fm.png" group-title="RADIO MALAYSIA🇲🇾",AMBOI FM
+https://amboifm.iradio.work:8000/stream
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Asyik%20FM.png" group-title="RADIO MALAYSIA🇲🇾",ASYIK FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jBmOlxGeRtrZpNaT9agq/w", "kid":"ugGy9zx2Qy5kkJJ2fxBwEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/141/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Asyik%20FM.png" group-title="RADIO MALAYSIA🇲🇾",ASYIK FM
+https://22273.live.streamtheworld.com/ASYIK_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Bapakku%20Fm.png" group-title="RADIO MALAYSIA🇲🇾",BAPAKKU FM
+https://servidor30-2.brlogic.com:7048/live
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Bayu%20Fm.png" group-title="RADIO MALAYSIA🇲🇾",BAYU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9yw4BYGqEqAW6oh4nGecZw", "kid":"VRXU8iZk44bGL3zywWarEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/135/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Best%20Fm.png" group-title="RADIO MALAYSIA🇲🇾",BEST FM
+https://n22a-eu.rcs.revma.com/h34x4kgg9hhvv.m4a
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Bintulu%20FM.webp" group-title="RADIO MALAYSIA🇲🇾",BINTULU FM
+https://22273.live.streamtheworld.com/BINTULU_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Cats%20Fm.png" group-title="RADIO MALAYSIA🇲🇾",CATS FM
+https://s4.yesstreaming.net:7019/stream
+
+#EXTINF:-1 tvg-id="860" tvg-name="CLASSIC ROCK FM" tvg-country="MY" tvg-language="en"tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Classic%20Rock.png" tvg-url="" group-title="RADIO MALAYSIA🇲🇾",CLASSIC ROCK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oGTVj6SdZ2FLBSq5qSo3XA", "kid":"dDd/nep1RTmU9/b17bCOEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/124/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Ceria%20Fm.png" group-title="RADIO MALAYSIA🇲🇾",CERIA FM
+http://ceriafm.iradio.work:8080/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Ceritera%20Fm.png" group-title="RADIO MALAYSIA🇲🇾",CERITERA FM
+http://live.ceriterafm.my:8000
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/De'awan%20Fm.webp" group-title="RADIO MALAYSIA🇲🇾",DE’AWAN FM
+https://azuracast.shoutcastsolutions.com/radio/8120/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Delima%20Fm.png" group-title="RADIO MALAYSIA🇲🇾",DELIMA FM
+http://167.114.131.90:5610/;stream.nsv
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Era%20Fm.png" group-title="RADIO MALAYSIA🇲🇾",ERA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TVWfzBIFLZ5/zg+PZZK7oQ", "kid":"hSlCUcius3NonqoOqVh4EA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/118/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Era%20Fm.png" group-title="RADIO MALAYSIA🇲🇾",ERA
+https://stream.rcs.revma.com/crec9cmbv4uvv/14_1mxuqy6p1izr902/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Era%20Sabah.webp" group-title="RADIO MALAYSIA🇲🇾",ERA (SABAH)
+https://stream.rcs.revma.com/4p3nqmmbv4uvv/2_pb4xshnpxem902/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Era%20Sarawak.webp" group-title="RADIO MALAYSIA🇲🇾",ERA (SARAWAK)
+https://stream.rcs.revma.com/bkqfqkrbv4uvv/7_1um684sg3fitb02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Era%20Cintan.png" group-title="RADIO MALAYSIA🇲🇾",ERA CINTAN
+https://stream.rcs.revma.com/0z5mdyv711uvv/12_8100nev0v11a02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/ERA%20Flow.webp" group-title="RADIO MALAYSIA🇲🇾",ERA FLOW
+https://stream.rcs.revma.com/7g70h6v711uvv/13_gujhea6x6g0t02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Era%20K%20Hit.webp" group-title="RADIO MALAYSIA🇲🇾",ERA K-HIT
+https://stream.rcs.revma.com/m1hzxaw711uvv/8_1j7pvp5b3y8r202/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Era%20Indie.webp" group-title="RADIO MALAYSIA🇲🇾",ERA INDIE
+https://stream.rcs.revma.com/qp67k3v711uvv/1_90g44x7bp2zm02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Era%20Nurock.webp" group-title="RADIO MALAYSIA🇲🇾",ERA NUROCK
+https://stream.rcs.revma.com/4fe3smw711uvv/15_18yf43y46q0zo02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Era%20Nusantera.webp" group-title="RADIO MALAYSIA🇲🇾",ERA NUSANTERA
+https://stream.rcs.revma.com/sgzunsw711uvv/7_1tp64fb9xvrs502/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Era%20Throwback.webp" group-title="RADIO MALAYSIA🇲🇾",ERA THROWBAEK
+https://stream.rcs.revma.com/uq3kmtw711uvv/8_9km8aut9q72f02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Fly%20FM.webp" group-title="RADIO MALAYSIA🇲🇾",FLY FM
+https://stream.rcs.revma.com/q17aka9mtd3vv/6_19pj9n9pvoh6p02/playlist.m3u8
+
+#EXTINF:-1 tvg-id="863" tvg-name="GEGAR FM" tvg-country="MY"tvg-language="MY" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Gegar%20Fm.webp" tvg-url="" group-title="RADIO MALAYSIA🇲🇾",GEGAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oP7KOBC5InWSvYk7+58fiQ", "kid":"cLap0cX10nWszwqMUdv3EA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/126/default_ott.mpd
+
+#EXTINF:-1 tvg-id="863" tvg-name="GEGAR FM" tvg-country="MY"tvg-language="MY" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Gegar%20Fm.webp" tvg-url="" group-title="RADIO MALAYSIA🇲🇾",GEGAR
+https://stream.rcs.revma.com/cn0zcqsbv4uvv/4_ejlx9lzb14zo02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Gegar%20Hindi%20Power.webp" group-title="RADIO MALAYSIA🇲🇾",GEGAR HINDI POWER
+https://stream.rcs.revma.com/ggn4nww711uvv/16_1jvcsvi5sf2zg02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Gegar%20Hoh%20Btabuh.webp" group-title="RADIO MALAYSIA🇲🇾",GEGAR HOH BTABUH
+https://stream.rcs.revma.com/5u674yw711uvv/16_1c1frqv8qb5em02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Gegar%20Maghi%20Gelek.webp" group-title="RADIO MALAYSIA🇲🇾",GEGAR MAGHI GELEK
+https://stream.rcs.revma.com/97gya1w711uvv/7_1longra7dqcba02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Gegar%20Tradisi.webp" group-title="RADIO MALAYSIA🇲🇾",GEGAR TRADISI
+https://stream.rcs.revma.com/ad2y31w711uvv/3_uux2412lm9kd02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Gemersik%20FM.jpg" group-title="RADIO MALAYSIA🇲🇾",GEMERSIK FM
+http://51.79.219.206:8000/stream
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Gold.png" group-title="RADIO MALAYSIA🇲🇾",GOLD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cVyEAdeCnJp8XWZZIsoT9g", "kid":"j5Ls30zRrFW8jHiPoZWGEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/125/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/GO%20XUAN.png" group-title="RADIO MALAYSIA🇲🇾",GO XUAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7x584+UKeHiM4YMc6o4YfQ", "kid":"7nOKZ3dtFH6V+V3yfmJrEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Havoc%20Fm.png" group-title="RADIO MALAYSIA🇲🇾",HAVOC
+http://nebula.shoutca.st:8098/stream
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Hijau%20Fm.webp" group-title="RADIO MALAYSIA🇲🇾",HIJAU FM
+https://stream.radio.co/s4c9c7e0cb/listen
+
+#EXTINF:-1 tvg-id="852" tvg-name="Hits FM" tvg-country="MY"tvg-language="en"tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Hitz.png" tvg-url="" group-title="RADIO MALAYSIA🇲🇾",HITZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ltoLvoO49UGU5CQo4f1mMg", "kid":"x1n0vBV7AKex26eHMZf8EA" } ], "type":"temporary" } 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/121/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/HOT%20FM.png" group-title="RADIO MALAYSIA🇲🇾",HOT FM
+https://stream.rcs.revma.com/drakdf8mtd3vv/2_1pjpn0nyne6ry02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/IKIM%20FM.png" group-title="RADIO MALAYSIA🇲🇾",IKIM FM
+https://ais-sa8.cdnstream1.com/5035/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/ILA%20FM.jpg" group-title="RADIO MALAYSIA🇲🇾",ILA FM
+http://s1.cmesolution.my:5442/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Impian%20Fm.webp" group-title="RADIO MALAYSIA🇲🇾",IMPIAN FM
+http://167.114.131.90:6156/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/India%20Beat.png" group-title="RADIO MALAYSIA🇲🇾",INDIA BEAT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PoSxc+iZchD9JwtwKUkang", "kid":"K06HO8k+/5WbojLh+gFvEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Iras%20FM.jpg" group-title="RADIO MALAYSIA🇲🇾",IRAS FM
+http://167.114.131.90:5744/stream
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Jazz.png" group-title="RADIO MALAYSIA🇲🇾",JAZZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"soRWP83esHi1v+DvtoT/oQ", "kid":"G7q2ex+Vrpoy23OojDCBEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/128/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/JAZZ%20LOUNGE.png" group-title="RADIO MALAYSIA🇲🇾",JAZZ LOUNGE
+https://eu8.fastcast4u.com/proxy/lch?mp=/1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Jei%20Fm.png" group-title="RADIO MALAYSIA🇲🇾",JEI FM
+https://usa3.fastcast4u.com/proxy/jeifm?mp=/1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Johor%20FM.png" group-title="RADIO MALAYSIA🇲🇾",JOHOR FM
+https://28163.live.streamtheworld.com/JOHOR_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Kaban%20Fm.png" group-title="RADIO MALAYSIA🇲🇾",KABAN FM
+http://cloud.tujuh.my:8018/stream?type=.mp3/;
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Kcfm.png" group-title="RADIO MALAYSIA🇲🇾",KCFM
+http://radio.kcfm.org:8000/stream
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Kedah%20FM.webp" group-title="RADIO MALAYSIA🇲🇾",KEDAH FM
+https://28103.live.streamtheworld.com/KEDAH_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Kelantan%20Fm.png" group-title="RADIO MALAYSIA🇲🇾",KELANTAN FM
+https://28093.live.streamtheworld.com/KELANTAN_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/KENINGAU%20FM.png" group-title="RADIO MALAYSIA🇲🇾",KENINGAU FM
+https://28103.live.streamtheworld.com/KENINGAU_FMAAC
+
+#EXTINF:-1 tvg-id="868" tvg-name="KENYALANG FM" tvg-country="MY" tvg-language="MALAYSIASRWK" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/KENYALANG.webp" tvg-url="" group-title="RADIO MALAYSIA🇲🇾",KENYALANG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U7zs6Ncey+e6wIqUknzzWA", "kid":"/dlpDENjHqxn2/sRptalEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/136/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/KL%20FM.png" group-title="RADIO MALAYSIA🇲🇾",KL FM
+https://22273.live.streamtheworld.com/KL_FMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Klasik%20Fm.png" group-title="RADIO MALAYSIA🇲🇾",KLASIK FM
+https://28103.live.streamtheworld.com/RADIO_KLASIKAAC.aac
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/KLATEKITA%20FM.png" group-title="RADIO MALAYSIA🇲🇾",KLATEKITA FM
+http://s6.voscast.com:9748/;stream.nsv
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/KOOL101%20FM.png" group-title="RADIO MALAYSIA🇲🇾",KOOL101 FM
+https://stream.rcs.revma.com/3930238mtd3vv/2_1qs9hosuwug5902/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Kuala%20Sentul%20Dihati%20Fm.jpg" group-title="RADIO MALAYSIA🇲🇾",KUALA SENTUL DIHATI FM
+http://51.79.219.202:8000/stream
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/KUPI%20KUPI%20FM%20SABAH.png" group-title="RADIO MALAYSIA🇲🇾",KUPI KUPI FM SABAH
+https://stream.rcs.revma.com/axht8yawe1bwv/2_18wn0vtfz96i402/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/KUPI%20KUPI%20FM%20SARAWAK.png" group-title="RADIO MALAYSIA🇲🇾",KUPI KUPI FM SARAWAK
+https://stream.rcs.revma.com/vx54zkbwe1bwv/3_j71se4uny0me02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/LABUAN%20FM.png" group-title="RADIO MALAYSIA🇲🇾",LABUAN FM
+https://22243.live.streamtheworld.com/LABUAN_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Langkawi%20FM.webp" group-title="RADIO MALAYSIA🇲🇾",LANGKAWI FM
+https://22273.live.streamtheworld.com/LANGKAWI_FMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/LIMBANG%20FM.png" group-title="RADIO MALAYSIA🇲🇾",LIMBANG FM
+https://22273.live.streamtheworld.com/LIMBANGAAC.aac
+
+#EXTINF:-1 tvg-id="854" tvg-name="LITE FM"tvg-country="MY"tvg-language="en"tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/LITE.png" tvg-url="" group-title="RADIO MALAYSIA🇲🇾",LITE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tZ1I5dpeNKHRe8tujMNiZw", "kid":"6Ks1BJHgUSgjWFnxJyJbEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/123/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/LTFM.png" group-title="RADIO MALAYSIA🇲🇾",LTFM
+http://live.ltfmonline.com:8000/stream
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/MACC%20FM.png" group-title="RADIO MALAYSIA🇲🇾",MACC FM
+https://listen.radioking.com/radio/560261/stream/619850
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/MANIS%20FM.png" group-title="RADIO MALAYSIA🇲🇾",MANIS FM
+https://stream.rcs.revma.com/7bmtzk1z403vv/6_1i22gkaums46d02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Minnal%20FM.png" group-title="RADIO MALAYSIA🇲🇾",MINNAL FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0gEeMrUkoC5Dl44aBmOUvQ", "kid":"SiQocCxmIgzhBdXLogM0EA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/139/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Minnal%20FM.png" group-title="RADIO MALAYSIA🇲🇾",MINNAL FM
+https://22273.live.streamtheworld.com/MINNAL_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Miri%20FM.webp" group-title="RADIO MALAYSIA🇲🇾",MIRI FM
+https://28163.live.streamtheworld.com/MIRI_FMAAC
+
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/MIX.png" group-title="RADIO MALAYSIA🇲🇾",MIX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/122
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/122/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Melaka%20FM.png" group-title="RADIO MALAYSIA🇲🇾",MELAKA FM
+https://28153.live.streamtheworld.com/MELAKA_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/MELODY.png" group-title="RADIO MALAYSIA🇲🇾",MELODY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bfUsRrGTUi/odCCTjgKXWQ", "kid":"003ElwH5wiufILqrsnrUEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/132/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Molek%20FM.webp" group-title="RADIO MALAYSIA🇲🇾",MOLEK FM
+https://stream.rcs.revma.com/z56xa78mtd3vv/16_q0v5zs8l1wqp02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Mutiara%20FM.png" group-title="RADIO MALAYSIA🇲🇾",MUTIARA FM
+https://28153.live.streamtheworld.com/MUTIARA_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/MY.png" group-title="RADIO MALAYSIA🇲🇾",MY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Qz+mjW7JgGdclrta4uAXiQ", "kid":"j2GMEpVaxcQx9fkBRRydEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/119/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/MY%20FRIEND%20FM.png" group-title="RADIO MALAYSIA🇲🇾",MY FRIEND FM
+https://cast3.asurahosting.com/proxy/myfriend/stream
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/MYKAMPUS%20RADIO.png" group-title="RADIO MALAYSIA🇲🇾",MYKAMPUS RADIO
+https://usa10.fastcast4u.com/voicespl
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/MY%20SUARA%20FM.png" group-title="RADIO MALAYSIA🇲🇾",MY SUARA FM
+http://s9.voscast.com:7670/;stream.mp3
+
+#EXTINF:-1 tvg-id="869" tvg-name="NASIONAL FM"tvg-country="MY"tvg-language="MALAY"tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/NAS%20FM.png" tvg-url="" group-title="RADIO MALAYSIA🇲🇾",NAS FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nAgyqNvDbSq1iSYA6mlg/Q", "kid":"rowgBwxwYzOtEyMPBUEcEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/129/default_ott.mpd
+
+#EXTINF:-1 tvg-id="869" tvg-name="NASIONAL FM"tvg-country="MY"tvg-language="MALAY"tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/NAS%20FM.png" tvg-url="" group-title="RADIO MALAYSIA🇲🇾",NAS FM
+https://28163.live.streamtheworld.com/NASIONAL_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/NASYID%20FM.png" group-title="RADIO MALAYSIA🇲🇾",NASYID FM
+http://stereo.nasyidfm.com:8000/;stream.nsv
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/Negeri%20Fm.webp" group-title="RADIO MALAYSIA🇲🇾",NEGERI FM
+https://22273.live.streamtheworld.com/NEGERI_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/OPUS.png" group-title="RADIO MALAYSIA🇲🇾",OPUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sLl8yh+eMRoJ0zJlyFog6A", "kid":"oU+aFEUKlgMrEG1O6BgTEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/120/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/OSAI.png" group-title="RADIO MALAYSIA🇲🇾",OSAI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"y4svIZDNhLYuaHb8xr8kvw", "kid":"CC5RY5jF6hXWuc2lciR8EA" } ], "type":"temporary" } 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/131/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/PAHANG%20FM.png" group-title="RADIO MALAYSIA🇲🇾",PAHANG FM
+https://28103.live.streamtheworld.com/PAHANG_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/PAKCIKKU%20FM.png" group-title="RADIO MALAYSIA🇲🇾",PAKCIKKU FM
+http://bluford.torontocast.com:8078/slowradio32
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/PERAK%20FM.png" group-title="RADIO MALAYSIA🇲🇾",PERAK FM
+https://22273.live.streamtheworld.com/PERAK_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/PERLIS%20FM.png" group-title="RADIO MALAYSIA🇲🇾",PERLIS FM
+https://28153.live.streamtheworld.com/PERLIS_FMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/RADIO%20ROSAK.png" group-title="RADIO MALAYSIA🇲🇾",RADIO ROSAK
+https://radiorosak.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/RAAGA.png" group-title="RADIO MALAYSIA🇲🇾",RAAGA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BYeQ+4hhPmpxAoqvoiWEAw", "kid":"jZum9isUpdVwayEAe8ITEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/134/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/RADIO%20AN%20NUR.png" group-title="RADIO MALAYSIA🇲🇾",RADIO AN NUR
+https://listen.radioannurmainj.my/proxy/radioannur/stream
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/RADIO%20KPKT.png" group-title="RADIO MALAYSIA🇲🇾",RADIO KPKT
+https://listen.kpkt.gov.my/proxy/radiokpkt/stream
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/RAKITA%20107.9.png" group-title="RADIO MALAYSIA🇲🇾",RAKITA 107.9
+https://22243.live.streamtheworld.com/RAKITAAAC/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/RED%20FM.webp" group-title="RADIO MALAYSIA🇲🇾",RED FM
+https://28163.live.streamtheworld.com/RED_FMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SABAH%20FM.png" group-title="RADIO MALAYSIA🇲🇾",SABAH FM
+https://28103.live.streamtheworld.com/SABAH_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SABAH%20V%20FM.png" group-title="RADIO MALAYSIA🇲🇾",SABAH V FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V9QpBgepo6Fj3gc4j831jQ", "kid":"7U3HtuIiXEVjTp1jJyqbEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/133/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SABAH%20V%20FM.png" group-title="RADIO MALAYSIA🇲🇾",SABAH V FM
+https://28103.live.streamtheworld.com/SABAH_VFMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SANA%20SINI%20FM.png" group-title="RADIO MALAYSIA🇲🇾",SANA SINI FM
+https://cast1.asurahosting.com/proxy/sanasini/stream
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SANDAKAN%20FM.png" group-title="RADIO MALAYSIA🇲🇾",SANDAKAN FM
+https://28163.live.streamtheworld.com/SANDAKAN_FMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SARAWAK%20FM.png" group-title="RADIO MALAYSIA🇲🇾",SARAWAK FM
+https://28163.live.streamtheworld.com/SARAWAK_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SELANGOR%20FM.png" group-title="RADIO MALAYSIA🇲🇾",SELANGOR FM
+https://22273.live.streamtheworld.com/SELANGOR_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SIBU%20FM.png" group-title="RADIO MALAYSIA🇲🇾",SIBU FM
+https://28163.live.streamtheworld.com/SIBU_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SINAR.png" group-title="RADIO MALAYSIA🇲🇾",SINAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lFjtduhfGtiqfu/NvWKJCA", "kid":"evPsHy2wd65jdKAYy7SFEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/130/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SINAR.png" group-title="RADIO MALAYSIA🇲🇾",SINAR
+https://stream.rcs.revma.com/azatk0tbv4uvv/6_1h7vqr08pndta02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SINAR%20IRAMA%2070%E2%80%99.webp" group-title="RADIO MALAYSIA🇲🇾",SINAR IRAMA 70’
+https://stream.rcs.revma.com/bb4ey1g811uvv/7_1jnkqqlwj95p802/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SINAR%20IRAMA%2080%E2%80%99.webp" group-title="RADIO MALAYSIA🇲🇾",SINAR IRAMA 80’
+https://stream.rcs.revma.com/xdz7f5g811uvv/9_sdr5jru44fg02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SINAR%20I-MUSIK.webp" group-title="RADIO MALAYSIA🇲🇾",SINAR I-MUSIK
+https://stream.rcs.revma.com/m0mha6g811uvv/2_1a46z9fm6tl9e02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SINAR%20IRAMALAYSIA.webp" group-title="RADIO MALAYSIA🇲🇾",SINAR IRAMALAYSIA
+https://stream.rcs.revma.com/mm13z8g811uvv/14_1dy2qfq5outhb02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SINAR%20JIWANG.webp" group-title="RADIO MALAYSIA🇲🇾",SINAR JIWANG
+https://stream.rcs.revma.com/5s38zah811uvv/12_77qc1bi7nu6q02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SINAR%20POP%20YEH%20YEH.webp" group-title="RADIO MALAYSIA🇲🇾",SINAR POP YEH YEH
+https://stream.rcs.revma.com/1scz4dh811uvv/7_1rr49i6ci7xdf02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SINAR%20ROCK%20KAPAK.webp" group-title="RADIO MALAYSIA🇲🇾",SINAR ROCK KAPAK
+https://stream.rcs.revma.com/rz43weh811uvv/4_1tiuzdrilfkvr02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SINAR%20SINEMA.png" group-title="RADIO MALAYSIA🇲🇾",SINAR SINEMA
+https://stream.rcs.revma.com/h67e7gh811uvv/16_4f1i8j1zuqj102/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SRI%20AMAN%20FM.webp" group-title="RADIO MALAYSIA🇲🇾",SRI AMAN FM
+https://22253.live.streamtheworld.com/SRIAMAN_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SUARA%20RAKYAT%20FM.png" group-title="RADIO MALAYSIA🇲🇾",SUARA RAKYAT FM
+http://s9.voscast.com:7670
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/SURIA.png" group-title="RADIO MALAYSIA🇲🇾",SURIA
+https://28163.live.streamtheworld.com/SURIA_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/TAWAU%20FM.webp" group-title="RADIO MALAYSIA🇲🇾",TAWAU FM
+https://28103.live.streamtheworld.com/TAWAU_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/TERENGGANU%20FM.webp" group-title="RADIO MALAYSIA🇲🇾",TERENGGANU FM
+https://22243.live.streamtheworld.com/TERENGGANU_FMAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/TRAXX%20FM.png" group-title="RADIO MALAYSIA🇲🇾",TRAXX FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hlolq6gTQWR5Gyl5PXuX2w", "kid":"dMauIP9+Me4qoYErx5MTEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/138/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/TRAXX%20FM.png" group-title="RADIO MALAYSIA🇲🇾",TRAXX FM
+https://22273.live.streamtheworld.com/TRAXX_FMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/VOSJ.png" group-title="RADIO MALAYSIA🇲🇾",VOSJ
+https://listen.radioking.com/radio/224413/stream/267892
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/WAI%20FM.webp" group-title="RADIO MALAYSIA🇲🇾",WAI FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vJ314WLFaSZpqOxjZsnk2w", "kid":"veR4S8ZOsyYWnRHBCgsVEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/137/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/WAI%20FM.webp" group-title="RADIO MALAYSIA🇲🇾",WAI FM
+https://22243.live.streamtheworld.com/WAI_FM_IBANAAC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/WAI%20FM.webp" group-title="RADIO MALAYSIA🇲🇾",WAI FM BIDAYUH / KAYAN
+https://28163.live.streamtheworld.com/WAI_FM_BKAAC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/ZAYAN.png" group-title="RADIO MALAYSIA🇲🇾",ZAYAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"isbT6tRhxcFJerJai9H2GQ", "kid":"+DZv2Gbg71ISaLU0RiA2EA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/142/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/ZAYAN.png" group-title="RADIO MALAYSIA🇲🇾",ZAYAN
+https://stream.rcs.revma.com/7ww2a4tbv4uvv
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/ZAYAN%20HAWA%20TUNES.webp" group-title="RADIO MALAYSIA🇲🇾",ZAYAN HAWA TUNES
+https://stream.rcs.revma.com/9e7savh811uvv/11_l6iq9m1magta02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/ZAYAN%20NASYEED.webp" group-title="RADIO MALAYSIA🇲🇾",ZAYAN NASYEED
+https://stream.rcs.revma.com/0q89dxh811uvv/16_1akwoe1eaa6w702/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/ZAYAN%20SURAH.webp" group-title="RADIO MALAYSIA🇲🇾",ZAYAN SURAH
+https://stream.rcs.revma.com/2uuaayh811uvv/4_1gj94jglz0wik02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/refs/heads/main/ZAYAN%20TERJEMAH.webpa" group-title="RADIO MALAYSIA🇲🇾",ZAYAN TERJEMAH
+https://stream.rcs.revma.com/dramduh811uvv/11_1lhbrh2gbhmbm02/playlist.m3u8
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>BRUNEI
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/BRUNEI-LOGO/refs/heads/main/RTB%20ANEKA.png" group-title="BRUNEI🇧🇳",RTB ANEKA
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/BRUNEI-LOGO/refs/heads/main/RTB%20GO.png" group-title="BRUNEI🇧🇳",RTB GO
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/BRUNEI-LOGO/refs/heads/main/RTB%20SUKMAINDERA.png" group-title="BRUNEI🇧🇳",RTB SUKMAINDERA
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Radio_Televisyen_Brunei.svg/1200px-Radio_Televisyen_Brunei.svg.png"tvg-name=",RADIO BRUNEI🇧🇳
+http://youtube.com
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-BRUNEI-LOGO/refs/heads/main/RTB%20HARMONI.png" group-title="RADIO BRUNEI🇧🇳",RTB HARMONI
+https://d2kziuzkf9oizb.cloudfront.net/rd002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-BRUNEI-LOGO/refs/heads/main/RTB%20NASIONAL.webp" group-title="RADIO BRUNEI🇧🇳",RTB NASIONAL
+https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-BRUNEI-LOGO/refs/heads/main/RTB%20NUR%20ISLAM.png" group-title="RADIO BRUNEI🇧🇳",RTB NUR ISLAM
+https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-BRUNEI-LOGO/refs/heads/main/RTB%20PELANGI.webp" group-title="RADIO BRUNEI🇧🇳",RTB PELANGI
+https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-BRUNEI-LOGO/refs/heads/main/RTB%20PILIHAN.webp" group-title="RADIO BRUNEI🇧🇳",RTB PILIHAN
+https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
+
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>INDONESIA
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/AKTV.webp" group-title="INDONESIA🇮🇩",AKTV
+https://e.siar.us/live/aktv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/AL-IMAN%20TV.png" group-title="INDONESIA🇮🇩",AL-IMAN TV
+https://tv.aliman.id/aliman/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/ALWAFA%20TARIM.png" group-title="INDONESIA🇮🇩",ALWAFA TARIM
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/ANTARA%20NEWS.png" group-title="INDONESIA🇮🇩", ANTARA NEWS
+https://streaming.indihometv.com/atm/DASH/antara/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/ANTV.webp" group-title="INDONESIA🇮🇩", ANTV 
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/ASHILL%20TV.webp" group-title="INDONESIA🇮🇩",ASHILL TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/ATAMBUA%20TV.png" group-title="INDONESIA🇮🇩",ATAMBUA TV
+https://63b2dc7196c38.streamlock.net:1937/atambua/myStream/chunklist_w1110314352.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/BALIKPAPAN%20TV.webp" group-title="INDONESIA🇮🇩",BALIKPAPAN TV
+https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/BANDUNG%20TV.png" group-title="INDONESIA🇮🇩",BANDUNG TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/BANTEN%20TV.png" group-title="INDONESIA🇮🇩",BANTEN TV
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/chunklist_w1559299828.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/BATAM%20TV.png" group-title="INDONESIA🇮🇩",BATAM TV
+https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/BTV.png" group-title="INDONESIA🇮🇩",BTV
+http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/BUNGO%20TV.webp" group-title="INDONESIA🇮🇩",BUNGO TV
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/CITRA%20DANGDUT.png" group-title="INDONESIA🇮🇩",CITRA DANGDUT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/CITRA%20DANGDUT.png" group-title="INDONESIA🇮🇩",CITRA DANGDUT
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/CITRA%20DRAMA.webp" group-title="INDONESIA🇮🇩",CITRA DRAMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/CITRA%20DRAMA.webp" group-title="INDONESIA🇮🇩",CITRA DRAMA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/CITRA%20ENTERTAIMENT.webp" group-title="INDONESIA🇮🇩",CITRA ENTERTAIMENT
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/CNBC%20INDONESIA%20HD.png" group-title="INDONESIA🇮🇩",CNBC INDONESIA HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/CNN%20INDONESIA%20HD.webp" group-title="INDONESIA🇮🇩",CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/DAAI%20TV.webp" group-title="INDONESIA🇮🇩",DAAI TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/DAAI%20TV.webp" group-title="INDONESIA🇮🇩",DAAI TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
+https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/DHOHO%20TV.png" group-title="INDONESIA🇮🇩",DHOHO TV
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/DUNIA%20LAIN.webp" group-title="INDONESIA🇮🇩",DUNIA LAIN
+https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/DUTA%20TV.png" group-title="INDONESIA🇮🇩",DUTA TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/ELSHINTA%20TV.webp" group-title="INDONESIA🇮🇩",ELSHINTA TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/GTV.png" group-title="INDONESIA🇮🇩",GTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/IDTV.png" group-title="INDONESIA🇮🇩",IDTV
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8?aux=eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/IDX.png" group-title="INDONESIA🇮🇩",IDX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
+https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
+
+#EXTINF:-1 group-title="INDONESIA🇮🇩" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/INDOSIAR.png",INDOSIAR
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+#EXTINF:-1 group-title="INDONESIA🇮🇩" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/INDOSIAR.png",INDOSIAR
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+
+#EXTINF:-1 group-title="INDONESIA🇮🇩" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/INDOSIAR.png",INDOSIAR
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/INews.png" group-title="INDONESIA🇮🇩",INEWS
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/INSERT.png" group-title="INDONESIA🇮🇩",INSERT
+https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/INSPIRA%20TV.webp" group-title="INDONESIA🇮🇩",INSPIRA TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/JAKARTA%20GLOBENEWS%20CHANNEL.webp" group-title="INDONESIA🇮🇩",JAKARTA GLOBENEWS CHANNEL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
+https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/JAKTV.png" group-title="INDONESIA🇮🇩",JAKTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
+https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/JAMBI%20TV.png" group-title="INDONESIA🇮🇩",JAMBI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/ch23/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/JAWA%20POS%20TV.webp" group-title="INDONESIA🇮🇩", JAWA POS TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/JITV.png" group-title="INDONESIA🇮🇩",JITV
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/JITV.png" group-title="INDONESIA🇮🇩",JITV
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/JTV.png" group-title="INDONESIA🇮🇩",JTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
+https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/KAWANUA%20TV.webp" group-title="INDONESIA🇮🇩",KAWANUA TV
+https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/KOMPAS%20TV.webp" group-title="INDONESIA🇮🇩",KOMPAS TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
+https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/LINGKAR%20TV.png" group-title="INDONESIA🇮🇩",LINGKAR TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/MADU%20TV.png" group-title="INDONESIA🇮🇩",MADU TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/MENTARI%20TV.webp" group-title="INDONESIA🇮🇩",MENTARI TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/METRO%20GLOBE%20NETWORK.png" group-title="INDONESIA🇮🇩",METRO GLOBE NETWORK
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/METRO%20TV.webp" group-title="INDONESIA🇮🇩",METRO TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
+https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/METRO%20TV.webp" group-title="INDONESIA🇮🇩",METRO TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/MNCTV.webp" group-title="INDONESIA🇮🇩",MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/MNCTV.webp" group-title="INDONESIA🇮🇩",MNCTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/MOJI.png" group-title="INDONESIA🇮🇩",MOJI
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/MOJI.png" group-title="INDONESIA🇮🇩",MOJI
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/MQTV.png" group-title="INDONESIA🇮🇩",MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/MUI%20TV.png" group-title="INDONESIA🇮🇩",MUI TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/NATUNA%20TV.png" group-title="INDONESIA🇮🇩",NATUNA TV
+https://63b2dc7196c38.streamlock.net:1937/natuna/myStream/chunklist_w1179708856.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/NUSANTARA%20TV.png" group-title="INDONESIA🇮🇩",NUSANTARA TV
+http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/PADANG%20TV.webp" group-title="INDONESIA🇮🇩",PADANG TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/PJTV%20BANDUNG.png" group-title="INDONESIA🇮🇩",PJTV BANDUNG
+https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/PKTV.png" group-title="INDONESIA🇮🇩",PKTV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/PON%20TV.webp" group-title="INDONESIA🇮🇩",PON TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/PRIMA%20TV.webp" group-title="INDONESIA🇮🇩",PRIMA TV
+https://primatv.siar.us/primatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/RCTI.png" group-title="INDONESIA🇮🇩",RCTI
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/RCTV.png" group-title="INDONESIA🇮🇩",RCTV
+https://v10.siar.us/rctv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/RODJA%20TV.png" group-title="INDONESIA🇮🇩",RODJA TV
+https://cdn09jtedge.indihometv.com/joss/130/rodjatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/RTV.png" group-title="INDONESIA🇮🇩",RTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/SAKTI%20TV.png" group-title="INDONESIA🇮🇩",SAKTI TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/SANGKAJI%20TV%20JOGJA.png" group-title="INDONESIA🇮🇩",SANGKAJI TV JOGJA
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/SCTV.png" group-title="INDONESIA🇮🇩",SCTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/SCTV.png" group-title="INDONESIA🇮🇩",SCTV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/SEMARANG%20TV.png" group-title="INDONESIA🇮🇩",SEMARANG TV
+http://116.254.112.74/hls/cakralive.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/SIMPANG%20LIMA.png" group-title="INDONESIA🇮🇩",SIMPANG LIMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/SINDO%20NEWS%20TV.png" group-title="INDONESIA🇮🇩",SINDO NEWS TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165058
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/SURABAYA%20TV.png" group-title="INDONESIA🇮🇩",SURABAYA TV
+https://e.siar.us/live/surabayatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/SMTV.png" group-title="INDONESIA🇮🇩",SMTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/ch25/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TIMOR%20TV.png" group-title="INDONESIA🇮🇩",TIMOR TV
+https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/chunklist_w689544014.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TRANS%207.png" group-title="INDONESIA🇮🇩",TRANS 7
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TRANS%207.png" group-title="INDONESIA🇮🇩",TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TRANS%20TV.png" group-title="INDONESIA🇮🇩",TRANS TV
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TRANS%20TV.png" group-title="INDONESIA🇮🇩",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TV9%20NU.webp" group-title="INDONESIA🇮🇩",TV9 NU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TV9%20NU.webp" group-title="INDONESIA🇮🇩",TV9 NU
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TVONE.png" group-title="INDONESIA🇮🇩",TVONE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TVRI%20NASIONAL.png" group-title="INDONESIA🇮🇩",TVRI NASIONAL
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TVRI%20DKI%20JAKARTA.png" group-title="INDONESIA🇮🇩",TVRI DKI JAKARTA
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TVRI%20ACEH.png" group-title="INDONESIA🇮🇩",TVRI ACEH
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TVRI%20BALI.png" group-title="INDONESIA🇮🇩",TVRI BALI
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TVRI%20BANGKA%20BELITUNG.png" group-title="INDONESIA🇮🇩",TVRI BANGKA BELITUNG
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TVRI%20BENGKULU.webp" group-title="INDONESIA🇮🇩",TVRI BENGKULU
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu-avc1_1500000=10007-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TVRI%20GORONTALO.png" group-title="INDONESIA🇮🇩",TVRI GORONTALO
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo-avc1_1500000=10008-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TVRI%20JAMBI.png" group-title="INDONESIA🇮🇩",TVRI JAMBI
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TVRI%20JAWA%20BARAT.png" group-title="INDONESIA🇮🇩",TVRI JAWA BARAT
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TVRI%20JAWA%20TENGAH.png" group-title="INDONESIA🇮🇩",TVRI JAWA TENGAH
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TVRI%20JAWA%20TIMUR.png" group-title="INDONESIA🇮🇩",TVRI JAWA TIMUR
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim-avc1_1500000=10008-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TVRI%20KALIMANTAN%20BARAT.png" group-title="INDONESIA🇮🇩",TVRI KALIMANTAN BARAT
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar-avc1_1500000=10006-mp4a_96000_eng=20002.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TVRI%20KALIMANTAN%20TENGAH.png" group-title="INDONESIA🇮🇩",TVRI KALIMANTAN TENGAH
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TVRI%20KALIMANTAN%20TIMUR.png" group-title="INDONESIA🇮🇩",TVRI KALIMANTAN TIMUR
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TVRI%20KALIMANTAN%20SELATAN.png" group-title="INDONESIA🇮🇩",TVRI KALIMANTAN SELATAN
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TVRI%20LAMPUNG.png" group-title="INDONESIA🇮🇩",TVRI LAMPUNG
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung-avc1_1500000=10005-mp4a_96000_eng=20003.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TVRI%20MALUKU.png" group-title="INDONESIA🇮🇩",TVRI MALUKU
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TVRI%20NUSA%20TENGGARA%20BARAT.png" group-title="INDONESIA🇮🇩",TVRI NUSA TENGGARA BARAT
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TVRI%20NUSA%20TENGGARA%20TIMUR.png" group-title="INDONESIA🇮🇩",TVRI NUSA TENGGARA TIMUR
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT-avc1_1500000=10003-
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TVRI%20PAPUA.png" group-title="INDONESIA🇮🇩",TVRI PAPUA
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
