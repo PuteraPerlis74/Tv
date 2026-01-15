@@ -1,87 +1,57 @@
-#EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml,https://bit.ly/pondan-epg,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://aqfadtv.xyz/epg" refresh="1440" max-conn="4" refresh="24" billed-msg="🇲🇾PuteraPerlis Multimedia🇲🇾" vod_library="https://mantop.worst.workers.dev/index.html,https://hangit69.blogspot.com/p/vod-maestro.html,https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/AOTG%20VOD,https://pondan.serv00.net/dewanonton.m3u8,https://drive.usercontent.google.com/u/0/uc?id=117xPiO8VauMhb8tPK6mPpKUcemcIDpbP&export=download,"
+#EXTM3U
+#EXTINF:-1
+tvg-name="ASTRO ARENA" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena.png" group-title="SPORTS",ASTRO ARENA
+http://195.128.24.55:80/play/live.php?mac=00:1A:79:7D:FD:F1&stream=1163654&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://lh4.ggpht.com/f-zQdGn5dAUEybjbCJ94QTfabrzijJBNcADcaWn5dCoA3isCWrnN7-Pj0C73wSCbmHQ=w300" tvg-name=",PUTERA PERLIS MULTIMEDIA
-http://youtube
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>SPORTS
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena.png" group-title="SPORTS",ASTRO ARENA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd|User-Agent=aizzal
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%202.png" group-title="SPORTS",ASTRO ARENA 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTINF:-1
+tvg-name="ASTRO ARENA 2" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%202.png" group-title="SPORTS",ASTRO ARENA 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
-#EXTINF:-1 tvg-id="ASTRO BADMINTON" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Badminton%201.png",ASTRO BADMINTON
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=72ad6eaa1904540138487fffa3ad6510:17c19ad670a557e6882419d6923fad27
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTINF:-1
+ tvg-name="ASTRO BADMINTON" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Badminton%201.png",ASTRO BADMINTON
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%20Bola%201.png" group-title="SPORTS",ASTRO ARENA BOLA
+#EXTINF:-1
+tvg-name="ASTRO ARENA BOLA" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%20Bola%201.png" group-title="SPORTS",ASTRO ARENA BOLA
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Bolaarena1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%20Bola%202.png" group-title="SPORTS",ASTRO ARENA BOLA 2
+#EXTINF:-1
+tvg-name="ASTRO ARENA BOLA 2" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%20Bola%202.png" group-title="SPORTS",ASTRO ARENA BOLA 2
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Bolaarena2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Cricket.png" group-title="SPORTS",ASTRO CRICKET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm; Android 13; SM-A137F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5894.0 Safari/537.36
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/18629.ts
 
-#EXTINF:-1 tvg-id="815" tvg-name="ASTRO FOOTBALL" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Football.png" group-title="SPORTS",ASTRO FOOTBALL
+#EXTINF:-1
+tvg-name="ASTRO FOOTBALL" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Football.png" group-title="SPORTS",ASTRO FOOTBALL
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ASTRO GRANDSTAND" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Grandstand.png",ASTRO GRANDSTAND
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Grandstand.png",ASTRO GRANDSTAND
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Premier%20League%201.png",ASTRO PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Premier%20League%201.png",ASTRO PREMIER LEAGUE
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE 2" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Premier%20League%202.png",ASTRO PREMIER LEAGUE 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Premier%20League%202.png",ASTRO PREMIER LEAGUE 2
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp2/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugi+dn4aXol3fmimmYqMGQ", "kid":"Hs4+y0FpnoVcbcmig5CCEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ASTRO PREMIER LEAGUE 3" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Premier%20League%203.webp",ASTRO PREMIER LEAGUE 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Premier%20League%203.webp",ASTRO PREMIER LEAGUE 3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_primary.mpd
 
-#EXTINF:-1 tvg-id="ASTRO SPORTS PLUS" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Sports%20Plus.png",ASTRO SPORTS PLUS
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Sports%20Plus.png",ASTRO SPORTS PLUS
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
 
-#EXTINF:-1 tvg-id="ASTRO SPORTS UHD" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Sports%20UHD.png",ASTRO SPORTS UHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Sports%20UHD.png",ASTRO SPORTS UHD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Bein%20sports%201.png" group-title="SPORTS",BEIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UQKxKqx3VsZdy0ahAdlg0w","kid":"OcF1WB4jfv+VWWB+ubI8EA"}],"type":"temporary"}
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Bein%20sports%202.png" group-title="SPORTS",BEIN SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BCohvyNspymx40PtbgpjNw","kid":"IMiE747Saydi+LGnjy0ZEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Bein%20sports%203.png" group-title="SPORTS",BEIN SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Celebes%20TV.png" group-title="SPORTS",CELEBES TV
@@ -96,264 +66,204 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Dubai%20Sports.png" group-title="SPORTS",DUBAI SPORTS 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="820" tvg-name="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Eurosports.png" group-title="SPORTS",EUROSPORT HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Eurosports.png" group-title="SPORTS",EUROSPORT HD
 https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
-#EXTINF:-1 tvg-id="822" tvg-name="GOLF CHANNEL" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Golf.png" group-title="SPORTS",GOLF CHANNEL HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Golf.png" group-title="SPORTS",GOLF CHANNEL HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%201.png" group-title="SPORTS",M LIVE 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%202.png" group-title="SPORTS",M LIVE 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%205.png" group-title="SPORTS",M LIVE 5 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
 https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%206.png" group-title="SPORTS",M LIVE 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
 https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPL%2001.png" group-title="SPORTS",M LIVE SPL CH01
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
 https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPL%2002.png" group-title="SPORTS",M LIVE SPL CH02
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Premier%20Sports.png" group-title="SPORTS",PREMIER SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Red%20Bull.png" group-title="SPORTS",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1 tvg-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1
-tvg-name="SPOTV" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPOTV.png" group-title="SPORTS",SPOTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPOTV.png" group-title="SPORTS",SPOTV
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 
-#EXTINF:-1 tvg-name="SPOTV2" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPOTV2.png" group-title="SPORTS",SPOTV2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPOTV2.png" group-title="SPORTS",SPOTV2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Sukan%20RTM.png" group-title="SPORTS",SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/TVRI%20Sport.webp" group-title="SPORTS",TVRI SPORT
+#EXTINF:-1
+tvg-name="TVRI SPORT" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/TVRI%20Sport.webp" group-title="SPORTS",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-id="unifi Sports" tvg-name="unifi Sports" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Unifi%20Sports.png" group-title="SPORTS",UNIFI SPORTS
+#EXTINF:-1
+tvg-name="UNIFI SPORTS" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Unifi%20Sports.png" group-title="SPORTS",UNIFI SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/W-Sport.png" group-title="SPORTS",W-SPORT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>MALAYSIA
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/APETTO%20Malay.png" group-title="RTM SPECIAL",APETITO
+#EXTINF:-1
+tvg-name="APETITO" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/APETTO%20Malay.png" group-title="RTM SPECIAL",APETITO
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/AURA%20Malay.png" group-title="RTM SPECIAL",AURA
+#EXTINF:-1
+tvg-name="AURA" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/AURA%20Malay.png" group-title="RTM SPECIAL",AURA
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/FITRAH%20Malay.png" group-title="RTM SPECIAL",FITRAH
+#EXTINF:-1
+tvg-name="FITRAH" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/FITRAH%20Malay.png" group-title="RTM SPECIAL",FITRAH
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/JR.%20Malay.png" group-title="RTM SPECIAL",JR.
+#EXTINF:-1
+tvg-name="JR." tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/JR.%20Malay.png" group-title="RTM SPECIAL",JR.
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/LEAD%20Malay.png" group-title="RTM SPECIAL",LEAD
+#EXTINF:-1
+tvg-name="LEAD" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/LEAD%20Malay.png" group-title="RTM SPECIAL",LEAD
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/ROLL%20Malay.png" group-title="RTM SPECIAL",ROLL
+#EXTINF:-1
+tvg-name="ROLL" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/ROLL%20Malay.png" group-title="RTM SPECIAL",ROLL
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/SNAP%20MALAY.png" group-title="RTM SPECIAL",SNAP
+#EXTINF:-1
+tvg-name="SNAP" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/SNAP%20MALAY.png" group-title="RTM SPECIAL",SNAP
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
 
-#EXTINF:-1 tvg-name="RTM ASEAN" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/RTM%20ASEAN.png" group-title="MALAYSIA🇲🇾",RTM ASEAN
+#EXTINF:-1 
+tvg-name="RTM ASEAN" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/RTM%20ASEAN.png" group-title="MALAYSIA🇲🇾",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-id="RTMK01" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV1.png" group-title="MALAYSIA🇲🇾",TV1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV1.png" group-title="MALAYSIA🇲🇾",TV1 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-id="RTMK01" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV1.png" group-title="MALAYSIA🇲🇾",TV1 HD
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV1.png" group-title="MALAYSIA🇲🇾",TV1 HD
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv1/index.m3u8
 
-#EXTINF:-1 tvg-id="RTMK02" tvg-name="TV2" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV2.png" group-title="MALAYSIA🇲🇾",TV2 HD
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV2.png" group-title="MALAYSIA🇲🇾",TV2 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
-#EXTINF:-1 tvg-id="RTMK02" tvg-name="TV2" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV2.png" group-title="MALAYSIA🇲🇾",TV2 HD
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV2.png" group-title="MALAYSIA🇲🇾",TV2 HD
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv2/index.m3u8
 
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV3.png" group-title="MALAYSIA🇲🇾",TV3
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV3.png" group-title="MALAYSIA🇲🇾",TV3
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/TV3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV3.png" group-title="MALAYSIA🇲🇾",TV3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xper!a 5 Build/mFjLTNcIil8fCh0eXBlIT1cIn1cImF1ZGlvXCIpIn0.BkWDujdfuYgIuoHodsw1Kshx0h6BhW4egKD8ymY4e2s; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
-
-#EXTINF:-1 tvg-id="RTMK06" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV6.png" group-title="MALAYSIA🇲🇾",TV6
-#EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV6.png" group-title="MALAYSIA🇲🇾",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
-#EXTINF:-1 tvg-id="RTMK06" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV6.png" group-title="MALAYSIA🇲🇾",TV6
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV6.png" group-title="MALAYSIA🇲🇾",TV6
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv6/index.m3u8
 
-#EXTINF:-1 tvg-id="147" tvg-name="DidikTv KPM" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/DidikTV%20KPM.png" group-title="MALAYSIA🇲🇾",DidikTv KPM
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
-https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
-
-#EXTINF:-1 tvg-id="147" tvg-name="DidikTv KPM" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/DidikTV%20KPM.png" group-title="MALAYSIA🇲🇾",DidikTv KPM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead7210:1726083509d570b5de4730ab9f338cc3
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_ott.mpd
-
-#EXTINF:-1 tvg-id="147" tvg-name="DidikTv KPM" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/DidikTV%20KPM.png" group-title="MALAYSIA🇲🇾",DidikTv KPM
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/DidikTV%20KPM.png" group-title="MALAYSIA🇲🇾",DidikTv KPM
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DidikTvKPM/index.m3u8
 
-#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/8TV.png" group-title="MALAYSIA🇲🇾",8TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
-https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
-
-#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/8TV.png" group-title="MALAYSIA🇲🇾",8TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/unifitv/8tv/
-#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my
-https://live.aqfadtv.xyz/8tv/index.mpd
-
-#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/8TV.png" group-title="MALAYSIA🇲🇾",8TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/8TV.png" group-title="MALAYSIA🇲🇾",8TV
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/TV8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV9.png" group-title="MALAYSIA🇲🇾",TV9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/unifitv/tv9/
-#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my
-https://live.aqfadtv.xyz/tv9/index.mpd
-
-#EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV9.png" group-title="MALAYSIA🇲🇾",TV9
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV9.png" group-title="MALAYSIA🇲🇾",TV9
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv9/index.m3u8
 
-#EXTINF:-1 tvg-id="114" tvg-name="AL-HIJRAH" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV%20Alhijrah.png" group-title="MALAYSIA🇲🇾",AL HIJRAH
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"V6jW+eODKIfbGOpgcRGHNg","kid":"QaQvta9FdQHBG7mxWNWhEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 312534-2334-2645-2342-6-23-236-34223-1-2-343-43567-4-123-342) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1113/default_ott.mpd
-
-#EXTINF:-1 tvg-id="114" tvg-name="AL-HIJRAH" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV%20Alhijrah.png" group-title="MALAYSIA🇲🇾",AL HIJRAH
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV%20Alhijrah.png" group-title="MALAYSIA🇲🇾",AL HIJRAH
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Alhijrah_backup/playlist.m3u8
 
-EXTINF:-1 tvg-id="123" tvg-name="AWESOME TV" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Awesome%20TV.png" group-title="MALAYSIA🇲🇾",AWESOME TV
+EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Awesome%20TV.png" group-title="MALAYSIA🇲🇾",AWESOME TV
 http://31.42.187.37:25461/watchpad13158/1234/340
 
-#EXTINF:-1 tvg-id="502" tvg-name="BERNAMA" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Bernama%20TV.png" group-title="MALAYSIA🇲🇾",BERNAMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OaJ6osyEoptmX8xNv5xUtg","kid":"FAa78hjKFPlnA0/PSr93EA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Bernama%20TV.png" group-title="MALAYSIA🇲🇾",BERNAMA
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
-#EXTINF:-1 tvg-id="RTMK04" tvg-name="BERITA RTM" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Berita%20RTM.webp" group-title="MALAYSIA🇲🇾",BERITA RTM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Berita%20RTM.webp" group-title="MALAYSIA🇲🇾",BERITA RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
-#EXTINF:-1 tvg-id="RTMK04" tvg-name="BERITA RTM" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Berita%20RTM.webp" group-title="MALAYSIA🇲🇾",BERITA RTM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Berita%20RTM.webp" group-title="MALAYSIA🇲🇾",BERITA RTM
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/BeritaRTM/index.m3u8
 
-EXTINF:-1 tvg-id="120" tvg-name="DEGUP" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Degup.png" group-title="MALAYSIA🇲🇾",DEGUP
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Degup.png" group-title="MALAYSIA🇲🇾",DEGUP
 https://web.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9uuxH7x3%2FZwmEQ4bTlgbubfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080123%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080123%2Curn:Huawei:liveTV:XTV55631601%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjAoqxfeCUKlKlyq0Ut9doDS_UCjYpOJH6941b57q7s5olw9HLs23l4OoKRnlXaadbaCfrthYVGiPkIFih7y5ZxRxiHOfQJb9in4fdUQouuFKSS8X69W4fEbZld50GyvbpgR0o30ZH1pcTv6FwhJApYBnTzN8jfj5y3CaM-k1NGtOqRhulTVOxZU17lPO9YV8ouzRdkMm_pvAH2BNiIXaBOyNQh4nsfI3xn3vL_m7zCxBl4Ar0AAAA&tenantId=6001
 
-#EXTINF:-1 tvg-id="RTMK08" tvg-name=",DEWAN NEGARA" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Parlimen.png" group-title="MALAYSIA🇲🇾",,DEWAN NEGARA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Parlimen.png" group-title="MALAYSIA🇲🇾",,DEWAN NEGARA
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 
-#EXTINF:-1 tvg-id="RTMK08" tvg-name="DEWAN RAKYAT" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Parlimen.png" group-title="MALAYSIA🇲🇾",DEWAN RAKYAT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Parlimen.png" group-title="MALAYSIA🇲🇾",DEWAN RAKYAT
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Drama%20Sangat.png" group-title="MALAYSIA🇲🇾",DRAMA SANGAT
 http://31.42.187.37:25461/watchpad13158/1234/60
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Drama%20Hebat.png" group-title="MALAYSIA🇲🇾",DRAMA HEBAT
+#EXTINF:-1
+tvg-name="DRAMA HEBAT" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Drama%20Hebat.png" group-title="MALAYSIA🇲🇾",DRAMA HEBAT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Drama%20Hotpot.png" group-title="MALAYSIA🇲🇾",DRAMA HOTPOT
+#EXTINF:-1
+tvg-name="DRAMA HOTPOT" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Drama%20Hotpot.png" group-title="MALAYSIA🇲🇾",DRAMA HOTPOT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 
-#EXTINF:-1 tvg-id="128" tvg-name="DUNIA SINEMA" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Dunia%20Sinema.png" group-title="MALAYSIA🇲🇾",DUNIA SINEMA
+#EXTINF:-1
+tvg-name="DUNIA SINEMA"
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Dunia%20Sinema.png" group-title="MALAYSIA🇲🇾",DUNIA SINEMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Filem%20Mantap.png" group-title="MALAYSIA🇲🇾",FILEM MANTAP
+#EXTINF:-1
+tvg-name="FILEM MANTAP" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Filem%20Mantap.png" group-title="MALAYSIA🇲🇾",FILEM MANTAP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
 
-#EXTINF:-1 tvg-id="300" tvg-name="ASTRO iQIYI" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Iqiyi.png" group-title="MALAYSIA🇲🇾",iQIYI HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Iqiyi.png" group-title="MALAYSIA🇲🇾",iQIYI HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 
-#EXTINF:-1 tvg-id="118" tvg-name="INSPIRASI" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Inspirasi%20HD.png" group-title="MALAYSIA🇲🇾",INSPIRASI
+#EXTINF:-1
+tvg-name="INSPIRASI" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Inspirasi%20HD.png" group-title="MALAYSIA🇲🇾",INSPIRASI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/unifitv/inspirasi/
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Jom%20Ngaji.png" group-title="MALAYSIA🇲🇾",JOM NGAJI
+#EXTINF:-1
+tvg-name="JOM NGAJI" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Jom%20Ngaji.png" group-title="MALAYSIA🇲🇾",JOM NGAJI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Lawak%20Sentral.png" group-title="MALAYSIA🇲🇾",LAWAK SENTRAL
+#EXTINF:-1
+tvg-name="LAWAK SENTRAL" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Lawak%20Sentral.png" group-title="MALAYSIA🇲🇾",LAWAK SENTRAL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -367,18 +277,22 @@ https://dedm91s0p00ib.cloudfront.net/smil:selangor/playlist.m3u8?id=1&CMCD=cid%3
 tvg-name="MEDIA SELANGOR" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Media%20Selangor.png" group-title="MALAYSIA🇲🇾",MEDIA SELANGOR
 https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist b3128000_slmsa.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Oh%20My%20Ceria.png" group-title="MALAYSIA🇲🇾",OH MY CERIA!
+#EXTINF:-1
+tvg-name="OH MY CERIA!" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Oh%20My%20Ceria.png" group-title="MALAYSIA🇲🇾",OH MY CERIA!
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
-#EXTINF:-1 tvg-id="113" tvg-name="SALAM HD" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Salam%20HD.webp" group-title="MALAYSIA🇲🇾",SALAM HD
+#EXTINF:-1
+tvg-name="SALAM HD" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Salam%20HD.webp" group-title="MALAYSIA🇲🇾",SALAM HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
 
-#EXTINF:-1 tvg-id="121" tvg-name="SIAR" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/SIAR.webp" group-title="MALAYSIA🇲🇾",SIAR
+
+#EXTINF:-1
+tvg-name="SIAR" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/SIAR.webp" group-title="MALAYSIA🇲🇾",SIAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
@@ -401,237 +315,124 @@ https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 tvg-name="TV IKIM" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Tv%20Ikim.png" group-title="MALAYSIA🇲🇾",TV IKIM
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvIkim/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Okey.png" group-title="MALAYSIA🇲🇾",TV OKEY
+#EXTINF:-1
+tvg-name="TV OKEY" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Okey.png" group-title="MALAYSIA🇲🇾",TV OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Okey.png" group-title="MALAYSIA🇲🇾",TV OKEY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yEdSMcCdwbY5iGl2tvx1dQ","kid":"YPICsWQH/t2ONpwyr1fdEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Okey.png" group-title="MALAYSIA🇲🇾",TV OKEY
+#EXTINF:-1
+tvg-name="TV OKEY" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Okey.png" group-title="MALAYSIA🇲🇾",TV OKEY
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvOkey/index.m3u8
 
-#EXTINF:-1 tvg-id="122" tvg-name="TVS" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TVS.png" group-title="MALAYSIA🇲🇾",TVS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
-
-#EXTINF:-1 tvg-id="306" tvg-name="ASTRO AEC" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20AEC.png" group-title="MALAYSIA🇲🇾",ASTRO AEC HD
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20AEC.png" group-title="MALAYSIA🇲🇾",ASTRO AEC HD
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/AEC/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20AOD.png" group-title="MALAYSIA🇲🇾",ASTRO AOD HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F24pOLznldHIVVmiRAR39w","kid":"KGrvTo2F22bgX+Slx5nkEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Aura.png" group-title="MALAYSIA🇲🇾",ASTRO AURA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-id="501" tvg-name="ASTRO AWANI" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Awani.png" group-title="MALAYSIA🇲🇾",ASTRO AWANI
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Awani.png" group-title="MALAYSIA🇲🇾",ASTRO AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
-#EXTINF:-1 tvg-id="501" tvg-name="ASTRO AWANI" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Awani.png" group-title="MALAYSIA🇲🇾",ASTRO AWANI
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Awani.png" group-title="MALAYSIA🇲🇾",ASTRO AWANI
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/AstroAwani/index.m3u8
 
-#EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Citra.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Citra.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Citra/playlist.m3u8
 
-#EXTINF:-1 tvg-id="333" tvg-name="ASTRO HUA HEE DAI" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Hua%20Hee%20Dai.png" group-title="MALAYSIA🇲🇾",ASTRO HUA HEE DAI
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yKD35puzHf1HXaJvxsYAOw", "kid":"YFB+8NycgT1fjHsiKUEvEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Hua%20Hee%20Dai.png" group-title="MALAYSIA🇲🇾",ASTRO HUA HEE DAI
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
 
-#EXTINF:-1 tvg-id="106" tvg-name="ASTRO OASIS" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Oasis.png" group-title="MALAYSIA🇲🇾",ASTRO OASIS HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Oasis.png" group-title="MALAYSIA🇲🇾",ASTRO OASIS HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
-#EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Prima.png" group-title="MALAYSIA🇲🇾",ASTRO PRIMA HD
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Prima.png" group-title="MALAYSIA🇲🇾",ASTRO PRIMA HD
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Prima/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20QJ.png" group-title="MALAYSIA🇲🇾",ASTRO QJ
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/sooka/qj/
-##KODIPROP:inputstream.adaptive.license_key={"36978c8e295e42ccbcc45d719e32e7f3":"22c4936cc4dcab2daf96a36a5c12257e","f5e95e7e52194b8f8e254a75ef1904dc":"40f8e7cc17810c91dfa22a52e72af7e8"}
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=2507/
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Rania.png" group-title="MALAYSIA🇲🇾",ASTRO RANIA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
-#http://wanjiatv.net/ydmt/smrt.php?playurl=http://198.16.100.186:8278/Ria-0/playlist.m3u8
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Ria-0/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Thangathirai.png" group-title="MALAYSIA🇲🇾",ASTRO THANGATHIRAI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Tutor%20TV.png" group-title="MALAYSIA🇲🇾",ASTRO TUTUR TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm; Android 13; SM-A137F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5894.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5071
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
 
-#EXTINF:-1 tvg-id="201" tvg-name="ASTRO VAANAVIL" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Vaanavil.png" group-title="MALAYSIA🇲🇾",ASTRO VAANAVIL 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tUFjJhFKE+kGYqT7rzxTKw", "kid":"ckmcatRMw32VqQdUIJEREA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Vaanavil.png" group-title="MALAYSIA🇲🇾",ASTRO VAANAVIL 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wSi75B6U0Vp/jML2JTpUsg", "kid":"nESvi1lLYVf1XTwxvWecEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Vellithirai.png" group-title="MALAYSIA🇲🇾",ASTRO VELLITHIRAI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/ADITHYA.webp" group-title="MALAYSIA🇲🇾",ADITHYA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XrN2KxpGMaC5jiXiPO8Bkw", "kid":"hZ9bIFTEBz6PDaRj0gi5EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 17223-43-223532-432-4121-32-43-2-1212-3124-12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/CCTV%204.png" group-title="MALAYSIA🇲🇾",CCTV4 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/403
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm; Android 13; SM-A137F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5894.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Cti%20Asia.png" group-title="MALAYSIA🇲🇾",CTI ASIA HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9anK3qI3KlLCuR+cJh/gpA","kid":"1iZZjCq0UlN1Cdy4qG25EA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/KTV.png" group-title="MALAYSIA🇲🇾",KTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"c2SM66N1FkWSbUVCHIXZJw", "kid":"jnhjqOdwsNcuvkpoQ3tkEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Phoenix%20Chinese.png" group-title="MALAYSIA🇲🇾",PHOENIX CHINESE CHANNEL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/Wvhzqn6I8mPIPGyq8ridg", "kid":"UXwwjvZBmxdn6a5xDIl3EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Phoenix%20Info.png" group-title="MALAYSIA🇲🇾",PHOENIX INFO NEWS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"i563q3GWpCXZq2GKXJ+Z2Q", "kid":"lylVipv/jZR3S/ovAZoTEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Star%20Vijay.png" group-title="MALAYSIA🇲🇾",STAR VIJAY HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0ByBBQ36swnGvn5g0Dwtgg", "kid":"rzVgin1LE9EVjC721sGgEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 9527821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Sun%20Life.png" group-title="MALAYSIA🇲🇾",SUN LIFE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cmMEcIxCn2E+wtxTYZ1vdg", "kid":"4+G+lObBk/oheHzoQ122EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Sun%20Music.png" group-title="MALAYSIA🇲🇾",SUN MUSIC HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2gpwFI4SbrQMzgJmV1OJbQ", "kid":"vqypRh98oNWLpSn+0ue2EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/SUN%20NEWS%20Malay.png" group-title="MALAYSIA🇲🇾",SUN NEWS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rAh5IEchjKKgHyu9EtkFAQ", "kid":"ChccwbuQ94ggzyXMVfDuEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Sun%20TV.png" group-title="MALAYSIA🇲🇾",SUN TV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"699Wuko1YsyCBTopUpdUMg", "kid":"gwdv8vaNF2S1WcQyq0nKEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Tvb%20Classic.png" group-title="MALAYSIA🇲🇾",TVB CLASSIC HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kzric7Fmuqj7ID7vGnrb3w", "kid":"BxRIaQoOybJ+ssGn1eAwEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TVB%20ENTERTAINMENT%20NEWS%20Malay.png" group-title="MALAYSIA🇲🇾",TVB ENTERTAINMENT NEWS
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"r3EKBv1nl1uZ20pHp1e4Sw", "kid":"+mKcNkDOUzx1VQn2f3XmEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TVB%20Jade_logo.png" group-title="MALAYSIA🇲🇾",TVB JADE 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"y54aEi7RxkRffT/SFiNY8Q","kid":"/hIZAZqfNs3vNHCI5ZLKEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TVB%20Jade_logo.png" group-title="MALAYSIA🇲🇾",TVB JADE
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TVB%20Magic.webp" group-title="MALAYSIA🇲🇾",TVB MAGIC
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"61ss7EhVFCFvfCXRAquKEw", "kid":"SaENBhDnALSyDdHJGi/DEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5107/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TVB%20Xing%20He_logo.png" group-title="MALAYSIA🇲🇾",TVB XING HE HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7PtFSy8+I4xbXcGW5PkfuA", "kid":"424Mve8Gd7SNulxj6MqvEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TVBS%20Asia.png" group-title="MALAYSIA🇲🇾",TVBS ASIA HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NG8PYMvXWR4a5yyliRV7sQ", "kid":"52qJoeI/j3uCj029wtCaEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TVBS%20NEWS.png" group-title="MALAYSIA🇲🇾",TVBS NEWS HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"H9+Erb4F2Bg9FAuaLhFqlg", "kid":"NohqOcENsdQLR1qoz39rEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5008/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Zee%20Tamil.png" group-title="MALAYSIA🇲🇾",ZEE TAMIL HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Znoz9NW7NYfy1SCYhoOerA", "kid":"DU4+fawtWLk7+BmnL+jVEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+#EXTINF:-1
+tvg-name="ZEE TAMIL HD" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Zee%20Tamil.png" group-title="MALAYSIA🇲🇾",ZEE TAMIL HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
 
