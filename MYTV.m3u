@@ -1464,14 +1464,13 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/ELSHINTA%20TV.webp" group-title="INDONESIA🇮🇩",ELSHINTA TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/ELSHINTA%20TV.webp" group-title="INDONESIA🇮🇩",ENT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Ent_Channel_Logo.png" group-title="INDONESIA🇮🇩",ENT
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 https://fta2-cdn-flr.vi
-
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/FLIK.png" group-title="INDONESIA🇮🇩",FLIK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1873,7 +1872,7 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1395725734
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/UGTV.png" group-title="INDONESIA🇮🇩",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/UGTV.png" group-title="INDONESIA🇮🇩",UNIQUES
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="INDONESIA🇮🇩",UNIQUES
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
