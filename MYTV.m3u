@@ -3,6 +3,33 @@
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/f-zQdGn5dAUEybjbCJ94QTfabrzijJBNcADcaWn5dCoA3isCWrnN7-Pj0C73wSCbmHQ=w300" tvg-name=",PUTERA PERLIS MULTIMEDIA
 http://youtube
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>WORLD CUP 2026
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
+#EXTINF:-1 tvg-id="720" tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-1.png" group-title="WORLD CUP 2026" group-logo="https://iili.io/q9KNAxa.png",FIFA World Cup 2026 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.1363312843 Safari/537.36
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=fifa1&provider=mytech 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60a3773de4054a9680d6ca2277870a97:0ed58cdb97aaa8efba47b865ea7e8958
+#EXTINF:-1 tvg-id="721" tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-2.png" group-title="WORLD CUP 2026" group-logo="https://iili.io/q9KNAxa.png",FIFA World Cup 2026 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.1363312843 Safari/537.36
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=fifa2&provider=mytech
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f88c0e6ef2de4f92b7ce07e50cb2d937:7aff86770a0f0ac16b91a372e148a8bd
+#EXTINF:-1 tvg-id="722" tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-3.png" group-title="WORLD CUP 2026" group-logo="https://iili.io/q9KNAxa.png",FIFA World Cup 2026 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.1363312843 Safari/537.36
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=fifa3&provider=mytech 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Sukan%20RTM.png" group-title="WORLD CUP 2026",SUKAN RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Okey.png" group-title="WORLD CUP 2026",TV OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>SPORTS
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
