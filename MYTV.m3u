@@ -8,27 +8,37 @@ http://youtube
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
-#EXTINF:-1 tvg-id="720" tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-1.png" group-title="WORLD CUP 2026" group-logo="https://iili.io/q9KNAxa.png",FIFA World Cup 2026 1
+#EXTINF:-1 tvg-id="720" tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-1.png" group-title="WORLD CUP 2026" group-logo="https://iili.io/q9KNAxa.png",UNIFI World Cup 2026 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.1363312843 Safari/537.36
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=fifa1&provider=mytech 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60a3773de4054a9680d6ca2277870a97:0ed58cdb97aaa8efba47b865ea7e8958
-#EXTINF:-1 tvg-id="721" tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-2.png" group-title="WORLD CUP 2026" group-logo="https://iili.io/q9KNAxa.png",FIFA World Cup 2026 2
+#EXTINF:-1 tvg-id="721" tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-2.png" group-title="WORLD CUP 2026" group-logo="https://iili.io/q9KNAxa.png",UNIFI World Cup 2026 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.1363312843 Safari/537.36
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=fifa2&provider=mytech
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f88c0e6ef2de4f92b7ce07e50cb2d937:7aff86770a0f0ac16b91a372e148a8bd
-#EXTINF:-1 tvg-id="722" tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-3.png" group-title="WORLD CUP 2026" group-logo="https://iili.io/q9KNAxa.png",FIFA World Cup 2026 3
+#EXTINF:-1 tvg-id="722" tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-3.png" group-title="WORLD CUP 2026" group-logo="https://iili.io/q9KNAxa.png",UNIFI World Cup 2026 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.1363312843 Safari/537.36
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=fifa3&provider=mytech 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Sukan%20RTM.png" group-title="WORLD CUP 2026",SUKAN RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-1-Dolby.png" group-title="WORLD CUP 2026" group-logo="https://iili.io/q9KNAxa.png",RTM WORLD CUP 2026 1
+https://d30aylox5wvifh.cloudfront.net/live/media0/wc1/DASH/wc1.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Okey.png" group-title="WORLD CUP 2026",TV OKEY
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-2-Dolby.png" group-title="WORLD CUP 2026" group-logo="https://iili.io/q9KNAxa.png",RTM WORLD CUP 2026 2
+https://d30aylox5wvifh.cloudfront.net/live/media0/wc2/DASH/wc2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-3-Dolby.png" group-title="WORLD CUP 2026" group-logo="https://iili.io/q9KNAxa.png",RTM WORLD CUP 2026 3
+https://d30aylox5wvifh.cloudfront.net/live/media0/wc3/DASH/wc3.mpd
+
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>SPORTS
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
