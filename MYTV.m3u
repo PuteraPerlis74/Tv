@@ -39,6 +39,29 @@ https://d30aylox5wvifh.cloudfront.net/live/media0/wc2/DASH/wc2.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-3-Dolby.png" group-title="WORLD CUP 2026" group-logo="https://iili.io/q9KNAxa.png",RTM WORLD CUP 2026 3
 https://d30aylox5wvifh.cloudfront.net/live/media0/wc3/DASH/wc3.mpd
 
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="WORLD CUP 2026", WORLD CUP 2026 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="WORLD CUP 2026", WORLD CUP 2026 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Sukan%20RTM.png" group-title="WORLD CUP 2026",SUKAN RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Okey.png" group-title="WORLD CUP 2026",TV OKEY
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey/DASH/okey.mpd
+
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>SPORTS
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -276,6 +299,11 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1 tvg-name="RTM ASEAN" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/RTM%20ASEAN.png" group-title="MALAYSIA🇲🇾",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SalamBaitullah.jpg" group-title="MALAYSIA🇲🇾",SALAM BAITULMAL
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV1.png" group-title="MALAYSIA🇲🇾",TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
