@@ -4,34 +4,6 @@
 http://youtube
 
 
-
-#EXTINF:-1  tvg-id="576059" group-title="Commonwealth Games Glasgow 2026" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250", Commonwealth Games CH01
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
-https://ls-mp03.eo-edgefunctions7.com/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
-
-#EXTINF:-1  tvg-id="576060" group-title="Commonwealth Games Glasgow 2026" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298974'&EntityType='Item'&EntityId='576060'&Width=289&Height=250", Commonwealth Games CH02
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
-https://ls-mp01.eo-edgefunctions7.com/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
-
-#EXTINF:-1  tvg-id="576061" group-title="Commonwealth Games Glasgow 2026" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298979'&EntityType='Item'&EntityId='576061'&Width=289&Height=250", Commonwealth Games CH03
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
-https://ls-mp02.eo-edgefunctions7.com/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
-
-#EXTINF:-1  tvg-id="580750" group-title="Commonwealth Games Glasgow 2026" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298988'&EntityType='Item'&EntityId='580750'&Width=289&Height=250", Commonwealth Games CH04
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
-https://ls-mp04.eo-edgefunctions7.com/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
-
-#EXTINF:-1  tvg-id="580751" group-title="Commonwealth Games Glasgow 2026" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298994'&EntityType='Item'&EntityId='580751'&Width=289&Height=250", Commonwealth Games CH05
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
-https://ls-mp03.eo-edgefunctions7.com/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
-
-
-
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>ASTRO AUDIO
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -544,7 +516,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 https://ptv2026.com/myunifi.mpd?channel=DuniaSin&kid=01a17625-701e-4734-b02a-a22c8657bd6f
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Inspirasi%20HD.png" group-title="MALAYSIA🇲🇾",INSPIRASI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Inspirasi%20HD.png" group-title="MALAYSIA🇲🇾",INSPIRASI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -557,14 +529,14 @@ https://dedm91s0p00ib.cloudfront.net/smil:selangor/playlist.m3u8?id=1&CMCD=cid%3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Media%20Selangor.png" group-title="MALAYSIA🇲🇾",MEDIA SELANGOR
 https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist b3128000_slmsa.m3u8
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Pesona%20HD.png" group-title="MALAYSIA🇲🇾",PESONA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Pesona%20HD.png" group-title="MALAYSIA🇲🇾",PESONA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6a2211cff9545979f6f1a09851fa495:804119b128f5fe51dba371d18b3c70c5
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Pesona&kid=d6a2211c-ff95-4597-9f6f-1a09851fa495|user-agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Salam%20HD.webp" group-title="MALAYSIA🇲🇾",SALAM HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Salam%20HD.webp" group-title="MALAYSIA🇲🇾",SALAM HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -572,14 +544,14 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LO
 #KODIPROP:inputstream.adaptive.license_key=32b2e71761af4641900f87df03c48cb2:974839fd58393a4e16b07d7027b05868
 https://get.perfecttv.net/myunifi.mpd?username=vip_pjgkj04t&password=sM53WzmS&channel=Salam&kid=32b2e717-61af-4641-900f-87df03c48cb2
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Sensasi.webp" group-title="MALAYSIA🇲🇾",SENSASI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Sensasi.webp" group-title="MALAYSIA🇲🇾",SENSASI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ba270026f0a4b29956ace51335fb1ac:edb6adbe31609226e737e515ba813169
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Sensasi&kid=6ba27002-6f0a-4b29-956a-ce51335fb1ac
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/SIAR.webp" group-title="MALAYSIA🇲🇾",SIAR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/SIAR.webp" group-title="MALAYSIA🇲🇾",SIAR
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
 https://ptv2026.com/myunifi.mpd?channel=SIAR&kid=5489f58c-64ad-40db-a471-c8b1c2693e2a|user-agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
@@ -2202,7 +2174,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
-EXTINF:-1 tvg-id="412" tvg-name="CINEMAX HD" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/main/CINEMAX%20HD.png" group-title="MOVIES",CINEMAX
+#EXTINF:-1 tvg-id="412" tvg-name="CINEMAX HD" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/main/CINEMAX%20HD.png" group-title="MOVIES",CINEMAX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2212,28 +2184,28 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/FLICKS%20OF%20FURY.webp" group-title="MOVIES",FLICKS OF FURY
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
 
-EXTINF:-1 tvg-id="411" tvg-name="HBO HD" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/main/HBO%20HD.png" group-title="MOVIES",HBO
+#EXTINF:-1 tvg-id="411" tvg-name="HBO HD" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/main/HBO%20HD.png" group-title="MOVIES",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBO&kid=7ad888ee-5dd6-496a-8c2c-77a6284ff936|user-agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 
-EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/HBO%20FAMILY%20HD.png" group-title="MOVIES",HBO FAMILY HD
+#EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/HBO%20FAMILY%20HD.png" group-title="MOVIES",HBO FAMILY HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOF&kid=98e8255f-ae9b-41ae-bb33-4645a916c82b|user-agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 
-EXTINF:-1 tvg-id="415" tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/main/HBO%20HITS%20HD.png" group-title="MOVIES",HBO HITS HD
+#EXTINF:-1 tvg-id="415" tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/main/HBO%20HITS%20HD.png" group-title="MOVIES",HBO HITS HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOH&kid=437a4a8d-fb31-4f81-883c-7894c99e72bf
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO SIGNATURE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO SIGNATURE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
@@ -2316,4 +2288,3 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f4ea7be45af4275a8d76845fb19dba5:b02208ea61a2cdbf5b09440bc3157f04
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=WarnerTV&kid=6f4ea7be-45af-4275-a8d7-6845fb19dba5|user-agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
-
