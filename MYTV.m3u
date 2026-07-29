@@ -2362,7 +2362,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/in
 #KODIPROP:inputstream.adaptive.license_key=6f4ea7be45af4275a8d76845fb19dba5:b02208ea61a2cdbf5b09440bc3157f04
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=WarnerTV&kid=6f4ea7be-45af-4275-a8d7-6845fb19dba5|user-agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/ZEE%20BIOSKOP.webp" group-title="MOVIES",ZEE BIOSKOP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/ZEE%20BIOSKOP.webp" group-title="MOVIES",ZEE BIOSKOP
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
