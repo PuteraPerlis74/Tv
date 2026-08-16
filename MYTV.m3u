@@ -1093,7 +1093,7 @@ https://28163.live.streamtheworld.com/MIRI_FMAAC
 https://28153.live.streamtheworld.com/MELAKA_FMAAC
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/main/Molek%20FM.webp" group-title="MALAYSIA AUDIO🇲🇾",MOLEK FM
-https://stream.rcs.revma.com/z56xa78mtd3vv/16_q0v5zs8l1wqp02/playlist.m3u8
+https://stream.rcs.revma.com/z56xa78mtd3vv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/main/Mutiara%20FM.png" group-title="MALAYSIA AUDIO🇲🇾",MUTIARA FM
 https://28153.live.streamtheworld.com/MUTIARA_FMAAC
@@ -1174,7 +1174,7 @@ https://22253.live.streamtheworld.com/SRIAMAN_FMAAC
 http://s9.voscast.com:7670
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/main/SURIA.png" group-title="MALAYSIA AUDIO🇲🇾",SURIA
-https://28163.live.streamtheworld.com/SURIA_FMAAC
+https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/RADIO-MALAYSIA-LOGO/main/TAWAU%20FM.webp" group-title="MALAYSIA AUDIO🇲🇾",TAWAU FM
 https://28103.live.streamtheworld.com/TAWAU_FMAAC
