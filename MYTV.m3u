@@ -32,6 +32,35 @@ https://ls-mp04.eo-edgefunctions7.com/out/v1/4604623e7ff4462a962275664ccd8ee5/ma
 #KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
 https://ls-mp03.eo-edgefunctions7.com/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
 
+#EXTINF:-1 tvg-id="795.astro" tvg-name="" group-title="20th Asian Games Aichi-Nagoya 2026" group-logo="https://iili.io/CN3tDy7.png" ch-number="795" tvg-logo="https://i.ibb.co/8nVY2Hd1/ASG26-IVP-LAND-917x516.jpg",ASG1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e6284c2123706edefc59bb0c0548e10:c5f3d526135aa295d290f76ee6cb7479
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D920I Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5601/default_primary.mpd
+
+#EXTINF:-1 tvg-id="796.astro" tvg-name="" group-title="20th Asian Games Aichi-Nagoya 2026" group-logo="https://iili.io/CN3tDy7.png" ch-number="796" tvg-logo="https://i.ibb.co/8nVY2Hd1/ASG26-IVP-LAND-917x516.jpg",ASG2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=339cbed6dbf4fef81a19d9168feb7910:52a5c7fecad0558e094903fdc8b7cd77
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D920I Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5602/default_primary.mpd
+
+#EXTINF:-1 tvg-id="797.astro" tvg-name="" group-title="20th Asian Games Aichi-Nagoya 2026" group-logo="https://iili.io/CN3tDy7.png" ch-number="797" tvg-logo="https://i.ibb.co/8nVY2Hd1/ASG26-IVP-LAND-917x516.jpg",ASG3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=500b319392940c187ba932a698780710:ebeae1a0c632461ef99d19122e9408e5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D920I Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5603/default_primary.mpd
+
+#EXTINF:-1 tvg-id="798.astro" tvg-name="" group-title="20th Asian Games Aichi-Nagoya 2026" group-logo="https://iili.io/CN3tDy7.png" ch-number="798" tvg-logo="https://i.ibb.co/8nVY2Hd1/ASG26-IVP-LAND-917x516.jpg",ASG4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c4895263310ac2bdaa9ccff1b654510:81e12ab4c7bb25b2d9f5849c794379de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D920I Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5604/default_primary.mpd
+
+#EXTINF:-1 tvg-id="799.astro" tvg-name="" group-title="A20th Asian Games Aichi-Nagoya 2026" group-logo="https://iili.io/CN3tDy7.png" ch-number="799" tvg-logo="https://i.ibb.co/8nVY2Hd1/ASG26-IVP-LAND-917x516.jpg",ASG5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=19632b63cf668de01b77ded6d7a9af10:d69222bf7b387b1b72a358e0b8db5402
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D920I Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5605/default_primary.mpd
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>ASTRO AUDIO
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
