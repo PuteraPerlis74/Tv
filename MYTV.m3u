@@ -56,7 +56,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5603/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D920I Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5604/default_primary.mpd
 
-#EXTINF:-1 tvg-id="799.astro" tvg-name="" group-title="A20th Asian Games Aichi-Nagoya 2026" group-logo="https://iili.io/CN3tDy7.png" ch-number="799" tvg-logo="https://i.ibb.co/8nVY2Hd1/ASG26-IVP-LAND-917x516.jpg",ASG5
+#EXTINF:-1 tvg-id="799.astro" tvg-name="" group-title="20th Asian Games Aichi-Nagoya 2026" group-logo="https://iili.io/CN3tDy7.png" ch-number="799" tvg-logo="https://i.ibb.co/8nVY2Hd1/ASG26-IVP-LAND-917x516.jpg",ASG5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=19632b63cf668de01b77ded6d7a9af10:d69222bf7b387b1b72a358e0b8db5402
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D920I Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
