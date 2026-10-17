@@ -581,7 +581,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Aura.png" group-title="MALAYSIA🇲🇾",ASTRO AURA
-https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Shield TV Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
+https://linears2-playback.astro.com.my/vsg/41llhE6qRZrhahKj901LfCpf9Q2D0s7FqhypHYcfLPoKc=s8ee/dash-wv/jitp-linearwm/609/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Citra.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -609,7 +612,7 @@ https://linears2-playback.astro.com.my/vsg/418roZ9Lems5qCKdepdqGq-0xgQN1TUjIowKV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Shield TV Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
-https://linears2-playback.astro.com.my/vsg/41o_bLgViAllclUGF_t9hHI-5Pei0CYzWYXyU7rGkI6Rw=Sj5O/dash-wv/jitp-linearwm/608/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41o_bLgViAllclUGF_t9hHI6YqxEkej_rcMe5bsyOkW4M=vDQA/dash-wv/jitp-linearwm/608/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
